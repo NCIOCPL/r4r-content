@@ -24,6 +24,7 @@ collections:
       - label: "Divisions, Offices and Centers (DOCs)"
         name: "docs"
         widget: "list"
+        default: []
         fields:
           - label: "DOC"
             name: "doc"
@@ -34,6 +35,7 @@ collections:
       - label: "Points of Contact"
         name: "poc"
         widget: "list"
+        default: []
         fields:
           - label: "Name"
             name: "name"
