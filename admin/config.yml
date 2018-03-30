@@ -15,12 +15,14 @@ collections:
   - name: "resource" ## The type of object
     label: "Resource" ## The label used in the UI
     folder: "resources" ## Where the content is stored
+    format: "yaml-frontmatter"
     create: true ## New items can be created.
-    slug: "" ## The filename to create
+    slug: "{{slug}}" ## The filename to create
     fields: # The fields
       - {label: "ID", name: "id", widget: "number" }
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Content", name: "body", widget: "markdown"}
       - label: "Divisions, Offices and Centers (DOCs)"
         name: "docs"
         widget: "list"
