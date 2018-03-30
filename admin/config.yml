@@ -7,7 +7,7 @@ backend:
 # require some reviews and approvals 
 publish_mode: editorial_workflow
 
-media_folder: ""
+media_folder: "assets/uploads"
 
 # Define the content model
 collections:
