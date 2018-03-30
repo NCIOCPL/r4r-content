@@ -1,0 +1,46 @@
+# Defines hosting/authentication
+backend:
+  name: git-gateway
+  branch: master
+
+# Instead of just pushing directly to master,
+# require some reviews and approvals 
+publish_mode: editorial_workflow
+
+# Define the content model
+collections:
+  - name: "resource" ## The type of object
+    label: "Resource" ## The label used in the UI
+    folder: "resources" ## Where the content is stored
+    create: true ## New items can be created.
+    slug: "" ## The filename to create
+    fields: # The fields
+      - {label: "ID", name: "id", widget: "number" }
+      - {label: "Title", name: "title", widget: "string" }
+      - {label: "Description", name: "description", widget: "markdown"}
+      - label: "Divisions, Offices and Centers (DOCs)"
+        name: "docs"
+        widget: "list"
+        fields:
+          - label: "DOC"
+            name: "doc"
+            widget: "select"
+            options:
+              - { label: "DCEG", value: { key: "dceg", label: "Div..." } }
+              - { label: "CBIIT", value: { key: "cbiit", label: "Center..." } }
+      - label: "Points of Contact"
+        name: "poc"
+        widget: "list"
+        fields:
+          - label: "Name"
+            name: "name"
+            widget: "object"
+            fields:
+              - {label: "Prefix", name: "prefix", widget: "string"}
+              - {label: "First Name", name: "firstname", widget: "string"}
+              - {label: "Middle Name", name: "middlename", widget: "string"}
+              - {label: "Last Name", name: "lastname", widget: "string"}
+              - {label: "Suffix", name: "suffix", widget: "string"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Phone", name: "phone", widget: "string"}
+          - {label: "E-Mail", name: "email", widget: "string"}      
