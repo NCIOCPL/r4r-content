@@ -1,8 +1,10 @@
 # Defines hosting/authentication
 backend:
-  name: test-repo
+#  name: test-repo
 #  name: git-gateway
 #  branch: master
+  name: github
+  repo: bryanpizzillo/r4rcontent
 
 # Instead of just pushing directly to master,
 # require some reviews and approvals 
