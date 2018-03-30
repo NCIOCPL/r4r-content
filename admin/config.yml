@@ -7,6 +7,8 @@ backend:
 # require some reviews and approvals 
 publish_mode: editorial_workflow
 
+media_folder: ""
+
 # Define the content model
 collections:
   - name: "resource" ## The type of object
