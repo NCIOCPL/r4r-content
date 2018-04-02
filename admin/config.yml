@@ -5,6 +5,8 @@ backend:
 #  branch: master
   name: github
   repo: bryanpizzillo/r4rcontent
+  branch: master
+  base_url: https://cms-auth.pizzillo.com
 
 # Instead of just pushing directly to master,
 # require some reviews and approvals 
