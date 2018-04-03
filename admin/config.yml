@@ -10,7 +10,7 @@ backend:
 
 # Instead of just pushing directly to master,
 # require some reviews and approvals 
-publish_mode: editorial_workflow
+#publish_mode: editorial_workflow
 
 media_folder: "assets/uploads"
 
