@@ -25,6 +25,7 @@ collections:
     fields: # The fields
       - {label: "ID", name: "id", widget: "number" }
       - {label: "Title", name: "title", widget: "string" }
+      - {label: "Web Site", name: "website", widget: "string" }
       - {label: "Description", name: "description", widget: "markdown"}
       - {label: "Content", name: "body", widget: "markdown"}
       - label: "Resource Access"

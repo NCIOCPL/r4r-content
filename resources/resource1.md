@@ -3,20 +3,13 @@ id: 1
 title: Enhancer Linking by Methylation/Expression Relationships (ELMER)
 website: http://bioconductor.org/packages/release/bioc/html/ELMER.html
 toolTypes:
-    - type: 
-        - label: Analysis Tools
-          key: analysis_tools
-      subtype: 
-        - label: R software
-          key: r_software
+    - toolType: analysis_tools/r_software
 researchAreas:
-    - label: Cancer Genomics
-      key: cancer_genomics
+    - researchArea: cancer_genomics
 researchTypes:
-    - label: Basic Science
-      key: basic_science
+    - researchType: basic
 resourceAccess:
-    - type: Free Access
+    type: open
 docs:
     - CBIIT
 pocs: null        
