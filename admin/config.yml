@@ -26,7 +26,7 @@ collections:
       - {label: "ID", name: "id", widget: "number" }
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Web Site", name: "website", widget: "string" }
-      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Description", name: "description", widget: "markdown", default: ""}
       - {label: "Content", name: "body", widget: "markdown"}
       - label: "Resource Access"
         name: "resourceAccess"
@@ -35,12 +35,11 @@ collections:
           - label: "Type"
             name: "type"
             widget: "select"
-            default: "open"
             options:
               - { label: "Open Access", value: "open" }
               - { label: "Requires Registration", value: "register" }
               - { label: "Cost", value: "cost" }
-          - { label: "Additional Notes", name: "notes", widget: "string" }
+          - { label: "Additional Notes", name: "notes", widget: "string", default: "" }
       - label: "Points of Contact"
         name: "poc"
         widget: "list"

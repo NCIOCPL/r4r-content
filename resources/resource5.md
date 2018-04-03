@@ -3,32 +3,18 @@ id: 5
 title: Driver-gene Inference by Genetical-Genomics and Information Theory (DIGGIT)
 website: http://califano.c2b2.columbia.edu/software/
 toolTypes:
-    - type:
-        label: Analysis Tools
-        key: analysis_tools
-      subtype: 
-        label: genomic datasets
-        key: genomic_datasets
-    - type: 
-        label: Analysis Tools
-        key: analysis_tools
-      subtype: 
-        label: R software
-        key: r_software
+    - toolType: analysis_tools/genomic_datasets
+    - toolType: analysis_tools/r_software
 researchAreas:
-    - label: Cancer Biology
-      key: cancer_biology
-    - label: Cancer Genomics
-      key: cancer_genomics
-    - label: Cancer Treatment
-      key: cancer_treatment
+    - researchArea: cancer_biology
+    - researchArea: cancer_genomics
+    - researchArea: cancer_treatment
 researchTypes:
-    - label: Translational
-      key: translational
+    - researchType : translational
 resourceAccess:
-    - type: Free Access
+    - type: open
 docs:
-    - CCG
+    - doc: CCG
 pocs: 
     - name: 
         firstname: Aristidis
