@@ -27,6 +27,22 @@ collections:
       - {label: "Title", name: "title", widget: "string" }
       - {label: "Description", name: "description", widget: "markdown"}
       - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Tool Types"
+        name: "toolTypes"
+        widget: "list"
+        default: []
+        fields:
+          - label: "Tool Type"
+            name: "toolType"
+            widget: "select"
+            options: 
+              - { label: "", value: "" }
+              - { label: "", value: "" }
+              - { label: "", value: "" }
+              - { label: "", value: "" }
+              - { label: "", value: "" }
+              - { label: "", value: "" }
+              - { label: "", value: "" }
       - label: "Divisions, Offices and Centers (DOCs)"
         name: "docs"
         widget: "list"
@@ -36,8 +52,8 @@ collections:
             name: "doc"
             widget: "select"
             options:
-              - { label: "DCEG", value: { key: "dceg", label: "Div..." } }
-              - { label: "CBIIT", value: { key: "cbiit", label: "Center..." } }
+              - { label: "Division of Cancer Epidemiology and Genetics", value: "DCEG" }
+              - { label: "Center for Bioinformatics and Information Technology", value: "CBIIT" }
       - label: "Points of Contact"
         name: "poc"
         widget: "list"
