@@ -5,7 +5,7 @@ website: http://bioconductor.org/packages/release/bioc/html/ELMER.html
 toolTypes:
     - toolType: analysis_tools/r_software
 researchAreas:
-    - researchArea: cancer_genomics
+    - researchArea: cancer_omics
 researchTypes:
     - researchType: basic
 resourceAccess:
