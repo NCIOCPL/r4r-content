@@ -3,14 +3,14 @@ id: 162
 title: XNAT
 website: http://www.xnat.org
 toolTypes:
-	- toolType: datasets_databases/imaging
-	- toolType: datasets_databases/clinical_data
+    - toolType: datasets_databases/imaging
+    - toolType: datasets_databases/clinical_data
 researchAreas:
-	- researchArea: cancer_treatment
-	- researchArea: screening_detection
+    - researchArea: cancer_treatment
+    - researchArea: screening_detection
 researchTypes:
-	- researchType: translational
-	- researchType: clinical_trials
+    - researchType: translational
+    - researchType: clinical_trials
 resourceAccess:
     type: open
 docs:

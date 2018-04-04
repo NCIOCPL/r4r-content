@@ -3,12 +3,12 @@ id: 113
 title: PhenStat
 website: 
 toolTypes:
-	- toolType: analysis_tools/r_software
-	- toolType: lab_tools/animal_models
+    - toolType: analysis_tools/r_software
+    - toolType: lab_tools/animal_models
 researchAreas:
-	- researchArea: cancer_biology
+    - researchArea: cancer_biology
 researchTypes:
-	- researchType: basic
+    - researchType: basic
 resourceAccess:
     type: open
 docs:

@@ -3,11 +3,11 @@ id: 109
 title: Feature DB
 website: 
 toolTypes:
-	- toolType: datasets_databases/imaging
+    - toolType: datasets_databases/imaging
 researchAreas:
-	- researchArea: cancer_diagnosis
+    - researchArea: cancer_diagnosis
 researchTypes:
-	- researchType: translational
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

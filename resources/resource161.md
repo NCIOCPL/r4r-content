@@ -5,9 +5,9 @@ website: http://dmri.slicer.org
 toolTypes:
 - toolType: analysis_tools/imaging_analysis
 researchAreas:
-	- researchArea: cancer_treatment
+    - researchArea: cancer_treatment
 researchTypes:
-	- researchType: translational
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

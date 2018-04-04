@@ -3,12 +3,12 @@ id: 24
 title: The Cancer Imaging Archive (TCIA)
 website: http://www.cancerimagingarchive.net
 toolTypes:
-	- toolType: datasets_databases/imaging
-	- toolType: datasets_databases/imaging
+    - toolType: datasets_databases/imaging
+    - toolType: datasets_databases/imaging
 researchAreas:
-	- researchArea: cancer_diagnosis
+    - researchArea: cancer_diagnosis
 researchTypes:
-	- researchType: translational
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

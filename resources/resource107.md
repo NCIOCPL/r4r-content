@@ -3,13 +3,13 @@ id: 107
 title: Cores Of Recurrent Events (CORE)
 website: 
 toolTypes:
-	- toolType: analysis_tools/genomic_analysis
+    - toolType: analysis_tools/genomic_analysis
 researchAreas:
-	- researchArea: cancer_omics
-	- researchArea: cancer_biology
+    - researchArea: cancer_omics
+    - researchArea: cancer_biology
 researchTypes:
-	- researchType: basic
-	- researchType: translational
+    - researchType: basic
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

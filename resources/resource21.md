@@ -3,12 +3,12 @@ id: 21
 title: Quantitative Imaging In Pathology (QUIP)
 website: http://quip.bmi.stonybrook.edu
 toolTypes:
-	- toolType: datasets_databases/imaging
-	- toolType: analysis_tools/imaging_analysis
+    - toolType: datasets_databases/imaging
+    - toolType: analysis_tools/imaging_analysis
 researchAreas:
-	- researchArea: cancer_diagnosis
+    - researchArea: cancer_diagnosis
 researchTypes:
-	- researchType: translational
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

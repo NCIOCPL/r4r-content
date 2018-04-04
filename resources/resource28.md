@@ -3,12 +3,12 @@ id: 28
 title: Tumor Heterogenity Research Interactive Visualization Environment (THRIVE)
 website: http://www.csb.pitt.edu/ith/
 toolTypes:
-	- toolType: analysis_tools/imaging_analysis
+    - toolType: analysis_tools/imaging_analysis
 researchAreas:
-	- researchArea: cancer_diagnosis
-	- researchArea: screening_detection
+    - researchArea: cancer_diagnosis
+    - researchArea: screening_detection
 researchTypes:
-	- researchType: basic
+    - researchType: basic
 resourceAccess:
     type: open
 docs:

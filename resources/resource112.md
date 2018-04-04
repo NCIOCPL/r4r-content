@@ -3,12 +3,12 @@ id: 112
 title: PETCT-CoSeg
 website: 
 toolTypes:
-	- toolType: analysis_tools/imaging_analysis
+    - toolType: analysis_tools/imaging_analysis
 researchAreas:
-	- researchArea: screening_detection
-	- researchArea: cancer_treatment
+    - researchArea: screening_detection
+    - researchArea: cancer_treatment
 researchTypes:
-	- researchType: translational
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

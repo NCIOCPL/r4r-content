@@ -3,13 +3,13 @@ id: 29
 title: Integrative Genomics Viewer (IGV)
 website: http://www.igv.org
 toolTypes:
-	- toolType: analysis_tools/data_visualization
-	- toolType: analysis_tools/genomic_analysis
+    - toolType: analysis_tools/data_visualization
+    - toolType: analysis_tools/genomic_analysis
 researchAreas:
-	- researchArea: cancer_omics
+    - researchArea: cancer_omics
 researchTypes:
-	- researchType: basic
-	- researchType: translational
+    - researchType: basic
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

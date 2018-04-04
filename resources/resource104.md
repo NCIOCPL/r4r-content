@@ -3,12 +3,12 @@ id: 104
 title: RADIOMICS.io
 website: https://www.radiomics.io
 toolTypes:
-	- toolType: analysis_tools/imaging_analysis
+    - toolType: analysis_tools/imaging_analysis
 researchAreas:
-	- researchArea: cancer_diagnosis
-	- researchArea: screening_detection
+    - researchArea: cancer_diagnosis
+    - researchArea: screening_detection
 researchTypes:
-	- researchType: translational
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

@@ -3,12 +3,12 @@ id: 30
 title: NDEx - The Network Data Exchange
 website: http://www.ndexbio.org/#/
 toolTypes:
-	- toolType: datasets_databases/biological_networks
-	- toolType: analysis_tools/r_software
+    - toolType: datasets_databases/biological_networks
+    - toolType: analysis_tools/r_software
 researchAreas:
-	- researchArea: cancer_biology
+    - researchArea: cancer_biology
 researchTypes:
-	- researchType: basic
+    - researchType: basic
 resourceAccess:
     type: open
 docs:

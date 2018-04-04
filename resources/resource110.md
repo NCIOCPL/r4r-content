@@ -3,12 +3,12 @@ id: 110
 title: Genome-Independent Identification of RNA Editing by Mutual Information (GIREMI)
 website: 
 toolTypes:
-	- toolType: analysis_tools/genomic_analysis
+    - toolType: analysis_tools/genomic_analysis
 researchAreas:
-	- researchArea: cancer_omics
-	- researchArea: cancer_biology
+    - researchArea: cancer_omics
+    - researchArea: cancer_biology
 researchTypes:
-	- researchType: basic
+    - researchType: basic
 resourceAccess:
     type: open
 docs:

@@ -3,11 +3,11 @@ id: 111
 title: LSTM-CRF
 website: 
 toolTypes:
-	- toolType: clinical_research_tools/ctcae
+    - toolType: clinical_research_tools/ctcae
 researchAreas:
-	- researchArea: cancer_treatment
+    - researchArea: cancer_treatment
 researchTypes:
-	- researchType: basic
+    - researchType: basic
 resourceAccess:
     type: open
 docs:

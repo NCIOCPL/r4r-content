@@ -3,13 +3,13 @@ id: 103
 title: The Laboratory for Individualized Breast Radiodensity Assessment (LIBRA)
 website: https://www.med.upenn.edu/sbia/libra.html
 toolTypes:
-	- toolType: datasets_databases/imaging
-	- toolType: analysis_tools/imaging_analysis
+    - toolType: datasets_databases/imaging
+    - toolType: analysis_tools/imaging_analysis
 researchAreas:
-	- researchArea: screening_detection
-	- researchArea: Imaging
+    - researchArea: screening_detection
+    - researchArea: Imaging
 researchTypes:
-	- researchType: translational
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

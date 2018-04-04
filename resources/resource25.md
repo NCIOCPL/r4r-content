@@ -3,12 +3,12 @@ id: 25
 title: cBioPortal for Cancer Genonics
 website: http://www.cbioportal.org
 toolTypes:
-	- toolType: analysis_tools/genomic_analysis
-	- toolType: analysis_tools/data_visualization
+    - toolType: analysis_tools/genomic_analysis
+    - toolType: analysis_tools/data_visualization
 researchAreas:
-	- researchArea: cancer_omics
+    - researchArea: cancer_omics
 researchTypes:
-	- researchType: basic
+    - researchType: basic
 resourceAccess:
     type: open
 docs:

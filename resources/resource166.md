@@ -3,11 +3,11 @@ id: 166
 title: Clinical Interpretation of Variants in Cancer (CIViC) Knowledgebase
 website: https://civic.genome.wustl.edu/home
 toolTypes:
-	- toolType: datasets_databases/genomic_datasets
+    - toolType: datasets_databases/genomic_datasets
 researchAreas:
-	- researchArea: cancer_omics
+    - researchArea: cancer_omics
 researchTypes:
-	- researchType: translational
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

@@ -3,13 +3,13 @@ id: 27
 title: Cancer-Related Analysis of Variants Toolkit (CRAVAT)
 website: http://www.cravat.us/CRAVAT/
 toolTypes:
-	- toolType: analysis_tools/genomic_analysis
+    - toolType: analysis_tools/genomic_analysis
 researchAreas:
-	- researchArea: cancer_omics
-	- researchArea: cancer_biology
+    - researchArea: cancer_omics
+    - researchArea: cancer_biology
 researchTypes:
-	- researchType: basic
-	- researchType: translational
+    - researchType: basic
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

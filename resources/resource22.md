@@ -3,11 +3,11 @@ id: 22
 title: GenePattern
 website: http://software.broadinstitute.org/cancer/software/genepattern/
 toolTypes:
-	- toolType: analysis_tools/genomic_analysis
+    - toolType: analysis_tools/genomic_analysis
 researchAreas:
-	- researchArea: cancer_omics
+    - researchArea: cancer_omics
 researchTypes:
-	- researchType: basic
+    - researchType: basic
 resourceAccess:
     type: open
 docs:

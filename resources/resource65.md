@@ -3,12 +3,12 @@ id: 65
 title: Methylation Integration (Mint)
 website: https://github.com/sartorlab/mint
 toolTypes:
-	- toolType: analysis_tools/genomic_analysis
+    - toolType: analysis_tools/genomic_analysis
 researchAreas:
-	- researchArea: cancer_omics
-	- researchArea: cancer_biology
+    - researchArea: cancer_omics
+    - researchArea: cancer_biology
 researchTypes:
-	- researchType: basic
+    - researchType: basic
 resourceAccess:
     type: open
 docs:
