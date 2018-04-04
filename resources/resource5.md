@@ -1,28 +1,19 @@
 ---
 id: 5
-title: Driver-gene Inference by Genetical-Genomics and Information Theory (DIGGIT)
-website: http://califano.c2b2.columbia.edu/software/
+title: Cancer Slide Digital Archive (CDSA)
+website: http://cancer.digitalslidearchive.net
 toolTypes:
-    - toolType: analysis_tools/genomic_datasets
-    - toolType: analysis_tools/r_software
+    - toolType: datasets_databases/imaging
+    - toolType: analysis_tools/imaging_analysis
 researchAreas:
-    - researchArea: cancer_biology
-    - researchArea: cancer_genomics
-    - researchArea: cancer_treatment
+    - researchArea: cancer_diagnosis
 researchTypes:
     - researchType : translational
+    - researchType : basic
 resourceAccess:
     type: open
 docs:
-    - doc: CCG
-pocs: 
-    - name: 
-        firstname: Aristidis
-        lastname: Floratos
-      email: af2202@cumc.columbia.edu
-    - name:
-        firstname: Andrea
-        lastname: Califano
-      email: ac2248@cumc.columbia.edu  
+    - doc: cbiit
+pocs: []        
 ---
-The DIGGIT package integrates patient-matched genomic mutation and gene expression data with corresponding gene regulatory networks to identify candidate driver mutations that are upstream of and directly perturb master regulators. Master regulators are transcription factors that control the majority of genes differentially expressed between two molecular phenotypes.
+The CDSA is a web-based platform to support the sharing, managment and analysis of digital pathology data. The Emory Instance currently hosts over 23,000 images from The Cancer Genome Atlas, and the software is being developed within the ITCR grant to be deployable as a digital pathology platform for other labs and Cancer Institutes.
