@@ -2,7 +2,6 @@
 id: 4
 title: Driver-gene Inference by Genetical-Genomics and Information Theory (DIGGIT)
 website: 'http://califano.c2b2.columbia.edu/software'
-description: delete
 resourceAccess:
   type: open
 poc:

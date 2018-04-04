@@ -1,5 +1,5 @@
 ---
-id: 1
+id: 2
 title: Next Generation Clustered Heat Maps
 website: http://bioinformatics.mdanderson.org/TCGA/NGCHMPortal
 toolTypes:
