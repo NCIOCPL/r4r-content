@@ -4,6 +4,7 @@ title: Repository of Chemical Agents- Small Molecules and Isolated Natural Produ
 website: https://dtp.cancer.gov/organization/dscb/obtaining/default.htm
 toolTypes:
     - toolType: lab_tools/plant_samples
+    - toolType: lab_tools/compounds
 researchAreas:
     - researchArea: cancer_biology
 researchTypes:

@@ -5,6 +5,7 @@ website: https://brb.nci.nih.gov/BRB-ArrayTools/
 toolTypes:
     - toolType: analysis_tools/r_software
     - toolType: analysis_tools/genomic_analysis
+    - toolType: analysis_tools/data_visualization
 researchAreas:
     - researchArea: cancer_omics
     - researchArea: cancer_treatment
