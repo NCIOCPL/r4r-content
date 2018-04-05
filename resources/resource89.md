@@ -3,13 +3,13 @@ id: 89
 title: _DevCan
 website: https://surveillance.cancer.gov/devcan/
 toolTypes:
-	- toolType: analysis_tools/modeling
+    - toolType: analysis_tools/modeling
 researchAreas:
-	- researchArea: cancer_public_health
-	- researchArea: cancer_health_disparities
-	- researchArea: cancer_statistics
+    - researchArea: cancer_public_health
+    - researchArea: cancer_health_disparities
+    - researchArea: cancer_statistics
 researchTypes:
-	- researchType: epidemiologic
+    - researchType: epidemiologic
 resourceAccess:
     type: register
 docs:

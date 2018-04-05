@@ -3,13 +3,13 @@ id: 80
 title: _SEER Research Data
 website: https://seer.cancer.gov/data/
 toolTypes:
-	- toolType: datasets_databases/epidemiologic_data
+    - toolType: datasets_databases/epidemiologic_data
 researchAreas:
-	- researchArea: cancer_public_health
-	- researchArea: cancer_health_disparities
-	- researchArea: cancer_statistics
+    - researchArea: cancer_public_health
+    - researchArea: cancer_health_disparities
+    - researchArea: cancer_statistics
 researchTypes:
-	- researchType: epidemiologic
+    - researchType: epidemiologic
 resourceAccess:
     type: register
 docs:

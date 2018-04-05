@@ -3,11 +3,11 @@ id: 140
 title: _Cancer Query Systems (CanQues)
 website: https://seer.cancer.gov/canques/
 toolTypes:
-	- toolType: datasets_databases/epidemiologic_data
+    - toolType: datasets_databases/epidemiologic_data
 researchAreas:
-	- researchArea: cancer_statistics
+    - researchArea: cancer_statistics
 researchTypes:
-	- researchType: epidemiologic
+    - researchType: epidemiologic
 resourceAccess:
     type: open
 docs:
