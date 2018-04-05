@@ -1,6 +1,6 @@
 ---
 id: 123
-title: _Detecting Mechanism of Action based Network Dysregulation (DeMAND)
+title: Detecting Mechanism of Action based Network Dysregulation (DeMAND)
 website: https://califano.c2b2.columbia.edu/demand
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

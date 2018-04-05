@@ -1,6 +1,6 @@
 ---
 id: 134
-title: _Cancer Genome Characterization Initiative (CGCI) Data Matrix
+title: Cancer Genome Characterization Initiative (CGCI) Data Matrix
 website: https://ocg.cancer.gov/programs/cgci/data-matrix
 toolTypes:
   - toolType: datasets_databases/genomic_datasets

@@ -1,6 +1,6 @@
 ---
 id: 129
-title: _The Cancer Genome Atlas Clinical Explorer
+title: The Cancer Genome Atlas Clinical Explorer
 website: https://genomeportal.stanford.edu/pan-tcga
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

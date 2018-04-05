@@ -1,6 +1,6 @@
 ---
 id: 78
-title: _Sarcoma Project Data
+title: Sarcoma Project Data
 website: https://sarcoma.cancer.gov/sarcoma/downloads.xhtml
 toolTypes:
   - toolType: datasets_databases/clinical_data

@@ -1,6 +1,6 @@
 ---
 id: 95
-title: _Compound Sets
+title: Compound Sets
 website: https://wiki.nci.nih.gov/display/NCIDTPdata/Compound+Sets
 toolTypes:
   - toolType: datasets_databases/clinical_data

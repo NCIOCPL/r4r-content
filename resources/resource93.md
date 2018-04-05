@@ -1,6 +1,6 @@
 ---
 id: 93
-title: _AIDS Antiviral Screen Data
+title: AIDS Antiviral Screen Data
 website: https://wiki.nci.nih.gov/display/NCIDTPdata/AIDS+Antiviral+Screen+Data
 toolTypes:
   - toolType: datasets_databases/clinical_data

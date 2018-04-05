@@ -1,6 +1,6 @@
 ---
 id: 148
-title: _Functional Signature Ontology (FuSiOn)
+title: Functional Signature Ontology (FuSiOn)
 website: https://whitelab.swmed.edu/fmap/index1.php?url=/fmap/fusion1.php
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

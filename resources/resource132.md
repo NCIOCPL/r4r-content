@@ -1,6 +1,6 @@
 ---
 id: 132
-title: _Gene-wise Prior Bayesian Group Factor Analysis (GBGFA)
+title: Gene-wise Prior Bayesian Group Factor Analysis (GBGFA)
 website: https://github.com/olganikolova/gbgfa
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

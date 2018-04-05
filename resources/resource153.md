@@ -1,6 +1,6 @@
 ---
 id: 153
-title: _Project Achilles Portal
+title: Project Achilles Portal
 website: https://www.broadinstitute.org/achilles
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

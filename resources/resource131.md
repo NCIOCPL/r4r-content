@@ -1,6 +1,6 @@
 ---
 id: 131
-title: _Mining Essentiality Data to Identify Critical Interactions for Cancer Drug Target Discovery and Development (MEDICI)
+title: Mining Essentiality Data to Identify Critical Interactions for Cancer Drug Target Discovery and Development (MEDICI)
 website: https://github.com/cooperlab/MEDICI
 toolTypes:
   - toolType: analysis_tools/data_visualization

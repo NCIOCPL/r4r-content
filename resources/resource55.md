@@ -1,6 +1,6 @@
 ---
 id: 55
-title: _NCI-60 MicroXeno Data
+title: NCI-60 MicroXeno Data
 website: https://dtp.cancer.gov/databases_tools/microxeno_project.htm
 toolTypes:
   - toolType: datasets_databases/clinical_data

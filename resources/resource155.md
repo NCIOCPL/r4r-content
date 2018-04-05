@@ -1,6 +1,6 @@
 ---
 id: 155
-title: _Cancer Therapeutics Response Portal (CTRP)
+title: Cancer Therapeutics Response Portal (CTRP)
 website: https://www.broadinstitute.org/ctrp/
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

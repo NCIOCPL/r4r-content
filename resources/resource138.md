@@ -1,6 +1,6 @@
 ---
 id: 138
-title: _Protein-Protein Interaction Reagents
+title: Protein-Protein Interaction Reagents
 website: https://ocg.cancer.gov/resources/all-resources
 toolTypes:
   - toolType: lab_tools/reagents

@@ -1,6 +1,6 @@
 ---
 id: 149
-title: _Master Regulator Inference algorithm (MARINa)
+title: Master Regulator Inference algorithm (MARINa)
 website: https://wiki.c2b2.columbia.edu/califanolab/index.php/Software/MARINA
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

@@ -1,6 +1,6 @@
 ---
 id: 99
-title: _Yeast Anticancer Drug Screen
+title: Yeast Anticancer Drug Screen
 website: https://wiki.nci.nih.gov/display/NCIDTPdata/Yeast+Anticancer+Drug+Screen
 toolTypes:
   - toolType: datasets_databases/clinical_data

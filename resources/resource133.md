@@ -1,6 +1,6 @@
 ---
 id: 133
-title: _Mammalian Gene Collection (MGC)
+title: Mammalian Gene Collection (MGC)
 website: https://mgc.nci.nih.gov/
 toolTypes:
   - toolType: lab_tools/reagents

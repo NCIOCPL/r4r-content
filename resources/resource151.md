@@ -1,6 +1,6 @@
 ---
 id: 151
-title: _Virtual Inference of Protein-activity by Enriched Regulon analysis (VIPER)
+title: Virtual Inference of Protein-activity by Enriched Regulon analysis (VIPER)
 website: https://wiki.c2b2.columbia.edu/califanolab/index.php/Software/VIPER
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

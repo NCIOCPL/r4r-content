@@ -1,6 +1,6 @@
 ---
 id: 137
-title: _Therapeutically Applicable Research to Generate Effective Treatments (TARGET) Data Matrix
+title: Therapeutically Applicable Research to Generate Effective Treatments (TARGET) Data Matrix
 website: https://ocg.cancer.gov/programs/target/data-matrix
 toolTypes:
   - toolType: datasets_databases/genomic_datasets

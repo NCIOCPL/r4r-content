@@ -1,6 +1,6 @@
 ---
 id: 128
-title: _CERES
+title: CERES
 website: https://depmap.org/ceres/
 toolTypes:
   - toolType: lab_tools/assays

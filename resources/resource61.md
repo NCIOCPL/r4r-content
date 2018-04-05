@@ -1,6 +1,6 @@
 ---
 id: 61
-title: _Repository of Natural Products-Crude Extracts
+title: Repository of Natural Products-Crude Extracts
 website: https://dtp.cancer.gov/organization/npb/introduction.htm
 toolTypes:
   - toolType: lab_tools/plant_samples

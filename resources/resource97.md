@@ -1,6 +1,6 @@
 ---
 id: 97
-title: _Molecular Target Data
+title: Molecular Target Data
 website: https://wiki.nci.nih.gov/display/NCIDTPdata/Molecular+Target+Data
 toolTypes:
   - toolType: datasets_databases/clinical_data

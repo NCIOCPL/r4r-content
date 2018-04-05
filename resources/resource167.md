@@ -1,6 +1,6 @@
 ---
 id: 167
-title: _Small Cell Lung Cancer Project Data
+title: Small Cell Lung Cancer Project Data
 website: https://sclccelllines.cancer.gov/sclc/downloads.xhtml
 docs:
   - doc: dctd

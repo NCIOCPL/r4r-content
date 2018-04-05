@@ -1,6 +1,6 @@
 ---
 id: 124
-title: _Cancer Genome Anatomy Project (CGAP)
+title: Cancer Genome Anatomy Project (CGAP)
 website: https://cgap.nci.nih.gov
 toolTypes:
   - toolType: datasets_databases/genomic_datasets
@@ -18,6 +18,6 @@ docs:
   - doc: ccg
 poc:
   - email: ncicb@pop.nci.nih.gov
-    title: _NCICB Application Support
+    title: NCICB Application Support
 ---
 Online resource of biological tissue characterization data, including gene expression profiles of normal, precancerous, and cancerous cells, and tools  for data analysis.CGAP also provides single nucleotide polymorphism analysis of cancer-related genes and the Mitleman database of chromosomal aberrations in cancer. 

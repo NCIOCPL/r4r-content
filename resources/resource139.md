@@ -1,6 +1,6 @@
 ---
 id: 139
-title: _Deconvolution Analysis of RNAi Screening data (DecoRNAi)
+title: Deconvolution Analysis of RNAi Screening data (DecoRNAi)
 website: https://qbrc.swmed.edu/softwares.php
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

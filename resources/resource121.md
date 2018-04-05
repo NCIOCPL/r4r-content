@@ -1,6 +1,6 @@
 ---
 id: 121
-title: _The Cancer Proteome Atlas (TCPA)
+title: The Cancer Proteome Atlas (TCPA)
 website: https://bioinformatics.mdanderson.org/main/TCPA
 toolTypes:
   - toolType: analysis_tools/data_visualization

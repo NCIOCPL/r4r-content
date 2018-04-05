@@ -1,6 +1,6 @@
 ---
 id: 118
-title: _Evaluation of Differential DependencY (EDDY)
+title: Evaluation of Differential DependencY (EDDY)
 website: https://biocomputing.tgen.org/software/EDDY/
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

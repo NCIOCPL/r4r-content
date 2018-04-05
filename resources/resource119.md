@@ -1,6 +1,6 @@
 ---
 id: 119
-title: _Evaluation of Differential DependencY-Cancer Therapeutic Response Portal (EDDY-CTRP)
+title: Evaluation of Differential DependencY-Cancer Therapeutic Response Portal (EDDY-CTRP)
 website: https://biocomputing.tgen.org/software/EDDY/CTRP/home.html
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

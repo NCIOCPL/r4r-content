@@ -1,6 +1,6 @@
 ---
 id: 136
-title: _cDNA Clones with Rare and Recurrent Mutations found in Cancers
+title: cDNA Clones with Rare and Recurrent Mutations found in Cancers
 website: https://ocg.cancer.gov/programs/ctd2/supported-reagents/cdna-clones-rare-and-recurrent-mutations-found-cancers
 toolTypes:
   - toolType: lab_tools/reagents

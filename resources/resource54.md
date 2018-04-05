@@ -1,6 +1,6 @@
 ---
 id: 54
-title: _Cancer Intervention and Surveillance Modeling Network
+title: Cancer Intervention and Surveillance Modeling Network
 website: https://cisnet.cancer.gov/
 toolTypes:
   - toolType: networks_consortiums

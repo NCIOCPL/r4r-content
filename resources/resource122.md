@@ -1,6 +1,6 @@
 ---
 id: 122
-title: _PiHelper
+title: PiHelper
 website: https://bit.ly/pihelper
 toolTypes:
   - toolType: analysis_tools/data_visualization

@@ -1,6 +1,6 @@
 ---
 id: 154
-title: _Analytic Technique for Assessment of RNAi by Similarity (ATARiS)
+title: Analytic Technique for Assessment of RNAi by Similarity (ATARiS)
 website: https://www.broadinstitute.org/cancer/ataris
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

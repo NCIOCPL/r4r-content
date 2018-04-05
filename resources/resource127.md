@@ -1,6 +1,6 @@
 ---
 id: 127
-title: _Questionnaire Development Resources
+title: Questionnaire Development Resources
 website: https://dceg.cancer.gov/tools/design/questionnaires
 toolTypes:
   - toolType: community_research_tools/questionnaire

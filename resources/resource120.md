@@ -1,6 +1,6 @@
 ---
 id: 120
-title: _MethylMix
+title: MethylMix
 website: https://bioconductor.org/packages/3.1/bioc/html/MethylMix.html
 toolTypes:
   - toolType: analysis_tools/genomic_analysis
