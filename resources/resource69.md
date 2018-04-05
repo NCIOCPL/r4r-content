@@ -10,6 +10,20 @@ toolTypes:
     - toolType: datasets_databases/genomic_datasets
     - toolType: datasets_databases/imaging
     - toolType: terminology
+researchAreas:
+    - researchArea: cancer_biology
+    - researchArea: cancer_diagnosis
+    - researchArea: cancer_omics
+    - researchArea: cancer_treatment
+    - researchArea: causes_of_cancer
+    - researchArea: screening_detection
+researchTypes:
+    - researchType: basic
+    - researchType: clinical
+    - researchType: epidemiologic
+    - researchType: translational
+resourceAccess:
+    type: open
 
 poc:
   - email: Mervi.Heiskanen@nih.gov
