@@ -18,6 +18,6 @@ docs:
   - doc: ccg
 poc:
   - email: ncicb@pop.nci.nih.gov
-  title: _NCICB Application Support
+    title: _NCICB Application Support
 ---
 Online resource of biological tissue characterization data, including gene expression profiles of normal, precancerous, and cancerous cells, and tools  for data analysis.CGAP also provides single nucleotide polymorphism analysis of cancer-related genes and the Mitleman database of chromosomal aberrations in cancer. 

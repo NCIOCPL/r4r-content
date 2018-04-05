@@ -18,13 +18,13 @@ poc:
     name:
       firstname: Susan
       lastname: Scott
-  title: _Public Health Advisor, Surveillance Research Program
-  phone: 240-276-6951
+    title: _Public Health Advisor, Surveillance Research Program
+    phone: 240-276-6951
   - email: feuerr@mail.nih.gov
     name:
       firstname: Eric (Rocky)
       lastname: Feuer
-  title: _Chief, Statistical Research and Applications Branch, Surveillance Research Program
-  phone: 240-276-6772
+    title: _Chief, Statistical Research and Applications Branch, Surveillance Research Program
+    phone: 240-276-6772
 ---
 The Know Your Chances websites provides interactive risk charts to put cancer in context. The risk charts show the likelihood of dying from a variety of cancer types and other diseases over a specific time frame. Because age, sex, and race are so important in determining a person's chances of dying from cancer or another disease, the charts allow the user to account for those factors.
