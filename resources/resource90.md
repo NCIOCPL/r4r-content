@@ -1,6 +1,6 @@
 ---
 id: 90
-title: _Joinpoint Trend Analysis Software
+title: Joinpoint Trend Analysis Software
 website: https://surveillance.cancer.gov/joinpoint/
 toolTypes:
     - toolType: analysis_tools/modeling
