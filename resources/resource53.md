@@ -1,6 +1,7 @@
 ---
 id: 53
-title: CIP IND Directory website: https://cipinddirectory.cancer.gov/
+title: CIP IND Directory
+website: https://cipinddirectory.cancer.gov/
 toolTypes:
   - toolType: datasets_databases/imaging
 researchTypes:
