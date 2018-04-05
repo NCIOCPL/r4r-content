@@ -19,7 +19,7 @@ poc:
     name:
       firstname: Gwen
       lastname: Murphy
-  phone: 240-276-7199
-  title: Ph.D., M.P.H. Staff Scientist, DCEG
+    phone: 240-276-7199
+    title: Ph.D., M.P.H. Staff Scientist, DCEG
 ---
 A collection of questionnaires and questionnaire segments for use in a wide variety of epidemiological studies. Listings of publications are given where available. Topics covered by the questionnaires include:  Alcohol, Tobacco, and Recreational Drug Use  Anthropometric Measurements (measurements of the human body)  Background Information  Breast Cancer Risk Factors  Family History of Cancer  EMF, Radon, and UVR Exposures  Ionizing Radiation Exposures  Household Exposures  Medical History  Non-alcoholic Beverage, Food, and Dietary Supplements  Occupational History and Exposures  Physical Activity  Prescriptions, Hormones, Immunizations  Reproductive History  Residential History
