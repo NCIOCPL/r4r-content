@@ -1,0 +1,23 @@
+---
+id: 157
+title: Reagents Available to NCI-funded Researchers
+website: https://www.cancer.gov/about-nci/organization/dcb/researcher-resources#ui-id-6
+toolTypes:
+  - toolType: lab_tools/biospecimen
+  - toolType: lab_tools/cell_lines
+  - toolType: lab_tools/vectors
+researchAreas:
+  - researchArea: cancer_biology
+researchTypes:
+  - researchType: basic
+resourceAccess:
+  type: register
+docs:
+  - doc: dcb
+poc:
+  - email: siemonc@mail.nih.gov
+    name:
+      firstname: Chris
+      lastname: Siemon
+---
+The Tumor Microenvironment Network (TMEN) generated a number of resources that are now available to NCI-funded cancer researchers. These resources include: -EHS (Engelbreth-Holm-Swarm) sarcoma-derived laminin rich matrix -Novel antibodies to detect cancer stem cells and stromal cells -Human xenograft tumor bank with characterized stem cell populations -Bone Marrow-Derived Cells from donor mice -RCAS Constructs

@@ -1,0 +1,18 @@
+---
+id: 73
+title: Personalized Cancer Therapy
+website: https://pct.mdanderson.org/#/
+toolTypes:
+  - toolType: datasets_databases/genomic_datasets
+  - toolType: datasets_databases/genomic_datasets
+researchAreas:
+  - researchArea: cancer_omics
+  - researchArea: cancer_treatment
+researchTypes:
+  - researchType: translational
+resourceAccess:
+  type: open
+docs:
+  - doc: cbiit
+---
+AMARETTO for multi-omics data fusion and reformulations for pan-etiology and pan-cancer applications.
