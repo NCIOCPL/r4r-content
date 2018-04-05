@@ -19,6 +19,6 @@ poc:
     name:
       firstname: Angela
       lastname: Mariotto
-  phone: 240-276-6698
+    phone: 240-276-6698
 ---
 Statistical software to analyze population-based survival data. For grouped survival data, it can fit both the standard survival models and the mixture cure survival models and provides various graphs for model diagnosis. It can also fit parametric (cure) survival models to individually-listed data. 
