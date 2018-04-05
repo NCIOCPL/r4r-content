@@ -24,7 +24,12 @@ researchTypes:
     - researchType: translational
 resourceAccess:
     type: open
-
+docs:
+    - doc: cbiit
+    - doc: dcb
+    - doc: dccps
+    - doc: dcp
+    - doc: dctd
 poc:
   - email: Mervi.Heiskanen@nih.gov
     name:
