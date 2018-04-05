@@ -3,20 +3,20 @@ id: 69
 title: Informatics Technology for Cancer Research (ITCR) Informatics Tools
 website: https://itcr.nci.nih.gov/informatics-tools
 toolTypes:
+    - toolType: analysis_tools/data_visualization
+    - toolType: analysis_tools/genomic_analysis
     - toolType: clinical_research_tools
     - toolType: datasets_databases/clinical_data
-    - toolType: analysis_tools/data_visualization
-    - toolType: terminology
     - toolType: datasets_databases/genomic_datasets
     - toolType: datasets_databases/imaging
-    - toolType: analysis_tools/genomic_analysis
+    - toolType: terminology
 researchAreas:
     - researchArea: cancer_biology
-    - researchArea: cancer_omics
-    - researchArea: causes_of_cancer
     - researchArea: cancer_diagnosis
-    - researchArea: screening_detection
+    - researchArea: cancer_omics
     - researchArea: cancer_treatment
+    - researchArea: causes_of_cancer
+    - researchArea: screening_detection
 researchTypes:
     - researchType: basic
     - researchType: clinical
