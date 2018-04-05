@@ -21,7 +21,6 @@ poc:
       lastname: 
     title: Public Health Advisor, Surveillance Research Program
 
-poc:
   - email: feuerr@mail.nih.gov
     name:
       firstname: Eric (Rocky)

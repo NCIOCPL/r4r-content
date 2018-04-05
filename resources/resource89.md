@@ -1,6 +1,6 @@
 ---
 id: 89
-title: _DevCan
+title: DevCan
 website: https://surveillance.cancer.gov/devcan/
 toolTypes:
     - toolType: analysis_tools/modeling

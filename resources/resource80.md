@@ -1,6 +1,6 @@
 ---
 id: 80
-title: _SEER Research Data
+title: SEER Research Data
 website: https://seer.cancer.gov/data/
 toolTypes:
     - toolType: datasets_databases/epidemiologic_data
