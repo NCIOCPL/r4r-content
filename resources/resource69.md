@@ -4,6 +4,12 @@ title: Informatics Technology for Cancer Research (ITCR) Informatics Tools
 website: https://itcr.nci.nih.gov/informatics-tools
 toolTypes:
     - toolType: analysis_tools/data_visualization
+    - toolType: analysis_tools/genomic_analysis
+    - toolType: clinical_research_tools
+    - toolType: datasets_databases/clinical_data
+    - toolType: datasets_databases/genomic_datasets
+    - toolType: datasets_databases/imaging
+    - toolType: terminology
 
 poc:
   - email: Mervi.Heiskanen@nih.gov
