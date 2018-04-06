@@ -14,13 +14,14 @@ resourceAccess:
     type: register
 docs:
     - doc: dccps
+
 poc:
   - email: scotts2@mail.nih.gov
     name:
-      firstname: 
-      lastname: 
+      firstname: Susan
+      lastname: Scott
+    phone: 240-276-6951
     title: Public Health Advisor, Surveillance Research Program
-
   - email: feuerr@mail.nih.gov
     name:
       firstname: Eric (Rocky)
