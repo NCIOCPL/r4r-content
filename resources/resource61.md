@@ -11,7 +11,7 @@ researchAreas:
 researchTypes:
   - researchType: basic
 resourceAccess:
-  type: open
+  type: register
 docs:
   - doc: dctd
 ---
