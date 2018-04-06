@@ -1,6 +1,6 @@
 ---
 id: 35
-title: Protocol - SNAP-FREEZING OF POST-SURGICAL TISSUE BIOSPECIMENS
+title: Protocol - Snap-Freezing of Post-Surgical Tissue Biospecimens
 website: https://biospecimens.cancer.gov/global/pdfs/NCI_BEBP_Snap-freezing_of_Post-surgical_Tissue_Biospecimens.pdf
 toolTypes:
   - toolType: lab_tools/protocols
