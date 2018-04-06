@@ -16,4 +16,4 @@ resourceAccess:
 docs:
   - doc: dctd
 ---
-Standard Operating Procedures (SOPs) for various biobanking practices used in initiatives such as the Cancer Human Biobank (caHUB). The caHUB has collected high quality biospecimens and associated data to enable genomic research in the Genotype-Tissue Expression (GTEx) project, a National Institutes of Health (NIH) Common Fund initiative. The success of GTEx depends on the ability to successfully procure and store high quality biospecimens for analysis. Successful collection of normal human biospecimens from rapid autopsies and organ donors requires complex operations and a stringent QA/QC process. For this reason, caHUB has created a large number of SOPs to govern operations in ethical and regulatory procedures; biospecimen collecting and tracking; data collection; production of collection and shipping kits and checklists; and pathology review.
+This tumor repository serves as a resource for viable, contaminant-free experimental tumor lines, many of which are not obtainable elsewhere

@@ -11,15 +11,15 @@ researchAreas:
 researchTypes:
   - researchType: epidemiologic
 resourceAccess:
-  type: open
+  type: register
 docs:
   - doc: dccps
 poc:
-  - email: li.zhu@nih.gov
+  - email: mariotta@mail.nih.gov
     name:
-      firstname: Li
-      lastname: Zhu
-    title: Mathematical Statistician, Statistical Research and Applications Branch, Surveillance Research Program
-    phone: 240-276-6851
+      firstname: Angela
+      lastname: Mariotto
+    title: Chief, Data Analytics Branch, Surveillance Research Program
+    phone: 240-276-6698
 ---
-Non-parametric smoothing software for the analysis of spatial (geographic) patterns of cancer. The Head-Bang PC Software was developed to reveal underlying geographic patterns in data where the values to be smoothed do not have equal variances. Head-Bang 4.0 (64-bit only) was released in May 2017 and can be used both in Windows and as a console version.
+Statistical software to analyze population-based survival data. For grouped survival data, it can fit both the standard survival models and the mixture cure survival models and provides various graphs for model diagnosis. It can also fit parametric (cure) survival models to individually-listed data. 

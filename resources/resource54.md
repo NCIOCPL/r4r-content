@@ -12,8 +12,22 @@ researchTypes:
   - researchType: clinical
   - researchType: epidemiologic
   - researchType: translational
+resourceAccess:
+  type: open
 docs:
-  - doc: dctd
+  - doc: dccps
+poc:
+  - email: feuerr@mail.nih.gov
+    name:
+      firstname: Eric (Rocky)
+      lastname: Feuer
+    phone: 240-276-6772
+    title: Chief, Statistical Research and Applications Branch, Surveillance Research Program
+  - email: scotts2@mail.nih.gov
+    name:
+      firstname: Susan
+      lastname: Scott
+    phone: 240-276-6951
+    title: Public Health Advisor, Surveillance Research Program
 ---
-The MicroXeno Project was initiated to generate genome-wide cDNA microarray data for all subcutaneous xenograft models currently used within the DTP. The array data provided here is a reference dataset that can be used to study multiple xenograft models at multiple passage in vivo.
-
+Consortium of NCI-sponsored investigators who use statistical/simulation modeling to examine the impact of prevention, screening, and treatment on cancer incidence and mortality. These models can then project future trends and help determine optimal cancer control strategies. These models can also be used to guide public health research and priorities. Established in 2000, CISNET comprises six cancer site groups:  breast, prostate, colorectal, lung, esophageal, and cervical.

@@ -15,11 +15,11 @@ resourceAccess:
 docs:
   - doc: dccps
 poc:
-  - email: mariotta@mail.nih.gov
+  - email: lewisde@mail.nih.gov
     name:
-      firstname: Angela
-      lastname: Mariotto
-    title: Chief, Data Analytics Branch, Surveillance Research Program
-    phone: 240-276-6698
+      firstname: Denise
+      lastname: Lewis
+    title: Epidemiologist, Data Analytics Branch, Surveillance Research Program
+    phone: 240-276-6757
 ---
-The SEER*Stat statistical software provides a convenient, intuitive mechanism for the analysis of SEER and other cancer-related databases. It is a powerful PC tool to view individual cancer records and to produce statistics for studying the impact of cancer on a population. SEER*Stat software is distributed with the SEER Research Data and users must obtain access to the data before using the software. 
+Statistical software designed to generate multiple summary measures to evaluate and monitor health disparities. HD*Calc allows the user to import Surveillance, Epidemiology, and End Results (SEER) or other population-based health data and calculate any of eleven disparity measurements. Cancer rates and other data categorized by disparity groups such as race/ethnicity, socioeconomic status, and geographic area can be used with HD*Calc to generate output presented in tabular and graphic formats.

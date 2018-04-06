@@ -11,8 +11,15 @@ researchAreas:
 researchTypes:
   - researchType: epidemiologic
 resourceAccess:
-  type: open
+  type: register
 docs:
-  - doc: cbiit
+  - doc: dccps
+poc:
+  - email: mariotta@mail.nih.gov
+    name:
+      firstname: Angela
+      lastname: Mariotto
+    title: Chief, Data Analytics Branch, Surveillance Research Program
+    phone: 240-276-6698
 ---
-Modified UMLS, modified SemRep and SemMedDB-UTH aon these are resources (UMLS, SemMedDB-UT) and tools (SemRep) created and maintained by National Library of Medicine that we have modified for personalized cancer therapy and returned to the NLM.
+The SEER*Stat statistical software provides a convenient, intuitive mechanism for the analysis of SEER and other cancer-related databases. It is a powerful PC tool to view individual cancer records and to produce statistics for studying the impact of cancer on a population. SEER*Stat software is distributed with the SEER Research Data and users must obtain access to the data before using the software. 

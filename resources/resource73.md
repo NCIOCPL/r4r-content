@@ -15,4 +15,4 @@ resourceAccess:
 docs:
   - doc: cbiit
 ---
-AMARETTO for multi-omics data fusion and reformulations for pan-etiology and pan-cancer applications.
+Curated website cataloguing clinically actionable information for personalized cancer therapy including clinically significant genetic variants and drug-gene association.

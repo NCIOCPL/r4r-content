@@ -19,6 +19,7 @@ poc:
     name:
       firstname: Angela
       lastname: Mariotto
+    title: Chief, Data Analytics Branch, Surveillance Research Program
     phone: 240-276-6698
 ---
-Statistical software to analyze population-based survival data. For grouped survival data, it can fit both the standard survival models and the mixture cure survival models and provides various graphs for model diagnosis. It can also fit parametric (cure) survival models to individually-listed data. 
+This software converts ASCII text data files to the SEER*Stat database format, allowing users to analyze cancer data (incidence, mortality, expected survival) using SEER*Stat. SEER*Prep performs two main functions:  it converts text data to the specific binary format required by SEER*Stat, and it creates the SEER*Stat data dictionary. SEER*Stat 6.2.3 or later is required to analyze any database generated with this version of SEER*Prep. 

@@ -13,4 +13,4 @@ resourceAccess:
 docs:
   - doc: dctd
 ---
-This tumor repository serves as a resource for viable, contaminant-free experimental tumor lines, many of which are not obtainable elsewhere
+The mission of the NEXT Program is to advance clinical practice and bring improved therapies to patients with cancer by supporting most promising new drug discovery and development projects.

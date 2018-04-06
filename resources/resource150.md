@@ -11,8 +11,17 @@ researchTypes:
   - researchType: basic
   - researchType: translational
 resourceAccess:
-  type: register
+  type: open
 docs:
-  - doc: dctd
+  - doc: ccg
+poc:
+  - email: af2202@cumc.columbia.edu
+    name:
+      firstname: Aristidis
+      lastname: Floratos
+  - email: ac2248@cumc.columbia.edu
+    name:
+      firstname: Andrea
+      lastname: Califano
 ---
-The mission of the NEXT Program is to advance clinical practice and bring improved therapies to patients with cancer by supporting most promising new drug discovery and development projects.
+Modulator Inference by Network Dynamics (MINDy2)/ Conditional Inference of Network Dynamics (CINDy). MINDy2 and CINDy both infer modulatory events in the cell. They do this by screening a list of candidate modulator proteins and assessing their effect on the transcriptional control of a transcription factor of interest. CINDy uses a more sophisticated algorithm: while both try to assess the effects of a modulator over a transcriptional network, CINDy uses the entire expression range of the modulator.

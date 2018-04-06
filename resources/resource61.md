@@ -10,8 +10,9 @@ researchAreas:
   - researchArea: cancer_treatment
 researchTypes:
   - researchType: basic
+resourceAccess:
+  type: open
 docs:
   - doc: dctd
 ---
-The Cancer Imaging Archive (TCIA) is provided by the Cancer Imaging Program (CIP) as a service to the research community. TCIA provides a freely accessible, open archive of cancer-specific medical images and metadata accessible for public download.
-
+DTP's Natural Products Repository is the world's largest storehouse of natural products. It houses close 170,000 extracts from samples of more than 70,000 plants and 10,000 marine organisms  collected from more than 25 countries, plus more than 30,000 extracts of diverse bacteria and fungi. The Natural Products Repository, administered by the Natural Products Branch, provided extramural researchers with natural products extracts for testing against any human disease.

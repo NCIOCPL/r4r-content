@@ -14,4 +14,4 @@ researchTypes:
 docs:
   - doc: dctd
 ---
-Helps researchers identify potentially promising combinations of cancer drugs by providing data and analysis tools showing how well pairs of FDA-approved cancer drugs performed in killing tumors cells for the NCI-60 Human Tumor Cell Lines
+The MicroXeno Project was initiated to generate genome-wide cDNA microarray data for all subcutaneous xenograft models currently used within the DTP. The array data provided here is a reference dataset that can be used to study multiple xenograft models at multiple passage in vivo.

@@ -12,20 +12,6 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: dccps
-poc:
-  - email: feuerr@mail.nih.gov
-    name:
-      firstname: Eric (Rocky)
-      lastname: Feuer
-    phone: 240-276-6772
-    title: Chief, Statistical Research and Applications Branch, Surveillance Research Program
-  - email: scotts2@mail.nih.gov
-    name:
-      firstname: Susan
-      lastname: Scott
-    phone: 240-276-6951
-    title: Public Health Advisor, Surveillance Research Program
+  - doc: dctd
 ---
-Consortium of NCI-sponsored investigators who use statistical/simulation modeling to examine the impact of prevention, screening, and treatment on cancer incidence and mortality. These models can then project future trends and help determine optimal cancer control strategies. These models can also be used to guide public health research and priorities. Established in 2000, CISNET comprises six cancer site groups:  breast, prostate, colorectal, lung, esophageal, and cervical.
-
+Standard Operating Procedures (SOPs) for various biobanking practices used in initiatives such as the Cancer Human Biobank (caHUB). The caHUB has collected high quality biospecimens and associated data to enable genomic research in the Genotype-Tissue Expression (GTEx) project, a National Institutes of Health (NIH) Common Fund initiative. The success of GTEx depends on the ability to successfully procure and store high quality biospecimens for analysis. Successful collection of normal human biospecimens from rapid autopsies and organ donors requires complex operations and a stringent QA/QC process. For this reason, caHUB has created a large number of SOPs to govern operations in ethical and regulatory procedures; biospecimen collecting and tracking; data collection; production of collection and shipping kits and checklists; and pathology review.

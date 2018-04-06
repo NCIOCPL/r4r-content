@@ -7,13 +7,6 @@ toolTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: dccps
-poc:
-  - email: tatalovichzp@mail.nih.gov
-    name:
-      firstname: Zaria
-      lastname: Tatalovich
-    title: Geospatial Scientist, Statistical Research and Applications Branch, Surveillance Research Program
-    phone: 240-276-6976
+  - doc: cbiit
 ---
-State Cancer Profiles characterizes the cancer burden in a standardized manner to motivate action, integrate surveillance into cancer control planning, characterize areas and demographic groups, and expose health disparities. This interactive website provides cancer statistics, charts, and maps for data topics across the cancer control continuum, including demographics, risk factors, screening, cancer knowledge, incidence, prevalence, and mortality. The focus is on cancer sites with evidence-based cancer control interventions. The website provides support for deciding where to focus cancer control efforts. State Cancer Profiles is one tool of the Cancer Control P.L.A.N.E.T. portal, which provides access to Web-based resources.
+Modified UMLS, modified SemRep and SemMedDB-UTH äóñ these are resources (UMLS, SemMedDB-UT) and tools (SemRep) created and maintained by National Library of Medicine that we have modified for personalized cancer therapy and returned to the NLM.

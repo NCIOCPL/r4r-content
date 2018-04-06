@@ -14,6 +14,11 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: ccg
+poc:
+  - email: andrey.ivanov@emory.edu
+    name:
+      firstname: Andrei
+      lastname: Ivanov
 ---
-dcmqi is a free, open source library that implements conversion of the data stored in commonly used research formats into the standard DICOM representation
+The OncoPPi Portal integrates genomic, pharmacological, clinical, and structural data from external resources with the network of cancer-associated protein-protein interactions (PPI) experimentally determined in cancer cells. This is an interactive web resource that allows users to access, explore, and prioritize cancer-relevant PPIs for target discovery.

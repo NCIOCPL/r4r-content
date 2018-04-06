@@ -1,7 +1,7 @@
 ---
 id: 160
 title: Clustered Regularly Interspaced Short Palindromic Repeats (CRISPRi) plasmids
-website: www.addgene.org/crispr/qi-weissman/
+website: http://www.addgene.org/crispr/qi-weissman/
 toolTypes:
     - toolType: lab_tools/reagents
 researchAreas:

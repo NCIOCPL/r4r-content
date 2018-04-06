@@ -11,4 +11,4 @@ resourceAccess:
 docs:
   - doc: cbiit
 ---
-TIES is a service based software system for acquiring, deidentifying, and processing clinical text reports using natural language processing, and also for querying, sharing and using this data to foster tissue and image based research, within and between institutions.
+dcmqi is a free, open source library that implements conversion of the data stored in commonly used research formats into the standard DICOM representation

@@ -11,17 +11,15 @@ researchAreas:
 researchTypes:
   - researchType: epidemiologic
 resourceAccess:
-  type: open
+  type: register
 docs:
-  - doc: ccg
+  - doc: dccps
 poc:
-  - email: af2202@cumc.columbia.edu
+  - email: mariotta@mail.nih.gov
     name:
-      firstname: Aristidis
-      lastname: Floratos
-  - email: ac2248@cumc.columbia.edu
-    name:
-      firstname: Andrea
-      lastname: Califano
+      firstname: Angela
+      lastname: Mariotto
+    title: Chief, Data Analytics Branch, Surveillance Research Program
+    phone: 240-276-6698
 ---
-Modulator Inference by Network Dynamics (MINDy2)/ Conditional Inference of Network Dynamics (CINDy). MINDy2 and CINDy both infer modulatory events in the cell. They do this by screening a list of candidate modulator proteins and assessing their effect on the transcriptional control of a transcription factor of interest. CINDy uses a more sophisticated algorithm: while both try to assess the effects of a modulator over a transcriptional network, CINDy uses the entire expression range of the modulator.
+Limited-duration prevalence represents the proportion of people alive on a certain day who had a diagnosis of the disease within a certain number of years. The ProjPrev software takes limited-duration prevalence statistics from SEER*Stat and applies them to a different population. The population would typically differ in year or geographic area. ProjPrev is primarily used to derive US prevalence by projecting SEER prevalence onto US populations. 

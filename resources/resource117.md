@@ -10,10 +10,15 @@ researchAreas:
 researchTypes:
   - researchType: basic
 resourceAccess:
-  type: open
+  type: register
 docs:
-  - doc: ccg
+  - doc: dcb
 poc:
-  - email: ocg@mail.nih.gov
+  - email: Jk339o@nih.gov
+    name:
+      firstname: Dr. J. Randy
+      lastname: Knowlton
+    title: Program Director, (6W334)
+    phone: 240-276-6210
 ---
-This is an open-access web interface that compiles Network-generated summaries about key cancer biology findings and cancer-relevant results related to genes, proteins, and compounds. Submissions are "ranked" with the validation "Tier" system to indicate strength of evidence.
+NCI partnered with the National Institute of General Medical Sciences (NIGMS) to fund the construction and management of a state-of-the-art macromolecular crystallography synchrotron beamline for determining structures of biologically important macromolecules. The beamline, GM/CA CAT, is located at the Advanced Photon Source on the grounds of Argonne National Lab just outside of Chicago.    NCI has a significant amount of beamtime dedicated for the use of its grantees. Investigators interested in taking experiments to this facility should contact the beamline directly or email Dr. J. Randy Knowlton (Jk339o@nih.gov) for additional information.
