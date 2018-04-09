@@ -1,6 +1,6 @@
 ---
 id: 159
-title: Screening Bayesian Evaluation and Analysis Method (ScreenBEAM)
+title: Screening Bayesian Evaluation and Analysis Method (ScreenBEAM)
 website: https://github.com/jyyu/ScreenBEAM
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

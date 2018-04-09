@@ -1,6 +1,6 @@
 ---
 id: 147
-title: MD Anderson Cell Line Project (MCLP) Data Portal 
+title: MD Anderson Cell Line Project (MCLP) Data Portal
 website: https://tcpaportal.org/mclp/#/
 toolTypes:
   - toolType: analysis_tools/data_visualization
