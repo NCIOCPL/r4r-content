@@ -14,4 +14,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-A unified platform for integrative genomic-proteomic-metabolomic data analysis and informatics in cancer research.
+A unified platform for integrative genomic-proteomic-metabolomic data analysis and informatics in cancer research. Galaxy-P is a multi-omics informatics platform. The focus of the platform is integrative analysis of genomics, transcriptomics and mass spectrometry-based proteomics and metabolomics data.

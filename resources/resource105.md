@@ -17,4 +17,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-3D Slicer is the free open source software for medical image visualization and analysis.
+3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization. Slicer brings free, powerful cross-platform processing tools to physicians, researchers, and the general public.

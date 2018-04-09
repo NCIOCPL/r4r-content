@@ -14,4 +14,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-OMIT is a domain ontology specifically designed for the miRNA field.
+OMIT is a domain ontology specifically designed for the miRNA field. OmniSearch software was developed to handle the significant challenge of miRNA-related data integration and query. It will significantly assist biologists, bioinformaticians, and clinical investigators to unravel critical roles performed by different microRNAs in human disease.

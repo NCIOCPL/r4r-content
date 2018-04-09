@@ -1,6 +1,6 @@
 ---
 id: 40
-title: Biomarker Stratified Randomized Design
+title: Biomarker Stratified Randomized Design (Time-to-Event)
 website: https://brb.nci.nih.gov/brb/samplesize/sdpap_survival.html
 toolTypes:
     - toolType: analysis_tools/modeling
@@ -15,4 +15,4 @@ docs:
     - doc: dctd
 pocs: []        
 ---
-Stratified design randomizes both marker positive and negative patients
+Stratified Design with Prospective Analysis Plan and Time-to-Event Endpoint. Randomized trial comparing new treatment (T) to control (C) includes both classifier positive and classifier negative patients. Presumes availability of binary classifier predictive of benefit for new treatment.

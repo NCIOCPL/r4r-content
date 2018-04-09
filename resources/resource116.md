@@ -1,6 +1,6 @@
 ---
 id: 116
-title: NIH MHC Tetramer Program
+title: NIH MHC (Major Histocompatibility Complex) Tetramer Program
 website: http://tetramer.yerkes.emory.edu/
 toolTypes:
     - toolType: lab_tools/reagents

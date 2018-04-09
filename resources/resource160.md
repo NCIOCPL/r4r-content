@@ -16,5 +16,4 @@ docs:
     - doc: ccg
 pocs: []        
 ---
-The CRISPR ( C lustered R egularly I nterspaced S hort P alindromic R epeats) system offers a general approach for RNA-guided regulation of transcription. Individual plasmids can be ordered via the link
-
+The CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) system offers a general approach for RNA-guided regulation of transcription. Individual plasmids can be ordered via the link.

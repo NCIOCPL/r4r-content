@@ -1,6 +1,6 @@
 ---
 id: 64
-title: ShEx
+title: Shape Expression Validation Tools (ShEx)
 website: https://github.com/caCDE-QA/ShEX
 toolTypes:
   - toolType: analysis_tools/data_visualization

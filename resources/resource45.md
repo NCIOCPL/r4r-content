@@ -15,3 +15,4 @@ docs:
     - doc: dctd
 pocs: []        
 ---
+New "accelerated titration designs" for phase I clinical trials, along with a dose-toxicity model which can be used to evaluate the toxicity data. The dose-toxicity model can be used to assign the phase II starting dose, for the use of investigators conducting phase I studies.

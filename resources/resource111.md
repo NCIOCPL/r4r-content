@@ -1,6 +1,6 @@
 ---
 id: 111
-title: LSTM-CRF
+title: LSTM-CRF (Long Short-Term Memory Conditional Random Field)
 website: 
 toolTypes:
     - toolType: clinical_research_tools/ctcae
