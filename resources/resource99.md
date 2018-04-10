@@ -10,8 +10,9 @@ researchAreas:
 researchTypes:
   - researchType: basic
   - researchType: clinical_trials
+resourceAccess:
+  type: open
 docs:
   - doc: dctd
 ---
 Compound sensitivity data for the NCI60 screen and similar screens run on sarcoma cell lines and small cell lung cancer cell lines, plus molecular target characterization data for the NCI60, sarcoma, and SCLC cell lines.
-

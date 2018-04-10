@@ -2,6 +2,9 @@
 id: 141
 title: Cancer Statistics Animator
 website: https://seer.cancer.gov/canstat/
+toolTypes:
+    - toolType: datasets_databases/epidemiologic_data
+    - toolType: analysis_tools/data_visualization
 researchAreas:
   - researchArea: cancer_public_health
   - researchArea: cancer_health_disparities

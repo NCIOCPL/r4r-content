@@ -2,6 +2,9 @@
 id: 142
 title: Fast Stats
 website: https://seer.cancer.gov/faststats/
+toolTypes:
+    - toolType: datasets_databases/epidemiologic_data
+    - toolType: analysis_tools/data_visualization
 researchAreas:
   - researchArea: cancer_public_health
   - researchArea: cancer_health_disparities

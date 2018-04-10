@@ -10,6 +10,8 @@ researchAreas:
 researchTypes:
   - researchType: basic
   - researchType: clinical_trials
+resourceAccess:
+  type: open
 docs:
   - doc: dctd
 ---

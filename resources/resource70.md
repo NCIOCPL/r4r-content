@@ -2,9 +2,12 @@
 id: 70
 title: Know Your Chances
 website: https://knowyourchances.cancer.gov/
+toolTypes:
+  - toolType: datasets_databases/epidemiologic_data
 researchAreas:
   - researchArea: cancer_public_health
   - researchArea: cancer_health_disparities
+  - researchArea: cancer_statistics
 researchTypes:
   - researchType: epidemiologic
 resourceAccess:

@@ -9,6 +9,8 @@ researchAreas:
   - researchArea: cancer_biology
 researchTypes:
   - researchType: clinical_trials
+resourceAccess:
+  type: open
 docs:
   - doc: dctd
 ---

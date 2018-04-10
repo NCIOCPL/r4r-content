@@ -2,6 +2,8 @@
 id: 88
 title: CI*Rank
 website: https://surveillance.cancer.gov/cirank/
+toolTypes:
+  - toolType: datasets_databases/epidemiologic_data
 researchAreas:
   - researchArea: cancer_public_health
   - researchArea: cancer_health_disparities

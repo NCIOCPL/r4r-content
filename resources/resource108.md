@@ -1,6 +1,10 @@
 ---
 id: 108
 title: dcmqi - DICOM for Quantitative Imaging
+website: https://github.com/QIICR/dcmqi
+toolTypes:
+  - toolType: datasets_databases/imaging
+  - toolType: analysis_tools/imaging_analysis
 researchAreas:
   - researchArea: screening_detection
   - researchArea: cancer_treatment

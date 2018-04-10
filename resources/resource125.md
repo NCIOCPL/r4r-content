@@ -2,9 +2,13 @@
 id: 125
 title: Cancer Prevalence and Cost of Care Projections
 website: https://costprojections.cancer.gov/
+toolTypes:
+    - toolType: datasets_databases/epidemiologic_data
+    - toolType: analysis_tools/data_visualization
 researchAreas:
   - researchArea: cancer_treatment
   - researchArea: cancer_statistics
+  - researchArea: cancer_public_health
 researchTypes:
   - researchType: epidemiologic
 resourceAccess:

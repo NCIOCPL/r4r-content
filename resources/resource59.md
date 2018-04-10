@@ -8,6 +8,8 @@ researchAreas:
   - researchArea: cancer_treatment
 researchTypes:
   - researchType: clinical_trials
+resourceAccess:
+  type: open
 docs:
   - doc: dctd
 ---
