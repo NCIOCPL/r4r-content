@@ -8,8 +8,8 @@ researchAreas:
   - researchArea: cancer_biology
   - researchArea: cancer_omics
   - researchArea: cancer_treatment
-  - researchType: basic
 researchTypes:
+  - researchType: basic
   - researchType: translational
 resourceAccess:
   type: open
