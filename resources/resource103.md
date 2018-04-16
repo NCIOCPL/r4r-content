@@ -7,7 +7,8 @@ toolTypes:
     - toolType: analysis_tools/imaging_analysis
 researchAreas:
     - researchArea: screening_detection
-    - researchArea: Imaging
+# This does not exist in the options    
+#    - researchArea: Imaging
 researchTypes:
     - researchType: translational
 resourceAccess:
