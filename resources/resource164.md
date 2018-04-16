@@ -4,8 +4,8 @@ title: NCI Formulary
 website: https://nciformulary.cancer.gov
 toolTypes:
     - toolType: networks_consortiums
-researchAreas:
     - toolType: lab_tools/compounds
+researchAreas:
     - researchArea: cancer_treatment
 researchTypes:
     - researchType: clinical_trials
