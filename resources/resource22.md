@@ -1,6 +1,9 @@
 ---
 id: 22
 title: GenePattern
+description: >
+    GenePattern is a genomic analysis platform that provides access to hundreds of tools for the analysis and visualization of multiple data types.
+    
 website: http://software.broadinstitute.org/cancer/software/genepattern/
 toolTypes:
     - toolType: analysis_tools/genomic_analysis
