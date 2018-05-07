@@ -3,6 +3,7 @@ id: 4
 title: Driver-gene Inference by Genetical-Genomics and Information Theory (DIGGIT)
 description: >
   The DIGGIT package integrates patient-matched genomic mutation and gene expression data with corresponding gene regulatory networks to identify candidate driver mutations that are upstream of and directly perturb master regulators.
+  
 website: 'http://califano.c2b2.columbia.edu/software'
 resourceAccess:
   type: open
