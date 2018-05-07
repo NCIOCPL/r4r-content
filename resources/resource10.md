@@ -1,6 +1,9 @@
 ---
 id: 10
 title: Apache Clinical Text and Knowledge Extraction System (cTAKES)
+description: >
+    The tool extracts deep phenotypic information from the clinical narrative at the document-, episode-, and patient-level.
+
 website: http://ctakes.apache.org
 toolTypes:
     - toolType: analysis_tools/natural_language_processing

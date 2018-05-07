@@ -1,6 +1,9 @@
 ---
 id: 18
 title: Ontology for MIcroRNA Target (OMIT)
+description: >
+    OMIT is a domain ontology specifically designed for the miRNA field. OmniSearch software was developed to handle the significant challenge of miRNA-related data integration and query.
+
 website: http://omnisearch.soc.southalabama.edu/w/index.php/Ontology 
 toolTypes:
     - toolType: terminology
