@@ -1,6 +1,8 @@
 ---
 id: 1
 title: Enhancer Linking by Methylation/Expression Relationships (ELMER)
+description: >
+R tool for analysis of DNA methylation and expression datasets.
 website: http://bioconductor.org/packages/release/bioc/html/ELMER.html
 toolTypes:
     - toolType: analysis_tools/r_software
