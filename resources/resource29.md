@@ -1,6 +1,9 @@
 ---
 id: 29
 title: Integrative Genomics Viewer (IGV)
+description: >
+    IGV is a high-performance visualization tool for interactive exploration of large, integrated genomic datasets that supports a wide variety of data types.
+    
 website: http://www.igv.org
 toolTypes:
     - toolType: analysis_tools/data_visualization

@@ -1,6 +1,9 @@
 ---
 id: 24
 title: The Cancer Imaging Archive (TCIA)
+description: > 
+    TCIA is NCI's repository for publicly shared cancer imaging data.
+    
 website: http://www.cancerimagingarchive.net
 toolTypes:
     - toolType: datasets_databases/imaging
