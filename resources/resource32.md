@@ -1,6 +1,9 @@
 ---
 id: 32
 title: The International Registry of Werner Syndrome
+description: >
+    The International Registry of Werner Syndrome is the primary repository of samples and data from patients with Werner Syndrome (WS). The registry ascertains and genotypes new pedigree cases from around the world.
+    
 website: http://www.wernersyndrome.org/registry/registry.html
 toolTypes:
     - toolType: lab_tools/biospecimen

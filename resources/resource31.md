@@ -1,6 +1,9 @@
 ---
 id: 31
 title: Patient-Derived Xenograpt (PDX) Finder
+description: >
+    PDX Finder, currently in the prototyping phase, is integrative, archiving and dessiminating information about PDX models and their associated data.
+    
 website: http://www.pdxfinder.org
 toolTypes:
     - toolType: lab_tools/animal_models

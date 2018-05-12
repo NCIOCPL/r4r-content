@@ -1,6 +1,9 @@
 ---
 id: 30
 title: NDEx - The Network Data Exchange
+description: >
+    NDEx is an online commons where scientists can upload, share, and publicly distribute biological networks and pathway models.
+    
 website: http://www.ndexbio.org/#/
 toolTypes:
     - toolType: datasets_databases/biological_networks
