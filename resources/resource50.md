@@ -1,6 +1,9 @@
 ---
 id: 50
 title: Design, Monitoring, and Analysis of Bayesian Basket Discovery Trials
+description: >
+    This application currently supports sample size planning and interim analysis for Bastket trials.
+    
 website: https://brpnci.shinyapps.io/BasketTrials/
 toolTypes:
     - toolType: analysis_tools/r_software

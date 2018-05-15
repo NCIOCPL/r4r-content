@@ -1,6 +1,9 @@
 ---
 id: 43
 title: OpenGeneMed
+description: >
+    OpenGeneMed is an informatics system to support clinical trial research and streamlines clinical trial management. It can also be used by clinicians, lab personnel, statisticians and other researchers as a communication hub. 
+    
 website: https://brb.nci.nih.gov/OpenGeneMed/
 toolTypes:
     - toolType: datasets_databases/patient_registries

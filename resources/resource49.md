@@ -1,6 +1,9 @@
 ---
 id: 49
 title: The Biospecimen Research Database
+description: >
+  Database of Standard Operating Procedures (SOPs) and peer-reviewed articles in the field of human Biospecimen Science. SOP documents are searchable by keyword, or by curated fields (source organization,tier, applicable biospecimens, and topic).
+
 website: https://brd.nci.nih.gov/brd/
 toolTypes:
   - toolType: lab_tools/protocols

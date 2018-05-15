@@ -1,6 +1,9 @@
 ---
 id: 51
 title: Baysian Phase II Single Arm Clinical Trials
+description: >
+    This application supports the conduct of simulations for a single arm phase II clinical trial of a new treatment T with time to event outcome variable.
+    
 website: https://brpnci.shinyapps.io/Phase2sim_survival_v1/
 toolTypes:
     - toolType: analysis_tools/r_software
