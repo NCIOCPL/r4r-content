@@ -1,6 +1,9 @@
 ---
 id: 69
 title: Informatics Technology for Cancer Research (ITCR) Informatics Tools
+description: >
+    Informatics resources for use across the development lifecycle, including the development of innovative methods and algorithms, early stage software development ,advanced stage software development, and sustainment of high-value resources. 
+    
 website: https://itcr.nci.nih.gov/informatics-tools
 toolTypes:
     - toolType: analysis_tools/data_visualization

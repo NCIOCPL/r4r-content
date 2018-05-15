@@ -1,6 +1,9 @@
 ---
 id: 67
 title: BioMuta
+description: >
+    BioMuta is an annotated single-nucleotide variation (SNV) and disease association database in which variations are mapped to positions at genome, protein, and gene levels. The current database contains a total of 4,684,236 nonsynonymous SNVs (nsSNVs) reported in 18,269 genes across 77 Disease Ontology cancer types. 
+    
 website: https://hive.biochemistry.gwu.edu/biomuta
 toolTypes:
     - toolType: datasets_databases/genomic_datasets

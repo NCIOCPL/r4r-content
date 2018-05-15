@@ -1,6 +1,9 @@
 ---
 id: 68
 title: The Cancer Imaging Archive (TCIA)
+description: >
+  The Cancer Imaging Archive (TCIA) provides a free, open archive of cancer-specific medical images and metadata accessible for public download.
+  
 website: https://imaging.cancer.gov/informatics/cancer_imaging_archive.htm
 toolTypes:
   - toolType: datasets_databases/clinical_data

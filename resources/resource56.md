@@ -1,6 +1,9 @@
 ---
 id: 56
 title: NCI-60 Human Tumor Cell Lines Screen
+description: >
+    The NCI-60 Human Tumor Cell Lines Screen utilizes 60 different human tumor cell lines to identify and characterize novel compounds with groth inhibition of killing of tumor cell lines.
+    
 website: https://dtp.cancer.gov/discovery_development/nci-60/default.htm
 toolTypes:
     - toolType: lab_tools/assays

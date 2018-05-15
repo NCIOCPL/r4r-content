@@ -1,6 +1,9 @@
 ---
 id: 55
 title: NCI-60 MicroXeno Data
+description: >
+  The MicroXeno Project array data is a reference dataset that can be used to study multiple xenograft models at multiple passage in vivo.
+  
 website: https://dtp.cancer.gov/databases_tools/microxeno_project.htm
 toolTypes:
   - toolType: datasets_databases/clinical_data

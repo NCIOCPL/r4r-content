@@ -1,6 +1,9 @@
 ---
 id: 59
 title: NCI Almanac
+description: >
+  Helps researchers identify potentially promising combinations of cancer drugs by providing data and analysis tools showing how well pairs of FDA-approved cancer drugs performed in killing tumors cells for the NCI-60 Human Tumor Cell Lines.
+  
 website: https://dtp.cancer.gov/ncialmanac/initializePage.do
 toolTypes:
   - toolType: datasets_databases/clinical_data
