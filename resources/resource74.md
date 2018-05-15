@@ -1,6 +1,9 @@
 ---
 id: 74
 title: Repository of Patient-Derived Models
+description: >
+    Patient-Derived Models (PDMs) comprised of patient-derived xenografts (PDXs) and in vitro patient-derived cell cultures (PDCs), including mixed cell populations, clonal cell lines and fibroblast cell lines to serve as a resource for public-private partnerships and for academic drug discovery efforts.
+    
 website: https://pdmr.cancer.gov
 toolTypes:
     - toolType: lab_tools/biospecimen

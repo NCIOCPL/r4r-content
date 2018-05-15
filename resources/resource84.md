@@ -1,6 +1,9 @@
 ---
 id: 84
 title: SEER*Stat Software
+description: >
+  The SEER*Stat statistical software is a powerful PC tool to view individual cancer records and to produce statistics for studying the impact of cancer on a population. 
+  
 website: https://seer.cancer.gov/seerstat/
 toolTypes:
   - toolType: analysis_tools/statistical_software

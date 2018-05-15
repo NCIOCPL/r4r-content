@@ -1,6 +1,9 @@
 ---
 id: 89
 title: DevCan
+description: >
+    This tool consists of statistical software and associated databases that compute the probability of being diagnosed with or dying of cancer for a particular selected cancer site. The probability can be calculated either from birth (lifetime risk) or for a person who is a particular age. 
+    
 website: https://surveillance.cancer.gov/devcan/
 toolTypes:
     - toolType: analysis_tools/modeling

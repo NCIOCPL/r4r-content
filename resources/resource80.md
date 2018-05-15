@@ -1,6 +1,9 @@
 ---
 id: 80
 title: SEER Research Data
+description: > 
+    The Surveillance, Epidemiology, and End Results (SEER) Research Data include SEER incidence and population data associated by age, sex, race, year of diagnosis, and geographic areas (including SEER registry and county). 
+    
 website: https://seer.cancer.gov/data/
 toolTypes:
     - toolType: datasets_databases/epidemiologic_data

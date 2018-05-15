@@ -1,6 +1,9 @@
 ---
 id: 77
 title: Small Area Estimates for Cancer-Related Measures
+description: >
+  This interactive website provides access to several small area estimation projects pertaining to risk factors. Model-based methods that combine information from one or two large-scale national surveys and multiple related sources have been developed to produce state or county-level estimates for a number of measures. 
+  
 website: https://sae.cancer.gov/
 toolTypes:
   - toolType: datasets_databases

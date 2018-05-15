@@ -1,8 +1,10 @@
 ---
 id: 87
 title: State Cancer Profiles
+description: >
+    This interactive website provides cancer statistics, charts, and maps for data topics across the cancer control continuum, including demographics, risk factors, screening, cancer knowledge, incidence, prevalence, and mortality. The focus is on cancer sites with evidence-based cancer control interventions. 
+    
 website: https://statecancerprofiles.cancer.gov/
-
 toolTypes:
     - toolType: datasets_databases/epidemiologic_data
 researchAreas:

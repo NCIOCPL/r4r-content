@@ -1,6 +1,9 @@
 ---
 id: 71
 title: Repository of Biologicals- Monoclonal Antibodies, Cytokines, and Cytokine Standards
+description: >
+    This NCI-sponsered facility stores bulk cytokines, monoclonal antibodies, and cytokine standards. 
+    
 website: https://ncifrederick.cancer.gov/research/brb/logon.aspx
 toolTypes:
     - toolType: lab_tools/reagents

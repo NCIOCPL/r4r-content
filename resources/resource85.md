@@ -1,6 +1,9 @@
 ---
 id: 85
 title: Cancer Stat Fact Sheets
+description: >
+  Frequently-requested cancer statistics for a number of common cancer types, which may include incidence, mortality, survival, stage, prevalence, and lifetime risk.
+  
 website: https://seer.cancer.gov/statfacts/
 toolTypes:
   - toolType: analysis_tools/statistical_software

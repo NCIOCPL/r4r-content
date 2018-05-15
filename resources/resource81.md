@@ -1,6 +1,9 @@
 ---
 id: 81
 title: SEER*Explorer
+description: >
+  SEER*Explorer is an interactive website that provides easy access to detailed statistics for a cancer site by gender, race, calendar year, age, and for a selected number of cancer sites, by stage and histology. 
+  
 website: https://seer.cancer.gov/explorer/
 toolTypes:
   - toolType: datasets_databases/epidemiologic_data

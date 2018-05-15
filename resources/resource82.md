@@ -1,6 +1,9 @@
 ---
 id: 82
 title: Health Disparities Calculator (HD*Calc)
+description: >
+  Statistical software designed to generate multiple summary measures to evaluate and monitor health disparities. HD*Calc allows the user to import Surveillance, Epidemiology, and End Results (SEER) or other population-based health data and calculate any of eleven disparity measurements. 
+  
 website: https://seer.cancer.gov/hdcalc/
 toolTypes:
   - toolType: analysis_tools/data_visualization

@@ -1,6 +1,9 @@
 ---
 id: 72
 title: NCTN/NCORP Data Archive
+description: >
+    This data archive is a centralized, controlled-access database for storing and sharing datasets generated from clinical trials of the National Clinical Trials Network (NCTN) for use in secondary studies. 
+    
 website: https://nctn-data-archive.nci.nih.gov
 toolTypes:
     - toolType: datasets_databases/clinical_data

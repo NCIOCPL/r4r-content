@@ -1,6 +1,9 @@
 ---
 id: 86
 title: Modified UMS, Modified SemRep and SemMedDB-UTH
+description: >
+  This database holds semantic predications extracted from MEDLINE citations with a version of SemRep that increases the number of predications on drug therapies for cancer. 
+  
 website: https://skr3.nlm.nih.gov/SemMedDB/index_uth.html
 toolTypes:
   - toolType: terminology

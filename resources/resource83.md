@@ -1,6 +1,9 @@
 ---
 id: 83
 title: Annual Report to the Nation on the Status of Cancer, 1975-2014
+description: >
+  An update of rates for new cases and deaths as well as trends for the most common cancers in the United States. The special section of this report focuses on survival.
+  
 website: https://seer.cancer.gov/report_to_nation/
 toolTypes:
   - toolType: analysis_tools/statistical_software

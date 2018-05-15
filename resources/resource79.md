@@ -1,6 +1,9 @@
 ---
 id: 79
 title: SEER Cancer Statistics Review (CSR), 1975-2014
+description: >
+  A report of the most recent cancer incidence, mortality, survival, prevalence, and lifetime risk statistics. This edition includes statistics from 1975 through 2014, the most recent year for which data are available.
+  
 website: https://seer.cancer.gov/csr/1975_2014/
 toolTypes:
   - toolType: analysis_tools/statistical_software

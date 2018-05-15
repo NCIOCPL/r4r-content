@@ -1,6 +1,9 @@
 ---
 id: 88
 title: CI*Rank
+description: >
+  Age-adjusted U.S. incidence and mortality rates by geographic region, plus the confidence intervals for those rates and their ranks. 
+  
 website: https://surveillance.cancer.gov/cirank/
 toolTypes:
   - toolType: datasets_databases/epidemiologic_data

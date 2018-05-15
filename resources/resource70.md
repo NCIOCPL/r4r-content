@@ -1,6 +1,9 @@
 ---
 id: 70
 title: Know Your Chances
+description: >
+  The Know Your Chances websites provides interactive risk charts that show the likelihood of dying from a variety of cancer types and other diseases over a specific time frame, with the ability to accounting for age, sex, and race. 
+  
 website: https://knowyourchances.cancer.gov/
 toolTypes:
   - toolType: datasets_databases/epidemiologic_data
