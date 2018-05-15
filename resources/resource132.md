@@ -1,6 +1,9 @@
 ---
 id: 132
 title: Gene-wise Prior Bayesian Group Factor Analysis (GBGFA)
+description: >
+  GBGFA explicitly models gene-centric dependencies when integrating genomic alterations data of the same gene from different platforms (e.g. copy number variation, gene expression and mutation data) to prioritize genes supported by multiple inputs. 
+  
 website: https://github.com/olganikolova/gbgfa
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

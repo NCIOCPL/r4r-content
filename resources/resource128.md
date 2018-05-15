@@ -1,6 +1,9 @@
 ---
 id: 128
 title: CERES
+description: >
+  CERES is a method to infer gene essentiality from genome-wide CRISPR-Cas9 screens in cancer cell lines to correct the copy number effect. This approach decreases the false-positive results while taking into account the anti-proliferative copy-number effect.
+  
 website: https://depmap.org/ceres/
 toolTypes:
   - toolType: lab_tools/assays

@@ -1,6 +1,9 @@
 ---
 id: 121
 title: The Cancer Proteome Atlas (TCPA)
+description: >
+  TCPA is an interactive resource that enables researchers to analyze and visualize functional proteomic data (e.g. protein expression and modifications). This tool currently hosts data from 4,495 samples (TCGA samples, additional separate tumor samples, and >500 cell-lines).  
+  
 website: https://bioinformatics.mdanderson.org/main/TCPA
 toolTypes:
   - toolType: analysis_tools/data_visualization

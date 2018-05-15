@@ -1,6 +1,9 @@
 ---
 id: 130
 title: Geographic Information Systems (GIS) and Science for Cancer Control
+description: >
+  This website provides resources for interactive mapping, exploring, and downloading geographically based cancer-related information. 
+  
 website: https://gis.cancer.gov/
 toolTypes:
     - toolType: datasets_databases/epidemiologic_data

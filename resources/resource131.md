@@ -1,6 +1,9 @@
 ---
 id: 131
 title: Mining Essentiality Data to Identify Critical Interactions for Cancer Drug Target Discovery and Development (MEDICI)
+description: >
+  MEDICI is a computational method which ranks known protein-protein interactions (PPIs). 
+  
 website: https://github.com/cooperlab/MEDICI
 toolTypes:
   - toolType: analysis_tools/data_visualization

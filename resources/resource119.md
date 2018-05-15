@@ -1,6 +1,9 @@
 ---
 id: 119
 title: Evaluation of Differential DependencY-Cancer Therapeutic Response Portal (EDDY-CTRP)
+description: >
+  Analysis of subset of the Cancer Therapeutic Response Portal (CTRP) transcriptome and drug screening data from 810 cancer cell lines.
+  
 website: https://biocomputing.tgen.org/software/EDDY/CTRP/home.html
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

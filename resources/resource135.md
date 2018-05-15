@@ -1,6 +1,9 @@
 ---
 id: 135
 title: Cancer Target Discovery and Development (CTD^2) Data Portal
+description: >
+  Raw and analyzed primary data sets from high-throughput and high content small molecule and genetic screens are available through this data portal. 
+  
 website: https://ocg.cancer.gov/programs/ctd2/data-portal
 toolTypes:
   - toolType: datasets_databases

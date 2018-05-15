@@ -1,6 +1,9 @@
 ---
 id: 122
 title: PiHelper
+description: >
+  PiHelper integrates drug target and antibody target interactions from publicly available resources to facilitate research in systems pharmacology, perturbation biology, and proteomics. 
+  
 website: https://bit.ly/pihelper
 toolTypes:
   - toolType: analysis_tools/data_visualization

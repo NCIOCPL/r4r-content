@@ -1,6 +1,9 @@
 ---
 id: 118
 title: Evaluation of Differential DependencY (EDDY)
+description: >
+  EDDY is a statistical test for estimating differential dependencies for a set of genes between two conditions. 
+  
 website: https://biocomputing.tgen.org/software/EDDY/
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

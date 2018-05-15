@@ -1,6 +1,9 @@
 ---
 id: 117
 title: GM/CA X-ray Beamline
+description: >
+  State-of-the-art macromolecular crystallography synchrotron beamline for determining structures of biologically important macromolecules. NCI has a significant amount of beamtime dedicated for the use of its grantees. 
+  
 website: http://www.gmca.anl.gov/
 toolTypes:
   - toolType: lab_tools

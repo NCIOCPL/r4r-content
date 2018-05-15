@@ -1,6 +1,9 @@
 ---
 id: 125
 title: Cancer Prevalence and Cost of Care Projections
+description: >
+  Tables and graphs, by cancer site and all sites combined, showing cancer prevalence and costs of cancer care projected through 2020.
+  
 website: https://costprojections.cancer.gov/
 toolTypes:
     - toolType: datasets_databases/epidemiologic_data

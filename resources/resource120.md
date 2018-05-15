@@ -1,6 +1,9 @@
 ---
 id: 120
 title: MethylMix
+description: >
+  MethylMix identifies differentially and transcriptionally predictive methylated genes within a disease. 
+  
 website: https://bioconductor.org/packages/3.1/bioc/html/MethylMix.html
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

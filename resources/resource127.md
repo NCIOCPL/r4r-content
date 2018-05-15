@@ -1,6 +1,9 @@
 ---
 id: 127
 title: Questionnaire Development Resources
+description: >
+  A collection of questionnaires and questionnaire segments for use in a wide variety of epidemiological studies. 
+  
 website: https://dceg.cancer.gov/tools/design/questionnaires
 toolTypes:
   - toolType: community_research_tools/questionnaire

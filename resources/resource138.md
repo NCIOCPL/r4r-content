@@ -1,6 +1,9 @@
 ---
 id: 138
 title: Protein-Protein Interaction Reagents
+description: >
+  A library of genes used to study protein-protein interactions in mammalian cells. These genes are cloned in different mammalian expression vectors. 
+  
 website: https://ocg.cancer.gov/resources/all-resources
 toolTypes:
   - toolType: lab_tools/reagents
