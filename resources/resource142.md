@@ -2,8 +2,8 @@
 id: 142
 title: Fast Stats
 description: >
-  Interactive tool for quick access to key SEER and US cancer statistics for major cancer sites by age, sex, race/ethnicity and data type. Statistics are presented as graphs and tables.
-  
+  Interactive tool for quick access to key SEER and US cancer statistics for major cancer sites by age,sex, race/ethnicity and data type. Statistics are presented as graphs and tables.
+
 website: https://seer.cancer.gov/faststats/
 toolTypes:
     - toolType: datasets_databases/epidemiologic_data

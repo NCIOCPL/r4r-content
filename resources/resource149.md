@@ -1,9 +1,9 @@
 ---
 id: 149
 title: Master Regulator Inference algorithm (MARINa)
-descriptions: >
+description: >
   MARINa uses the transcriptional targets of each transcription factor (TF) as a multiplexed reporter assay to infer the TFs controlling the transition between related cellular states. This is performed by computing the effect that enrichment of each regulon has on the differentially expressed genes between two phenotypic states.
-  
+
 website: https://wiki.c2b2.columbia.edu/califanolab/index.php/Software/MARINA
 toolTypes:
   - toolType: analysis_tools/genomic_analysis
