@@ -1,6 +1,9 @@
 ---
 id: 159
 title: Screening Bayesian Evaluation and Analysis Method (ScreenBEAM)
+description: >
+  ScreenBEAM is an algorithm that measures gene-level activity to assess the effect of high-throughput RNA interference (RNAi) or Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) screens through Bayesian hierarchical modeling. 
+  
 website: https://github.com/jyyu/ScreenBEAM
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

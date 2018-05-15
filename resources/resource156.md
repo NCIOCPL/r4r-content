@@ -1,6 +1,9 @@
 ---
 id: 156
 title: New Grantee Workshop
+description: >
+  DCB offers an annual workshop for new and early-stage investigators to familiarize them with the processes and standards of DCB, NCI and NIH. The workshop is designed for DCB grantees who have received their first independent NIH grant within the last year. 
+  
 website: https://www.cancer.gov/about-nci/organization/dcb/researcher-resources#workshop
 toolTypes:
   - toolType: networks_consortiums

@@ -1,6 +1,9 @@
 ---
 id: 151
 title: Virtual Inference of Protein-activity by Enriched Regulon analysis (VIPER)
+description: >
+  VIPER is the extension of Master Regulator Inference algorithm (MARINa) to single samples and to any protein having a regulatory role in the cell, including transcription factors (TFs) and signaling proteins. 
+  
 website: https://wiki.c2b2.columbia.edu/califanolab/index.php/Software/VIPER
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

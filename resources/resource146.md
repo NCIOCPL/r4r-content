@@ -1,6 +1,9 @@
 ---
 id: 146
 title: ProjPrev-Projected Prevalence Software
+description: >
+  The ProjPrev software takes limited-duration prevalence statistics from SEER*Stat and applies them to a different population. ProjPrev is primarily used to derive US prevalence by projecting SEER prevalence onto US populations. 
+  
 website: https://surveillance.cancer.gov/projprev/
 toolTypes:
   - toolType: analysis_tools/statistical_software

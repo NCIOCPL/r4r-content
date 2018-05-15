@@ -1,6 +1,9 @@
 ---
 id: 153
 title: Project Achilles Portal
+description: >
+  Genes can be queried for essentiality across all cell lines. Data can be easily downloaded and visualized with GENE-E or the data analysis GenePattern module, PARIS. 
+  
 website: https://www.broadinstitute.org/achilles
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

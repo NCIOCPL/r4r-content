@@ -1,6 +1,9 @@
 ---
 id: 141
 title: Cancer Statistics Animator
+description: >
+  Allows users to animate cancer trends over time by cancer site and cause of death, race and sex. 
+  
 website: https://seer.cancer.gov/canstat/
 toolTypes:
     - toolType: datasets_databases/epidemiologic_data

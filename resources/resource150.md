@@ -1,6 +1,9 @@
 ---
 id: 150
 title: Modulator Inference by Network Dynamics (MINDy2)/ Conditional Inference of Network Dynamics (CINDy)
+description: >
+  MINDy2 and CINDy both infer modulatory events in the cell by screening a list of candidate modulator proteins and assessing their effect on the transcriptional control of a transcription factor of interest. 
+  
 website: https://wiki.c2b2.columbia.edu/califanolab/index.php/Software/MINDY2
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

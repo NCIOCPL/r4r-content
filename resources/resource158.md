@@ -1,6 +1,9 @@
 ---
 id: 158
 title: The ORFeome Collection (OC)
+description: >
+  A collection of validatd, expression-ready, full-length open reading frames for most of the currently defined human genes. 
+  
 website: https://www.orfeomecollaboration.org
 toolTypes:
   - toolType: lab_tools/reagents

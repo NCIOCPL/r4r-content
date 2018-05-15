@@ -1,6 +1,9 @@
 ---
 id: 161
 title: SlicerDMRI
+description: >
+    Diffusion magnetic resonance imaging in 3D Slicer open-source software. 
+    
 website: http://dmri.slicer.org
 toolTypes:
 - toolType: analysis_tools/imaging_analysis

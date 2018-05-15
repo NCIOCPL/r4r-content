@@ -1,6 +1,9 @@
 ---
 id: 162
 title: XNAT
+description: >
+    XNAT is an open source imaging informatics platform designed to support institutional image repositories, image-based clinical trials, and translational imaging research.
+    
 website: http://www.xnat.org
 toolTypes:
     - toolType: datasets_databases/imaging

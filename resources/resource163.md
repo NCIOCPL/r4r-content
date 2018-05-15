@@ -1,6 +1,9 @@
 ---
 id: 163
 title: Repository of Tumors and Tumor Cell Lines
+description: >
+  This tumor repository serves as a resource for viable, contaminant-free experimental tumor lines, many of which are not obtainable elsewhere.
+  
 website: https://dtp.cancer.gov/organization/btb/docs/DCTDTumorRepositoryCatalog.pdf
 toolTypes:
   - toolType: lab_tools/biospecimen

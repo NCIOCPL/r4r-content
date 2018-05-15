@@ -1,6 +1,9 @@
 ---
 id: 154
 title: Analytic Technique for Assessment of RNAi by Similarity (ATARiS)
+description: >
+  ATARiS is a computational method designed to reduce the background (off-target effects) in data from phenotypic screens performed using multiple RNAi reagents.
+  
 website: https://www.broadinstitute.org/cancer/ataris
 toolTypes:
   - toolType: analysis_tools/genomic_analysis

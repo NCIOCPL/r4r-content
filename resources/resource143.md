@@ -1,6 +1,9 @@
 ---
 id: 143
 title: SEER*Prep Software
+description: >
+  This software converts ASCII text data files to the SEER*Stat database format, allowing users to analyze cancer data (incidence, mortality, expected survival) using SEER*Stat. 
+  
 website: https://seer.cancer.gov/seerprep/
 toolTypes:
   - toolType: analysis_tools/statistical_software

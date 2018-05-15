@@ -1,6 +1,9 @@
 ---
 id: 152
 title: Candidate Cancer Allele cDNA Collection
+description: >
+    A collection of plasmids including mutant alleles found in sequencing studies of cancer. It includes somatic variants found in lung adenocarcinoma and across other cancer types. 
+    
 website: https://www.addgene.org/kits/boehm-target-accelerator-cancer-collection/
 toolTypes:
     - toolType: lab_tools/reagents

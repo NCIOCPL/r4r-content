@@ -1,6 +1,9 @@
 ---
 id: 144
 title: CanSurv - Cancer Survival Analysis Software
+description: >
+  Statistical software to analyze population-based survival data, including grouped survival data and parametric (cure) survival models. 
+  
 website: https://surveillance.cancer.gov/cansurv/
 toolTypes:
   - toolType: analysis_tools/statistical_software
