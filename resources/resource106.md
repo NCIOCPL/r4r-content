@@ -1,6 +1,9 @@
 ---
 id: 106
 title: OncoPPi Portal
+description: >
+  The OncoPPi Portal integrates genomic, pharmacological, clinical, and structural data from external resources with the network of cancer-associated protein-protein interactions (PPI) experimentally determined in cancer cells. 
+  
 website: http://oncoppi.emory.edu
 toolTypes:
   - toolType: datasets_databases/patient_registries

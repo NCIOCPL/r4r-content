@@ -1,6 +1,9 @@
 ---
 id: 92
 title: ivyGlimpse
+description: >
+    Bioconductor-based interface to Ivy-GAP (glioblastoma.alleninstitute.org) data resources, allowing interactive selection of (a) image features for scatterplotting, (b) image sets for stratified survival distribution estimation, and (c) gene sets for expression distribution comparison between strata.
+    
 website: https://vjcitn.shinyapps.io/ivyglimpse/
 toolTypes:
     - toolType: datasets_databases/clinical_data

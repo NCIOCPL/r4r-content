@@ -1,6 +1,9 @@
 ---
 id: 104
 title: RADIOMICS.io
+description: >
+    RADIOMICS.io is a open source platform for informatics developments for radiographic phenotyping using automated algorithms, such as engineered features or using deep learning technologies. 
+
 website: https://www.radiomics.io
 toolTypes:
     - toolType: analysis_tools/imaging_analysis

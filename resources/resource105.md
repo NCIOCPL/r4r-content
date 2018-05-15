@@ -1,6 +1,9 @@
 ---
 id: 105
 title: 3D Slicer
+description: >
+    3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization. 
+    
 website: https://www.slicer.org
 toolTypes:
     - toolType: analysis_tools/imaging_analysis

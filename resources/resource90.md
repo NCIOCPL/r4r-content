@@ -1,6 +1,9 @@
 ---
 id: 90
 title: Joinpoint Trend Analysis Software
+description: >
+    Statistical software for analyzing trend data (e.g., cancer incidence rates) using joinpoint models. Joinpoint software is available in desktop version (for a PC) and command-line version (for use in batch mode or called from other software, such as SAS or R).
+    
 website: https://surveillance.cancer.gov/joinpoint/
 toolTypes:
     - toolType: analysis_tools/modeling

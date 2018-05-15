@@ -1,6 +1,9 @@
 ---
 id: 114
 title: Single Cell Genome Viewer (SCGV)
+description: >
+    SCGV is an interactive graphical tool for single-cell genomics data, with emphasis on single-cell genomics of cancer. It facilitates examination, jointly or individually, of DNA copy number profiles of cells harvested from multiple anatomic locations (sectors).
+
 website: https://github.com/KrasnitzLab/SCGV
 toolTypes:
     - toolType: analysis_tools/genomic_analysis

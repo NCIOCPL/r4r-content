@@ -1,6 +1,9 @@
 ---
 id: 101
 title: NCI Data Catalog
+description: >
+  The NCI Data Catalog is a listing of data collections produced by intramural researchers or other major NCI initiatives and other widely used data sets. 
+  
 website: https://www.cancer.gov/research/resources/data-catalog
 toolTypes:
   - toolType: datasets_databases/clinical_data

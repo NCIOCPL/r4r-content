@@ -1,6 +1,9 @@
 ---
 id: 93
 title: AIDS Antiviral Screen Data
+description: >
+  Results and chemical structural data on compounds checked by the Developmental Therapeutics Program (DTP) AIDS Antiviral Screen. 
+  
 website: https://wiki.nci.nih.gov/display/NCIDTPdata/AIDS+Antiviral+Screen+Data
 toolTypes:
   - toolType: datasets_databases/clinical_data
