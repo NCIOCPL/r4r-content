@@ -2,8 +2,8 @@
 id: 113
 title: PhenStat
 description: >
-    PhenStat is a freely available R package that provides a variety of statistical methods for the identification of phenotypic associations from model organisms developed for the International Mouse Phenotyping Consortium (IMPC at www.mousephenotype.org ). 
-    
+    PhenStat is a freely available R package that provides a variety of statistical methods for the identification of phenotypic associations from model organisms developed for the International Mouse Phenotyping Consortium (IMPC at www.mousephenotype.org). 
+
 website: 
 toolTypes:
     - toolType: analysis_tools/r_software
