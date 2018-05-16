@@ -1,6 +1,6 @@
 ---
 id: 75
-title: 
+title: AMARETTO
 description: >
   AMARETTO is an algorithm that integrates copy number, DNA methylation and gene expression data to identify a set of driver genes by analyzing cancer samples and connects them to clusters of co-expressed genes.
   
