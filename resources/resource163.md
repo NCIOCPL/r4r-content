@@ -16,6 +16,7 @@ researchTypes:
   - researchType: basic
 resourceAccess:
   type: register
+  notes: Material Transfer Agreement (MTA) required
 docs:
   - doc: dctd
 ---

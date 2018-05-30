@@ -15,6 +15,7 @@ researchTypes:
   - researchType: translational
 resourceAccess:
   type: register
+  notes: Material Transfer Agreement (MTA) required
 docs:
   - doc: ccg
 poc:

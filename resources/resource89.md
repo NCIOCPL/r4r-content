@@ -15,6 +15,7 @@ researchTypes:
     - researchType: epidemiologic
 resourceAccess:
     type: register
+    notes: Users must sign a terms of use agreement in order to download the software.
 docs:
     - doc: dccps
 

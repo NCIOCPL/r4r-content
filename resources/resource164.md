@@ -15,6 +15,7 @@ researchTypes:
     - researchType: basic
 resourceAccess:
     type: register
+    notes: Must be an NCI Cancer Center investigator.
 docs:
     - doc: dctd
 pocs: []        

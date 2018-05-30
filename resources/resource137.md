@@ -16,6 +16,7 @@ researchTypes:
   - researchType: translational
 resourceAccess:
   type: register
+  notes: NIHEXT required for controlled access data
 docs:
   - doc: ccg
 poc:
