@@ -15,6 +15,7 @@ researchTypes:
   - researchType: basic
 resourceAccess:
   type: register
+  notes: Must be an NCI grantee.
 docs:
   - doc: dcb
 poc:
