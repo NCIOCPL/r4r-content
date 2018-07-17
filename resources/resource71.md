@@ -20,4 +20,4 @@ docs:
     - doc: dctd
 pocs: []        
 ---
-This NCI-sponsered facility stores bulk cytokines, monoclonal antibodies, and cytokine standards under carefully controlled conditions. The repository provides a constant and uniform supply of hgh-quality reagents to nonprofit institutions and qualified commercial establishments at no charge. 
+This NCI-sponsored facility stores bulk cytokines, monoclonal antibodies, and cytokine standards under carefully controlled conditions. The repository provides a constant and uniform supply of hgh-quality reagents to nonprofit institutions and qualified commercial establishments at no charge. 
