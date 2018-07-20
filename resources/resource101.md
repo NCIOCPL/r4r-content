@@ -33,4 +33,4 @@ poc:
     phone: 240-276-5175
     title: Program Manager NCI CBIIT
 ---
-The NCI Data Catalog is a listing of data collections produced by major NCI initiatives and other widely used data sets. Data collections included in the catalog meet the following criteria: Produced by NCI intramural researchers or major NCI initiatives, regularly referenced NCI funded extramural research data, available to all researchers and may be Open or Controlled Access (requiring approval by a Data Access Committee), well-documented and available for download.
+The NCI Data Catalog is a listing of data collections produced by major NCI initiatives and other widely used data sets. Data collections included in the catalog meet the following criteria: produced by NCI intramural researchers or major NCI initiatives; regularly referenced NCI funded extramural research data; available to all researchers and may be Open or Controlled Access (requiring approval by a Data Access Committee); well-documented and available for download.
