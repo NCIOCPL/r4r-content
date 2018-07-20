@@ -19,4 +19,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-"SCGV is an interactive graphical tool for single-cell genomics data, with emphasis on single-cell genomics of cancer. It facilitates examination, jointly or individually, of DNA copy number profiles of cells harvested from multiple anatomic locations (sectors). Graphics user interface for single-cell genomics"
+SCGV is an interactive graphical tool for single-cell genomics data, with emphasis on single-cell genomics of cancer. It facilitates examination, jointly or individually, of DNA copy number profiles of cells harvested from multiple anatomic locations (sectors). Graphics user interface for single-cell genomics.

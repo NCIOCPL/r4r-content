@@ -18,4 +18,4 @@ resourceAccess:
 docs:
   - doc: cbiit
 ---
-dcmqi is a free, open source library that implements conversion of the data stored in commonly used research formats into the standard DICOM representation
+dcmqi is a free, open source library that implements conversion of the data stored in commonly used research formats into the standard DICOM representation.
