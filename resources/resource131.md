@@ -21,4 +21,4 @@ poc:
       firstname: Lee
       lastname: Cooper
 ---
-MEDICI is a computational method which ranks known protein-protein interactions (PPIs). This approach combines Project Achilles shRNA gene silencing data with network models of protein interaction pathways (NCI Pathway Interaction Database) in an analytic framework. The PPIs are ranked based on their cruciality for the survival and proliferation of cancer cells.
+MEDICI is a computational method which ranks known protein-protein interactions (PPIs). This approach combinesÂ Project AchillesÂ shRNA gene silencing data with network models of protein interaction pathways (NCI Pathway Interaction Database) in an analytic framework. The PPIs are ranked based on their cruciality for the survival and proliferation of cancer cells.

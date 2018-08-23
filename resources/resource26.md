@@ -2,13 +2,15 @@
 id: 26
 title: Chernobyl Tissue Bank (CTB)
 description: >
-    The Chernobyl Tissue Bank maintains a research resource that supports studies on the biology of thyroid cancer, the major health consequence of the Chernobyl accident.
+    CTB maintains a research resource that supports studies on the biology of thyroid cancer, the major health consequence of the Chernobyl accident.
     
 website: http://www.chernobyltissuebank.com/
 toolTypes:
     - toolType: lab_tools/biospecimen
 researchAreas:
     - researchArea: cancer_biology
+    - researchArea: causes_of_cancer
+    - researchArea: cancer_survivorship
 researchTypes:
     - researchType: basic
     - researchType: clinical
@@ -17,6 +19,13 @@ resourceAccess:
     type: register
 docs:
     - doc: dcb
-pocs: []        
+poc:
+  - email: yassinr@mail.nih.gov
+  name:
+    firstname: Rihab
+    lastname: Yassin
+    suffix: Ph.D.
+  title: Program Director
+  phone: 240-276-6230
 ---
-DCB supports and manages biospecimen resources that collect, store, process, and disseminate human biological specimens (biospecimens) and associated data set for research on human cancer biology. The Chernobyl Tissue Bank is an international collaborative project that is supported by NCI and another global partner, with active participation from Russia and Ukraine, two countries heavily affected by the 1986 Chernobyl accident. The objective of the CTB is to establish and maintain a research resource that supports studies on the biology of thyroid cancer, the major health consequence of the Chernobyl accident.    For more information on this Tissue Bank, please visit the Chernobyl Tissue Bank website.
+CTB is an international collaborative project that is supported by NCI’s Division of Cancer Biology and the Sasakawa Memorial Health Foundation of Japan with active participation from Russia and Ukraine, two countries heavily affected by the 1986 Chernobyl accident. CTB manages biospecimen resources and associated data sets that support studies on the biology of thyroid cancer, the major health consequence of the Chernobyl accident. For more information on this Tissue Bank, please visit the Chernobyl Tissue Bank website. 

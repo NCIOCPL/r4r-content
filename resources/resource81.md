@@ -31,4 +31,4 @@ poc:
     title: Chief, Data Analytics Branch, Surveillance Research Program
     phone: 240-276-6698
 ---
-SEER*Explorer is a new interactive website that provides easy access to a wide range of SEER cancer statistics. It provides detailed statistics for a cancer site by gender, race, calendar year, age, and for a selected number of cancer sites, by stage and histology. Users can create custom graphs and tables, download data and images, share links to results, and (coming soon) download SEER*Stat sessions. 
+SEER\*Explorer is a new interactive website that provides easy access to a wide range of SEER cancer statistics. It provides detailed statistics for a cancer site by gender, race, calendar year, age, and for a selected number of cancer sites, by stage and histology. Users can create custom graphs and tables, download data and images, share links to results, and (coming soon) download SEER\*Stat sessions. 

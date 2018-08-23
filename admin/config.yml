@@ -80,6 +80,8 @@ collections:
               - { label: "Community Research Tools - Questionnaire", value: "community_research_tools/questionnaire" }
               - { label: "Community Research Tools - Screener", value: "community_research_tools/screener" }
               - { label: "Community Research Tools - Survey", value: "community_research_tools/survey" }
+              - { label: "Community Research Tools - Risk Assessment", value: "community_research_tools/risk_assessment" }
+              - { label: "Community Research Tools - Sample Size Calculator", value: "community_research_tools/sample_size_calculator" }
               - { label: "Clinical Research Tools", value: "clinical_research_tools" }
               - { label: "Clinical Research Tools - CTCAE", value: "clinical_research_tools/ctcae" }
               - { label: "Clinical Research Tools - Consent Forms", value: "clinical_research_tools/consent_forms" }
@@ -123,6 +125,7 @@ collections:
               - { label: "Causes of Cancer", value: "causes_of_cancer" }
               - { label: "Cancer Survivorship", value: "cancer_survivorship" }
               - { label: "Cancer Prevention", value: "cancer_prevention" }
+              - { label: "Bioinformatics", value: "bioinformatics" }
       - label: "Research Types"
         name: "researchTypes"
         widget: "list"

@@ -2,7 +2,7 @@
 id: 129
 title: The Cancer Genome Atlas Clinical Explorer
 description: >
-  The Cancer Genome Atlas (TCGA) Clinical Explorer is a web and mobile interface for identifying clinical – genomic driver associations. The Clinical Explorer interface provides a platform to query TCGA.
+  The TCGA Clinical Explorer is a web and mobile interface for identifying clinical genomic driver associations. The Clinical Explorer interface provides a platform to query TCGA.
   
 website: https://genomeportal.stanford.edu/pan-tcga
 toolTypes:
@@ -25,4 +25,4 @@ poc:
       lastname: Lee
   - email: pan-tcga-project@stanford.edu
 ---
-The Cancer Genome Atlas (TCGA) Clinical Explorer is a web and mobile interface for identifying clinical - genomic driver associations. The Clinical Explorer interface provides a platform to query TCGA data using the following methods: 1) searching for clinically relevant genes, microRNAs, and proteins by name, cancer types, or clinical parameters, 2) searching for genomic and/or proteomic profile changes by clinical parameters, or 3) testing two-hit hypotheses.
+The TCGA Clinical Explorer is a web and mobile interface for identifying clinical - genomic driver associations. The Clinical Explorer interface provides a platform to query TCGA data using the following methods: 1) searching for clinically relevant genes, microRNAs, and proteins by name, cancer types, or clinical parameters, 2) searching for genomic and/or proteomic profile changes by clinical parameters, or 3) testing two-hit hypotheses.
