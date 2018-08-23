@@ -9,5 +9,6 @@
     { "label": "Cancer Diagnosis", "value": "cancer_diagnosis" },
     { "label": "Causes of Cancer", "value": "causes_of_cancer" },
     { "label": "Cancer Survivorship", "value": "cancer_survivorship" },
-    { "label": "Cancer Prevention", "value": "cancer_prevention" }
+    { "label": "Cancer Prevention", "value": "cancer_prevention" },
+    { "label": "Bioinformatics", "value": "bioinformatics" }
 ]
