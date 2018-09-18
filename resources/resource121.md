@@ -2,7 +2,7 @@
 id: 121
 title: The Cancer Proteome Atlas (TCPA)
 description: >
-  TCPA is an interactive resource that enables researchers to analyze and visualize functional proteomic data (e.g. protein expression and modifications). This tool currently hosts data from 4,495 samples (TCGA samples, additional separate tumor samples, and >500 cell-lines).  
+  TCPA is an interactive resource that enables researchers to analyze and visualize functional proteomic data of tumor samples.  
   
 website: https://bioinformatics.mdanderson.org/main/TCPA
 toolTypes:
@@ -25,4 +25,4 @@ poc:
       lastname: Liang
   - email: tcpa_info@mdanderson.org
 ---
-TCPA is an interactive resource that enables researchers to analyze and visualize functional proteomic data (e.g. protein expression and modifications). This tool currently hosts data from 4,495 samples (TCGA samples, additional separate tumor samples, and >500 cell-lines). Overview; https://tcpaportal.org/tcpa/
+Functional proteomics is the large-scale study of functional activity (e.g., expression, modificatins, etc.) of the proteins. TCPA is a comprehensive resource of cancer proteomics datasets mainly consisting of The Cancer Genome Atlas (TCGA) tumor tissue sample sets. This resource provides a unique opportunity to validate the findings from TCGA data and identify model cell lines for functional investigation. TCPA currently provides six modules: Summary, My Protein, Download, Visualization, Analysis, and Cell Line.

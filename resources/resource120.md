@@ -2,7 +2,7 @@
 id: 120
 title: MethylMix
 description: >
-  MethylMix identifies differentially and transcriptionally predictive methylated genes within a disease. 
+  MethylMix is an algorithm to identify hyper- and hypomethylated genes for a disease. 
   
 website: https://bioconductor.org/packages/3.1/bioc/html/MethylMix.html
 toolTypes:
@@ -25,5 +25,4 @@ poc:
       firstname: Olivier
       lastname: Gevaert
 ---
-MethylMix identifies differentially and transcriptionally predictive methylated genes within a disease. MethylMix identifies methylation states and compares them with the normal DNA methylation state. MethylMix also introduces a novel statistic, the Differential Methylation value or DM-value, to define methylation-driven subgroups
-
+MethylMix uses a novel statistic, the differential methylation value (DM-value), to define methylation-driven subgroups. This algorithm could be used to identify differentially and transcriptionally predictive methylated genes within a disease by comparing them with the normal DNA methylation state. Matched gene expression data may also be used to identify functional methylation states by focsuing on methylation changes that effect gene expression.

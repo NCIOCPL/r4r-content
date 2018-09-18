@@ -2,7 +2,7 @@
 id: 93
 title: AIDS Antiviral Screen Data
 description: >
-  Results and chemical structural data on compounds checked by the Developmental Therapeutics Program (DTP) AIDS Antiviral Screen. 
+  This resource provides access to results and chemical structural data on compounds checked by the Developmental Therapeutics Program (DTP) AIDS Antiviral Screen.
   
 website: https://wiki.nci.nih.gov/display/NCIDTPdata/AIDS+Antiviral+Screen+Data
 toolTypes:
@@ -19,4 +19,4 @@ resourceAccess:
 docs:
   - doc: dctd
 ---
-The DTP AIDS Antiviral Screen has checked tens of thousands of compounds for evidence of anti-HIV activity. Available are screening results and chemical structural data on compounds that are not covered by a confidentiality agreement.
+The DTP AIDS Antiviral Screen has checked tens of thousands of compounds for evidence of anti-HIV activity. Screening results and chemical structural data on compounds that are not covered by a confidentiality agreement are available.

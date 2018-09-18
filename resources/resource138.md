@@ -1,8 +1,8 @@
 ---
 id: 138
-title: Protein-Protein Interaction Reagents
+title: Protein–Protein Interaction (PPI) Reagents
 description: >
-  A library of genes used to study protein-protein interactions in mammalian cells. These genes are cloned in different mammalian expression vectors. 
+  This resource is a collection of wild-type and mutant clones to study PPIs in mammalian cells.  
   
 website: https://ocg.cancer.gov/resources/all-resources
 toolTypes:
@@ -15,6 +15,7 @@ researchTypes:
   - researchType: translational
 resourceAccess:
   type: register
+  notes: Material Transfer Agreement (MTA) required
 docs:
   - doc: ccg
 poc:
@@ -23,4 +24,4 @@ poc:
       firstname: Haian
       lastname: Fu
 ---
-The CTD2 Center at Emory University has a library of genes used to study protein-protein interactions in mammalian cells. These genes are cloned in different mammalian expression vectors. A list of available cancer-associated genes can be accessed below.
+Numerous gene mutations give proteins new capabilities to bind cellular proteins and create new signaling pathways that drive tumor growth. The CTD^2 center at Emory University has created PPI expression vector libraries to discover and validate mutation-created PPIs as therapeutic targets for cancer.

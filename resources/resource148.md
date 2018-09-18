@@ -2,9 +2,9 @@
 id: 148
 title: Functional Signature Ontology (FuSiOn)
 description: >
-  FuSiOn is an ontology map built from gene expression data resulting from human kinome perturbation screens using miRNAs, shRNAs, and natural products. FuSiOn can be used to search for genetic or chemical perturbagens to target a gene of interest.
+  FuSiOn is a tool to to search for chemical and genetical perturbations that behave functionally similarly to a target gene of interest. 
   
-website: https://whitelab.swmed.edu/fmap/index1.php?url=/fmap/fusion1.php
+website: http://fusion.yuhs.ac/v1/
 toolTypes:
   - toolType: analysis_tools/genomic_analysis
 researchAreas:
@@ -24,4 +24,4 @@ poc:
       firstname: John
       lastname: MacMillan
 ---
-FuSiOn is an ontology map built from gene expression data resulting from human kinome perturbation screens using miRNAs, shRNAs, and natural products. FuSiOn can be used to search for genetic or chemical perturbagens to target a gene of interest.
+FuSiOn is an ontology map built from gene expression data resulting from human kinome perturbation screens using miRNA mimics, shRNAs, and natural products. The map links  bioactive molecules to the proteins and biological processes that they engage in cells.

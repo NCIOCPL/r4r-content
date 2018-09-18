@@ -2,7 +2,7 @@
 id: 160
 title: Clustered Regularly Interspaced Short Palindromic Repeats (CRISPRi) plasmids
 description: >
-    The Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) system offers a general approach for RNA-guided regulation of transcription. Individual plasmids can be ordered.
+    The CRISPR toolbox allows  for the precise regulation of gene expression in eukaryotic cells.
     
 website: http://www.addgene.org/crispr/qi-weissman/
 toolTypes:
@@ -17,6 +17,7 @@ resourceAccess:
     type: open
 docs:
     - doc: ccg
-pocs: []        
+poc:
+  - email: ocg@mail.nih.gov
 ---
-The CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) system offers a general approach for RNA-guided regulation of transcription. Individual plasmids can be ordered via the link.
+CTD^2 researchers at the University of California, San Francisco developed a modified  CRISPR/dCas9 system. Catalytically inactive dCas9 enables modular and programmable RNA-guided genome regulation in eukaryotes. The CRISPR/dCas9 system has several advantages.  It enables robust gene interference (CRISPRi) or activation (CRISPRa) in human cells, allows specific knockdown with minimal off-target effects in human cells,  works efficiently in human and yeast cells, and does not cause double-strand breaks.
