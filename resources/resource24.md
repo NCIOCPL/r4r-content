@@ -7,7 +7,6 @@ description: >
 website: http://www.cancerimagingarchive.net
 toolTypes:
     - toolType: datasets_databases/imaging
-    - toolType: datasets_databases/imaging
 researchAreas:
     - researchArea: cancer_diagnosis
 researchTypes:
@@ -18,4 +17,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-TCIA is NCI's repository for publicly shared cancer imaging data. TCIA collections include radiology and pathothogy images, clinical and clinical trial data, image derived annotations and quantitative features and a growing collection of related 'omics" data both from clinical and pre-clinical studies.
+TCIA is NCI's repository for publicly shared cancer imaging data. TCIA collections include radiology and pathothogy images, clinical and clinical trial data, image-derived annotations and quantitative features and a growing collection of related ”omics" data from both clinical and preclinical studies.

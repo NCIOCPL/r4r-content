@@ -2,7 +2,7 @@
 id: 10
 title: Apache Clinical Text and Knowledge Extraction System (cTAKES)
 description: >
-    The tool extracts deep phenotypic information from the clinical narrative at the document-, episode-, and patient-level.
+    cTAKES extracts deep phenotypic information from the clinical narrative at the document, episode, and patient level.
 
 website: http://ctakes.apache.org
 toolTypes:
@@ -18,4 +18,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-The tool extracts deep phenotypic information from the clinical narrative at the document-, episode-, and patient-level. The final output is FHIR compliant patient-level phenotypic summary which can be consumed by research warehouses or the DeepPhe native visualization tool.
+cTAKES extracts deep phenotypic information from the clinical narrative at the document, episode, and patient level. The final output is a Fast Healthcare Interoperability Resources (FHIR)-compliant, patient-level phenotypic summary which can be consumed by research warehouses or the DeepPhe native visualization tool.

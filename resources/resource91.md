@@ -2,7 +2,7 @@
 id: 91
 title: SampleMap
 description: >
-  Projects samples into a GoogleMap explorer to allow overlaying omics attributes to spot patterns quickly. A TumorMap version was built for TCGA analysis.
+  SampleMap is a TumorMap version built for The Cancer Genome Atlas (TCGA) analysis that projects samples into a GoogleMap explorer to allow overlaying omics attributes to spot patterns quickly. 
   
 website: https://tumormap.ucsc.edu
 toolTypes:
@@ -17,4 +17,4 @@ resourceAccess:
 docs:
   - doc: cbiit
 ---
-Projects samples into a GoogleMap explorer to allow overlaying omics attributes to spot patterns quickly. A TumorMap version was built for TCGA analysis.
+SampleMap is a TumorMap version built for TCGA analysis that projects samples into a GoogleMap explorer to allow overlaying omics attributes to spot patterns quickly.

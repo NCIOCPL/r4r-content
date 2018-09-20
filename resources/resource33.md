@@ -1,8 +1,8 @@
 ---
 id: 33
-title: UCSC Xena
+title: University of California, Santa Cruz (UCSC) Xena
 description: >
-    UCSC Xena securely analyzes and visualizes your private functional genomics data set in the context of public and shared genomic/phenotypic data sets such as TCGA, ICGC, TARGET, GTEx, and GA4GH (TOIL).
+    UCSC Xena securely analyzes and visualizes private functional genomics datasets in the context of public and shared genomic/phenotypic datasets, such as The Cancer Genome Atlas (TCGA), International Cancer Genome Consortium (ICGC), Therapeutically Applicable Research to Generate Effective Treatments (TARGET), Genotype-Tissue Expression (GTEx), and TOIL (Scalable and Efficient Workflow Engine).
     
 website: http://xena.ucsc.edu
 toolTypes:
@@ -18,4 +18,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-UCSC Xena securely analyzes and visualizes your private functional genomics data set in the context of public and shared genomic/phenotypic data sets such as TCGA, ICGC, TARGET, GTEx, and GA4GH (TOIL).
+UCSC Xena securely analyzes and visualizes private functional genomics datasets in the context of public and shared genomic/phenotypic datasets, such as The Cancer Genome Atlas (TCGA), International Cancer Genome Consortium (ICGC), Therapeutically Applicable Research to Generate Effective Treatments (TARGET), Genotype-Tissue Expression (GTEx), and TOIL (Scalable and Efficient Workflow Engine).

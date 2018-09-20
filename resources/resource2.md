@@ -1,8 +1,8 @@
 ---
 id: 2
-title: Next Generation Clustered Heat Maps
+title: Next-Generation Clustered Heat Maps (NG-CHM)
 description: >
-    Next-Generation (Clustered) Heat Maps are interactive heat maps that enable the user to zoom and pan across the heatmap, alter its color scheme, generate production quality PDFs, and link out from rows, columns, and individual heatmap entries to related statistics, databases and other information.
+    NG-CHMs are interactive heat maps of multiple tumor types and multiple data types profiled by The Cancer Genome Atlas (TCGA) Project.
     
 website: http://bioinformatics.mdanderson.org/TCGA/NGCHMPortal
 toolTypes:
@@ -17,4 +17,4 @@ docs:
     - doc: CBIIT
 pocs: []        
 ---
-Next-Generation (Clustered) Heat Maps are interactive heat maps that enable the user to zoom and pan across the heatmap, alter its color scheme, generate production quality PDFs, and link out from rows, columns, and individual heatmap entries to related statistics, databases and other information.
+NG-CHMs are interactive heat maps of multiple tumor types and multiple data types profiled by TCGA.  The NG-CHM tool enables users to zoom and pan across the heatmap, alter its color scheme, generate production-quality PDFs, and link out from rows, columns, and individual heatmap entries to related statistics, databases, and other information. The maps provide an exploratory environment invaluable for identifying cancer sub-types or investigating genes or pathways of interest.

@@ -2,7 +2,7 @@
 id: 14
 title: LesionTracker Web Image Viewer
 description: >
-    Extensible open-source zero-footprint web image viewer for oncology imaging. "LesionTracker" is a web browser based platform for viewing and measuring lesion metrics for tracking oncology trials.
+    LesionTracker Web Image Viewer is an extensible, open-source, zero-footprint web image viewer for oncology imaging. LesionTracker is a web browser-based platform for viewing and measuring lesion metrics for tracking oncology trials.
 
 website: http://lesiontracker.ohif.org
 toolTypes:
@@ -20,4 +20,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-Extensible open-source zero-footprint web image viewer for oncology imaging. "LesionTracker" is a web browser based platform for viewing and measuring lesion metrics for tracking oncology trials.
+LesionTracker Web Image Viewer is an extensible, open-source, zero-footprint web image viewer for oncology imaging. LesionTracker is a web browser-based platform for viewing and measuring lesion metrics for tracking oncology trials.

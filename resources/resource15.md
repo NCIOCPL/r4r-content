@@ -1,8 +1,8 @@
 ---
 id: 15
-title: WebMeV
+title: Web Multiple-experiment Viewer (MeV)
 description: >
-    Web MeV (Multiple-experiment Viewer) is a web/cloud-based tool for genomic data analysis.
+    Web MeV is a cloud-based tool for genomic data analysis.
 
 website: http://mev.tm4.org/#/welcome
 toolTypes:
@@ -18,4 +18,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-Web MeV (Multiple-experiment Viewer) is a web/cloud-based tool for genomic data analysis. Web MeV is being built to meet the challenge of exploring large public genomic data set with intuitive graphical interface providing access to state-of-the-art analytical tools.
+Web MeV is a cloud-based tool for genomic data analysis. Web MeV is being built to meet the challenge of exploring large public genomic datasets with an intuitive graphical interface providing access to state-of-the-art analytical tools.

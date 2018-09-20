@@ -2,7 +2,7 @@
 id: 102
 title: Allele-Specific Alternative mRNA processing (ASARP)
 description: >
-    A software pipeline for prediction of allele-specific alternative RNA processing events using single RNA-seq data. The current version focuses on prediction of alternative splicing and alternative polyadenylation modulated by genetic variants.
+    ASARP is a software pipeline for prediction of allele-specific alternative RNA processing events using single RNA-seq data. The current version focuses on prediction of alternative splicing and alternative polyadenylation modulated by genetic variants.
     
 website: https://www.ibp.ucla.edu/research/xiao/Software_files/ASARP/doc/asarp.html
 toolTypes:
@@ -18,4 +18,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-A software pipeline for prediction of allele-specific alternative RNA processing events using single RNA-seq data. The current version focuses on prediction of alternative splicing and alternative polyadenylation modulated by genetic variants.
+ASARP is a software pipeline for prediction of allele-specific alternative RNA processing events using single RNA-seq data. The current version focuses on prediction of alternative splicing and alternative polyadenylation modulated by genetic variants.

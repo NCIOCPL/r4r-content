@@ -1,9 +1,8 @@
 ---
 id: 11
-title: Digital Imaging and Communications in Medicine (DICOM) ToolKit (DCMTK)
+title: Digital Imaging and Communications in Medicine ToolKit (DCMTK)
 description: >
-    DCMTK is a collection of libraries and applications implementing large parts the DICOM standard.
-
+    DCMTK is a collection of libraries and applications implementing large parts the Digital Imaging and Communications in Medicine (DICOM) standard.
 website: http://dicom.offis.de/dcmtk.php.en
 toolTypes:
     - toolType: analysis_tools/imaging_analysis
@@ -18,4 +17,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-"DCMTK is a collection of libraries and applications implementing large parts the DICOM standard. It includes software for examining, constructing and converting DICOM image files, handling offline media, sending and receiving images over a network connection, as well as demonstrative image storage and worklist servers. DCMTK is is written in a mixture of ANSI C and C++. It comes in complete source code and is made available as ""open source"" software. DCMTK is an open source DICOM toolkit."
+DCMTK is a collection of libraries and applications implementing large parts the DICOM standard. It includes software for examining, constructing, and converting DICOM image files, handling offline media, and sending and receiving images over a network connection, as well as demonstrative image storage and worklist servers. DCMTK is written in a mixture of ANSI C and C++. It comes in complete source code and is made available as open-source software.

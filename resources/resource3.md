@@ -2,7 +2,7 @@
 id: 3
 title: The BioMedical Evidence Graph (BMEG)
 description: >
-    The BMEG is a cancer data integration platform that utilizes methods collected from DREAM challenges and applied to large datasets, such as the TCGA, and makes them available for analysis using a high performance graph database.
+    The BMEG is a cancer data integration platform that utilizes methods collected from Dialogue for Reverse Engineering Assessments and Methods (DREAM) challenges and applied to large datasets, such as The Cancer Genome Atlas, and makes them available for analysis using a high performance graph database.
     
 website: http://bmeg.io
 toolTypes:
@@ -19,4 +19,4 @@ docs:
     - doc: CBIIT
 pocs: []        
 ---
-The BMEG is a cancer data integration platform that utilizes methods collected from DREAM challenges and applied to large datasets, such as the TCGA, and makes them available for analysis using a high performance graph database.
+The BMEG is a cancer data integration platform that utilizes methods collected from DREAM challenges and applied to large datasets, such as The Cancer Genome Atlas, and makes them available for analysis using a high performance graph database. DREAM challenges are crowdsourcing challenges designed to evaluate model predictions and pathway inference algorithms in systems biology and medicine.
