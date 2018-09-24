@@ -23,4 +23,4 @@ poc:
       firstname: Paquita
       lastname: Vazquez
 ---
-Project Achilles uses genome-wide pooled shRNA screens to identify and catalog genetic vulnerabilities associated with genetic or epigenetic changes across hundreds of cancer cell lines. In the Project Achilles portal, genes can be queried for essentiality across all cell lines. Data can be easily downloaded and visualized with GENE-E or the data analysis GenePattern module, PARIS. https://www.broadinstitute.org/achilles/contact (link is external))
+Project Achilles uses genome-wide pooled shRNA screens to identify and catalog genetic vulnerabilities associated with genetic or epigenetic changes across hundreds of cancer cell lines. In the Project Achilles portal, genes can be queried for essentiality across all cell lines. Data can be easily downloaded and visualized with GENE-E or the data analysis GenePattern module, PARIS.

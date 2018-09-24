@@ -18,4 +18,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-A platform for quantitative evaluation of intratumoral spatial heterogeneity in multiplexed immunofluorescence images, via characterization of the spatial interactions between different cellular phenotypes and non-cellular constituents in the tumor microenvironment.
+THRIVE is a  platform for quantitative evaluation of intratumoral spatial heterogeneity in multiplexed immunofluorescence images, using characterization of the spatial interactions between different cellular phenotypes and non-cellular constituents in the tumor microenvironment.

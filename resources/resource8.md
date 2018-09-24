@@ -2,7 +2,7 @@
 id: 8
 title: Cistrome
 description: >
-    Curated and processed human/mouse ChIP/DNase-seq datasets in GEO, allowing users to search, browse, download ChIP-seq data signals, peaks, QC, motifs, target genes and similar datasets.
+    Cistrome has curated and processed human/mouse ChIP/DNase-seq datasets in Gene Expression  Omnibus (GEO ), allowing users to search, browse, download ChIP-seq data signals, peaks, quality control, motifs, target genes and similar datasets.
 
 website: http://cistrome.org/Cistrome/Cistrome_Project.html
 toolTypes:
@@ -19,4 +19,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-Curated and processed human/mouse ChIP/DNase-seq datasets in GEO, allowing users to search, browse, download ChIP-seq data signals, peaks, QC, motifs, target genes and similar datasets.
+Cistrome has curated and processed human/mouse ChIP/DNase-seq datasets in GEO, allowing users to search, browse, download ChIP-seq data signals, peaks, quality control, motifs, target genes and similar datasets.

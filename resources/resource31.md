@@ -2,7 +2,7 @@
 id: 31
 title: Patient-Derived Xenograpt (PDX) Finder
 description: >
-    PDX Finder, currently in the prototyping phase, is integrative, archiving and dessiminating information about PDX models and their associated data.
+    PDX Finder, currently in the prototyping phase, is a tool for integrating , archiving, and dessiminating information about PDX models and their associated data.
     
 website: http://www.pdxfinder.org
 toolTypes:
@@ -18,4 +18,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-PDX Finder, currently in the prototyping phase, is integrative, archiving and dessiminating information about PDX models and their associated data.
+PDX Finder, currently in the prototyping phase, is a tool for integrating, archiving and dessiminating information about PDX models and their associated data.

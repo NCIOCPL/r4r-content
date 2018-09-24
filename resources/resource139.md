@@ -24,4 +24,4 @@ poc:
       firstname: Yang
       lastname: Xie
 ---
-DecoRNAi is a computational approach for automated quantitation and annotation of the off-target effects in primary RNAi screening datasets.
+A major challenge of the large-scale siRNA and shRNA loss-of fucntion screens is off-target effects resulting from short regions (~6 nucleotides) of oligonucleotide complementary  to many different mRNAs. DecoRNAi is a computational approach that could be used for identification and correction of the off-target effects from primary screening data.

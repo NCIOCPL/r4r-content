@@ -2,7 +2,7 @@
 id: 136
 title: cDNA Clones with Rare and Recurrent Mutations found in Cancers
 description: >
-  The CTD2 Center at UT- MD Anderson Cancer Center has developed High-Throughput Mutagenesis and Molecular Barcoding (HiTMMoB)1,2 pipeline to construct mutant alleles open reading frame expression clones that are either recurrent or rare in cancers. These barcoded genes can be used for context-specific functional validation, detection of novel biomarkers (pathway activation) and targets (drug sensitivity). 
+  This resource is an open reading frame (ORF) expression library with clones of wild-type and somatic mutations found in recurrent cancer or that are rare in cancer . 
   
 website: https://ocg.cancer.gov/programs/ctd2/supported-reagents/cdna-clones-rare-and-recurrent-mutations-found-cancers
 toolTypes:
@@ -19,13 +19,9 @@ resourceAccess:
 docs:
   - doc: ccg
 poc:
-  - email: kls1@bcm.edu
-    name:
-      firstname: Kenneth L.
-      lastname: Scott
-  - email: gmills@mdanderson.org
     name:
       firstname: Gordon
       lastname: Mills
+  - email: millsg@ohsu.edu
 ---
-The CTD2 Center at UT- MD Anderson Cancer Center has developed High-Throughput Mutagenesis and Molecular Barcoding (HiTMMoB)1,2 pipeline to construct mutant alleles open reading frame expression clones that are either recurrent or rare in cancers. These barcoded genes can be used for context-specific functional validation, detection of novel biomarkers (pathway activation) and targets (drug sensitivity). 
+The CTD^2 center at the University of Texas MD Anderson Cancer Center has developed a high-throughput mutagenesis and molecular barcoding (HiTMMoB)   pipeline to construct mutant alleles open reading frame expression clones that are either found in recurrent cancer or are rare in cancers. These barcoded genes can be used for context-specific functional validation, detection of novel biomarkers (pathway activation), and targets (drug sensitivity).

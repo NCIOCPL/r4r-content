@@ -2,7 +2,7 @@
 id: 90
 title: Joinpoint Trend Analysis Software
 description: >
-    Statistical software for analyzing trend data (e.g., cancer incidence rates) using joinpoint models. Joinpoint software is available in desktop version (for a PC) and command-line version (for use in batch mode or called from other software, such as SAS or R).
+    Joinpoint software is statistical software for analyzing trend data (e.g., cancer incidence rates) using joinpoint models. It is available in desktop version (for a PC) and command-line version (for use in batch mode or called from other software, such as SAS or R).
     
 website: https://surveillance.cancer.gov/joinpoint/
 toolTypes:
@@ -32,4 +32,4 @@ poc:
     phone: 240-276-6772
     title: Chief, Statistical Research and Applications Branch, Surveillance Research Program
 ---
-Statistical software for analyzing trend data (e.g., cancer incidence rates) using joinpoint models, that is, models where several different lines are connected together at the "joinpoints".  Cancer trends reported in NCI publications are calculated using the Joinpoint Regression Program to analyze rates calculated by the SEER*Stat software. Enables the user to test whether an apparent change in trend is statistically significant. Two versions of Joinpoint software are available:  desktop version (for a PC) and command-line version (for use in batch mode or called from other software, such as SAS or R).
+Statistical software for analyzing trend data (e.g., cancer incidence rates) using joinpoint models, that is, models where several different lines are connected together at the "joinpoints".  Cancer trends reported in NCI publications are calculated using the Joinpoint Regression Program to analyze rates calculated by the SEER\*Stat software. Enables the user to test whether an apparent change in trend is statistically significant. Two versions of Joinpoint software are available:  desktop version (for a PC) and command-line version (for use in batch mode or called from other software, such as SAS or R).

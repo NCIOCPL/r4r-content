@@ -1,8 +1,8 @@
 ---
 id: 162
-title: XNAT
+title: Extensible Neuroimaging Archive Toolkit (XNAT)
 description: >
-    XNAT is an open source imaging informatics platform designed to support institutional image repositories, image-based clinical trials, and translational imaging research.
+    XNAT is an open-source imaging informatics platform designed to support institutional image repositories, image-based clinical trials, and translational imaging research.
     
 website: http://www.xnat.org
 toolTypes:
@@ -20,5 +20,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-XNAT is an open source imaging informatics platform designed to support institutional image repositories, image-based clinical trials, and translational imaging research.
-
+XNAT is an open-source imaging informatics platform designed to support institutional image repositories, image-based clinical trials, and translational imaging research.

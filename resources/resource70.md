@@ -2,7 +2,7 @@
 id: 70
 title: Know Your Chances
 description: >
-  The Know Your Chances websites provides interactive risk charts that show the likelihood of dying from a variety of cancer types and other diseases over a specific time frame, with the ability to accounting for age, sex, and race. 
+  The Know Your Chances websites provides interactive risk charts that show the likelihood of dying from a variety of cancer types and other diseases over a specific time frame, with the ability to account for age, sex, and race. 
   
 website: https://knowyourchances.cancer.gov/
 toolTypes:
@@ -31,4 +31,4 @@ poc:
     title: Chief, Statistical Research and Applications Branch, Surveillance Research Program
     phone: 240-276-6772
 ---
-The Know Your Chances websites provides interactive risk charts to put cancer in context. The risk charts show the likelihood of dying from a variety of cancer types and other diseases over a specific time frame. Because age, sex, and race are so important in determining a person's chances of dying from cancer or another disease, the charts allow the user to account for those factors.
+The Know Your Chances website provides interactive risk charts to put cancer in context. The risk charts show the likelihood of dying from a variety of cancer types and other diseases over a specific time frame. Because age, sex, and race are so important in determining a person's chances of dying from cancer or another disease, the charts allow the user to account for those factors.

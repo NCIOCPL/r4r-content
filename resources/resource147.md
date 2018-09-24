@@ -2,7 +2,7 @@
 id: 147
 title: MD Anderson Cell Line Project (MCLP) Data Portal
 description: >
-  MCLP is an interactive web platform which enables researchers to explore, analyze, and visualize proteomics (reverse phase protein array data) and related molecular/drug (genomic, transcriptomic, and drug sensitivity) data across  hundreds  of cancer cell lines. 
+  The MCLP Data Portal is a bioinformatic resource that enables researchers to explore, analyze, and visualize protein expression data of cancer cell lines. 
   
 website: https://tcpaportal.org/mclp/#/
 toolTypes:
@@ -22,4 +22,4 @@ poc:
       firstname: Han
       lastname: Liang
 ---
-MCLP is an interactive web platform which enables researchers to explore, analyze, and visualize proteomics (reverse phase protein array data) and related molecular/drug (genomic, transcriptomic, and drug sensitivity) data across  hundreds  of cancer cell lines.
+The MCLP Data Portal is an interactive resource of proteomic, genomic, transcriptomic, and drug screening data of a large number of cancer cell lines. Protein expression levels (proteoimc) were measured using the reverse phase protein array platform. The MCLP platform provides four interactive modules: My Protein, Analysis, Visualization, and Data Sets.

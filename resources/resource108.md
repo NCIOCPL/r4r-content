@@ -1,8 +1,8 @@
 ---
 id: 108
-title: dcmqi - DICOM for Quantitative Imaging
+title: DICOM for Quantitative Imaging (dcmqi )
 description: >
-  dcmqi is a free, open source library that implements conversion of the data stored in commonly used research formats into the standard DICOM representation.
+  dcmqi is a free open-source library that implements conversion of data stored in commonly used research formats into the standard DICOM representation.
 
 website: https://github.com/QIICR/dcmqi
 toolTypes:
@@ -18,4 +18,4 @@ resourceAccess:
 docs:
   - doc: cbiit
 ---
-dcmqi is a free, open source library that implements conversion of the data stored in commonly used research formats into the standard DICOM representation.
+dcmqi is a free open-source library that implements conversion of data stored in commonly used research formats into the standard DICOM representation.
