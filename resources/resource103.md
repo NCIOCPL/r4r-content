@@ -10,8 +10,6 @@ toolTypes:
     - toolType: analysis_tools/imaging_analysis
 researchAreas:
     - researchArea: screening_detection
-# This does not exist in the options    
-#    - researchArea: Imaging
 researchTypes:
     - researchType: translational
 resourceAccess:
@@ -20,4 +18,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-LIBRA is a fully-automatic breast density estimation software solution based on a published algorithm that works on either raw (i.e., FOR PROCESSING) or vendor post-processed (i.e., FOR PRESENTATION) digital mammography images. LIBRA has been applied to over 30,000 screening exams and is being increasingly utilized in larger studies.
+LIBRA is a fully-automatic breast density estimation software solution based on a published algorithm that works on either raw or vendor post-processed digital mammography images. LIBRA has been applied to over 30,000 screening exams and is being increasingly utilized in larger studies.

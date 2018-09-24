@@ -1,8 +1,8 @@
 ---
 id: 20
-title: Tools for Quantitative Analysis of PET Imaging
+title: Tools for Quantitative Analysis of Positron-Emission Tomography (PET) Imaging
 description: >
-    A collection of extensions for 3D Slicer to enable quantitative analysis of PET imaging data: image normalization, segmentation, and extraction of quantitative indices.
+    A collection of extensions for 3D Slicer to enable quantitative analysis of PET imaging data, including image normalization, segmentation, and extraction of quantitative indices.
 
 website: http://qin.iibi.uiowa.edu
 toolTypes:
@@ -19,4 +19,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-A collection of extensions for 3D Slicer to enable quantitative analysis of PET imaging data: image normalization, segmentation, and extraction of quantitative indices.
+A collection of extensions for 3D Slicer to enable quantitative analysis of PET imaging data, including image normalization, segmentation, and extraction of quantitative indices.

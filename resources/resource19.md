@@ -2,7 +2,7 @@
 id: 19
 title: Sedeen viewer
 description: >
-    Freely downloadable pathology viewer which supports viewing, annotation and analysis of Whole Slide Images.
+    Sedeen is a freely downloadable pathology viewer which supports viewing, annotation, and analysis of Whole Slide Images.
 
 website: http://pathiip.org
 toolTypes:
@@ -19,4 +19,4 @@ docs:
     - doc: cbiit
 pocs: []        
 ---
-Freely downloadable pathology viewer which supports viewing, annotation and analysis of Whole Slide Images. Functionality will be extended as part of the Pathology Image Informatics Platform.
+Sedeen is a freely downloadable pathology viewer which supports viewing, annotation, and analysis of Whole Slide Images. Functionality will be extended as part of the Pathology Image Informatics Platform.
