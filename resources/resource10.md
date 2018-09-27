@@ -11,7 +11,7 @@ researchAreas:
     - researchArea: cancer_diagnosis
     - researchArea: cancer_treatment
 researchTypes:
-    - researchType : translational
+    - researchType: translational
 resourceAccess:
     type: open
 docs:

@@ -1,8 +1,8 @@
 ---
 id: 74
-title: Repository of Patient-Derived Models
+title: Repository of Patient-Derived Models (PDMs)
 description: >
-    Patient-Derived Models (PDMs) comprised of patient-derived xenografts (PDXs) and in vitro patient-derived cell cultures (PDCs), including mixed cell populations, clonal cell lines and fibroblast cell lines to serve as a resource for public-private partnerships and for academic drug discovery efforts.
+    This repository inlcudes PDMs comprised of patient-derived xenografts (PDXs) and *in vitro* patient-derived cell cultures (PDCs), including mixed cell populations, clonal cell lines, and fibroblast cell lines.  
     
 website: https://pdmr.cancer.gov
 toolTypes:
@@ -16,6 +16,6 @@ resourceAccess:
     type: open
 docs:
     - doc: dctd
-pocs: []        
+       
 ---
-The National Cancer Institute (NCI) has developed a national repository of Patient-Derived Models (PDMs) comprised of patient-derived xenografts (PDXs) and in vitro patient-derived cell cultures (PDCs), including mixed cell populations, clonal cell lines and fibroblast cell lines to serve as a resource for public-private partnerships and for academic drug discovery efforts
+The NCI PDM Repository has developed a repository of well-characterized PDMs to serve as a resource for public–private partnerships and for academic drug discovery efforts. In addition to providing detailed PDM characteristics, the repository offers Standard Operating Procedures for culturing and analyzing the PDM samples. 

@@ -4,7 +4,7 @@ title: Feature DB
 description: >
     The backend database to manage segmentation results, computed image features and annotations. FeatureDB drives the database for the QUIP web-platform.
     
-website: 
+website: https://github.com/SBU-BMI/pathomics_featuredb
 toolTypes:
     - toolType: datasets_databases/imaging
 researchAreas:

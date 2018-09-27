@@ -4,7 +4,7 @@ title: Genome-Independent Identification of RNA Editing by Mutual Information (G
 description: >
     Identification of single-nucleotide variants in RNA-seq data. Current version focuses on detection of RNA editing sites without requiring genome sequence data. 
     
-website: 
+website: https://github.com/zhqingit/giremi
 toolTypes:
     - toolType: analysis_tools/genomic_analysis
 researchAreas:

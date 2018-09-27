@@ -4,7 +4,7 @@ title: LSTM-CRF (Long Short-Term Memory Conditional Random Field)
 description: >
     LSTM-CRF uses Natural Language Processing methods for detecting Adverse Drug Events, Drugname, Indication and other medically relevant information from Electronic Health Records. It implements Recurrent Neural Networks using several CRF based inference methods.
     
-website: 
+website: https://github.com/abhyudaynj/LSTM-CRF-models
 toolTypes:
     - toolType: clinical_research_tools/ctcae
 researchAreas:
