@@ -5,5 +5,7 @@
     { "label": "Division of Cancer Control and Population Sciences (DCCPS)", "value": "dccps" },
     { "label": "Division of Cancer Biology (DCB)", "value": "dcb" },
     { "label": "Division of Cancer Epidemiology and Genetics (DCEG)", "value": "dceg" },
-    { "label": "Division of Cancer Prevention (DCP)", "value": "dcp" }
+    { "label": "Division of Cancer Prevention (DCP)", "value": "dcp" },
+    { "label": "Center for Strategic Scientific Initiatives (CSSI)", "value": "cssi" },
+    { "label": "Office of Cancer Clinical Proteomics Research (OCCPR)", "value": "occpr" }
 ]
