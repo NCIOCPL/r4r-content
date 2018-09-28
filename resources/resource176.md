@@ -18,7 +18,6 @@ researchTypes:
   - researchType: translational
 resourceAccess:
   type: open
-  type: cost
   notes: Information regarding the antibodies is free, however, users will be redirected to the Developmental Studies Hybridoma Bank for purchasing.
 docs:
   - doc: cssi
