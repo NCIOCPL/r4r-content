@@ -12,7 +12,7 @@ researchAreas:
   - researchArea: cancer_biology
 researchTypes:
   - researchType: basic
-   - researchType : translational
+  - researchType : translational
 resourceAccess:
   type: open
 docs:
