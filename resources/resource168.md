@@ -16,9 +16,9 @@ researchAreas:
   - researchArea: cancer_omics
   - researchArea: cancer_treatment
 researchTypes:
-    - researchType: translational
-    - researchType: clinical_trials
-    - researchType: basic
+  - researchType: translational
+  - researchType: clinical_trials
+  - researchType: basic
 resourceAccess:
   type: open
 docs:
@@ -29,4 +29,4 @@ poc:
       firstname: Peggy
       lastname: Wang
 ---
-The GDC is a research program with a mission to provide the cancer research community with a unified data repository that enables data sharing across cancer genomic studies in support of precision medicine. GDC provides harmonized DNA and RNA sequencing data and other high-quality biospecimen, clinical, and molecular data. Web-based tools supporting fine-grained queries and advanced visualization and pipelines generating DNA sequence variants, mutation analyses, expression analyses, and more are also accessible. 
+The GDC is a research program with a mission to provide the cancer research community with a unified data repository that enables data sharing across cancer genomic studies in support of precision medicine. GDC provides harmonized DNA and RNA sequencing data and other high-quality biospecimen, clinical, and molecular data. Web-based tools supporting fine-grained queries and advanced visualization and pipelines generating DNA sequence variants, mutation analyses, expression analyses, and more are also accessible.
