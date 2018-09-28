@@ -21,10 +21,10 @@ docs:
     - doc: dcb
 poc:
   - email: yassinr@mail.nih.gov
-  name:
-    firstname: Rihab
-    lastname: Yassin
-    suffix: Ph.D.
+    name:
+      firstname: Rihab
+      lastname: Yassin
+      suffix: Ph.D.
   title: Program Director
   phone: 240-276-6230
 ---

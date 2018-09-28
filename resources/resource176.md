@@ -25,10 +25,10 @@ docs:
   - doc: occpr
 poc:
   - email: hiltket@mail.nih.gov
-  name:
-    firstname: Tara
-    lastname: Hiltke
-    suffix: Ph.D.
+    name:
+      firstname: Tara
+      lastname: Hiltke
+      suffix: Ph.D.
   title: Program Director
   phone: 240-781-3435
 ---

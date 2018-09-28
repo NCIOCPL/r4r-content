@@ -24,10 +24,10 @@ docs:
   - doc: occpr
 poc:
   - email: kinsingc@mail.nih.gov
-  name:
-    firstname: Chris
-    lastname: Kinsingee
-    suffix: Ph.D.
+    name:
+      firstname: Chris
+      lastname: Kinsingee
+      suffix: Ph.D.
   title: Program Director
   phone: 240-781-3339
 ---

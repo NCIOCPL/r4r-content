@@ -19,10 +19,10 @@ docs:
   - doc: dcb
 poc:
   - email: mccarths@mail.nih.gov
-  name:
-    firstname: Susan
-    lastname: McCarthy
-    suffix: Ph.D.
+     name:
+      firstname: Susan
+      lastname: McCarthy
+      suffix: Ph.D.
   title: Program Director
   phone: 240-276-6200
 ---
