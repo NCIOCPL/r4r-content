@@ -9,9 +9,8 @@ toolTypes:
   - toolType: datasets_databases/clinical_data
   - toolType: datasets_databases/genomic_datasets
   - toolType: datasets_databases/imaging
-toolTypes:
-    - toolType: analysis_tools/genomic_analysis
-    - toolType: analysis_tools/data_visualization
+  - toolType: analysis_tools/genomic_analysis
+  - toolType: analysis_tools/data_visualization
 researchAreas:
   - researchArea: cancer_biology
   - researchArea: cancer_omics
