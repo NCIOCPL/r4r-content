@@ -28,7 +28,7 @@ poc:
       firstname: Tara
       lastname: Hiltke
       suffix: Ph.D.
-  title: Program Director
-  phone: 240-781-3435
+    title: Program Director
+    phone: 240-781-3435
 ---
 The CPTAC Antibody Portal houses affinity reagents characterized and validated by NCI’s Antibody Characterization Laboratory, located at the Frederick National Laboratory for Cancer Research. Upon entering the portal, users can browse by antibodies or antigens or select from a series of table filters on the left side of the page. Each antibody has background, characterization data with corresponding standard operating procedures, as well as links to the CPTAC assay portal (when applicable) and Developmental Studies Hybridoma Bank at the University of Iowa for purchase. Each antigen additionally has standard operating procedures and links to central repositories of protein and gene information, such as Uniprot, Ensembl, and Entrez. For those interested in affinity reagents to a specific protein target, the CPTAC Antibody Portal has an application form for reagent target requests to the NCI Antibody Characterization Program that is released on an annual basis.
