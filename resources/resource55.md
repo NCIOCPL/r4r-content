@@ -7,12 +7,12 @@ description: >
 website: https://dtp.cancer.gov/databases_tools/microxeno_project.htm
 toolTypes:
   - toolType: datasets_databases
-  researchAreas:
+researchAreas:
   - researchArea: cancer_treatment
   - researchArea: cancer_biology
 researchTypes:
   - researchType: basic
-   - researchType : translational
+  - researchType: translational
 resourceAccess:
   type: open
 docs:
