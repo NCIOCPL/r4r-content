@@ -26,7 +26,7 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
+    - doc: itcr
     - doc: dcb
     - doc: dccps
     - doc: dcp

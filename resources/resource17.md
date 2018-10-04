@@ -12,10 +12,10 @@ researchAreas:
   - researchArea: cancer_omics
   - researchArea: bioinformatics
 researchTypes:
-    - researchType: basic
+  - researchType: basic
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 ---
 OmniSearch is a semantic search software based upon the Ontology for MIcroRNA Target (OMIT) ontology. While OmniSearch is by its nature extensible, its initial focus is in human cancer research.

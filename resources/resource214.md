@@ -6,7 +6,7 @@ description: >
   
 website: https://cancercontrol.cancer.gov/brp/tcrb/monographs
 toolTypes:
-  - toolType: community_research_tools/
+  - toolType: community_research_tools
   - toolType: terminology 
 researchAreas:
   - researchArea: cancer_public_health

@@ -15,7 +15,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr       
 ---
 MuPIT provides 3D visualization of mutation clusters and functional annotation.

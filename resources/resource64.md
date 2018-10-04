@@ -13,6 +13,6 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 ---
 ShEx is a quality assurance tool based on the Shape Expressions Language, which is an emerging W3C standard to validate RDF graphs.

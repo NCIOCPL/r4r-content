@@ -15,7 +15,7 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
+    - doc: itcr
 pocs: []        
 ---
 Bioconductor provides tools for the analysis and comprehension of high-throughput genomic data. R/Bioconductor will be enhanced to meet the increasing complexity of multiassay cancer genomics experiments.

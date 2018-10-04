@@ -15,6 +15,6 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 ---
 DINC 2.0 is a parallelized meta-docking method for the incremental docking of large ligands (currently using AutoDock 4).

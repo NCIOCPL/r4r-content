@@ -7,5 +7,8 @@
     { "label": "Division of Cancer Epidemiology and Genetics (DCEG)", "value": "dceg" },
     { "label": "Division of Cancer Prevention (DCP)", "value": "dcp" },
     { "label": "Center for Strategic Scientific Initiatives (CSSI)", "value": "cssi" },
-    { "label": "Office of Cancer Clinical Proteomics Research (OCCPR)", "value": "occpr" }
+    { "label": "Office of Cancer Clinical Proteomics Research (OCCPR)", "value": "occpr" },
+    { "label": "Office of Extramural Research (OER)", "value": "oer" },
+    { "label": "Office of Communications & Public Liaison (OCPL)", "value": "ocpl" },
+    { "label": "Office of Cancer Genomics (OCG)", "value": "ocg" }
 ]

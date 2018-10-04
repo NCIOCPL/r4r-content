@@ -20,11 +20,11 @@ docs:
   - doc: dctd
 poc:
   - email: lubenskyi@mail.nih.gov
-  name:
-    firstname: Irina 
-    lastname: Lubensky
-    suffix: MD
-  title: Branch Chief  
-  phone: 240-276-5902
+    name:
+      firstname: Irina 
+      lastname: Lubensky
+      suffix: MD
+    title: Branch Chief  
+    phone: 240-276-5902
 ---
 Investigators can use the Navigator website to search the inventory of specimens and clinical data from cancer treatment trials.

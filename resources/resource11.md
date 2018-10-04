@@ -15,7 +15,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr       
 ---
 DCMTK is a collection of libraries and applications implementing large parts the DICOM standard. It includes software for examining, constructing, and converting DICOM image files, handling offline media, and sending and receiving images over a network connection, as well as demonstrative image storage and worklist servers. DCMTK is written in a mixture of ANSI C and C++. It comes in complete source code and is made available as open-source software.

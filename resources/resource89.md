@@ -18,7 +18,6 @@ resourceAccess:
     notes: Users must sign a terms of use agreement in order to download the software.
 docs:
     - doc: dccps
-
 poc:
   - email: scotts2@mail.nih.gov
     name:

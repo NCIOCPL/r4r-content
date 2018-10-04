@@ -18,18 +18,18 @@ docs:
   - doc: dccps
 poc:
   - email: linda.nebeling@nih.gov
-  name:
-    prefix: Dr.
-    firstname: Linda
-    lastname: Nebeling
-  title: Deputy Associate Director
-  phone: 240-276-6855
+    name:
+      prefix: Dr.
+      firstname: Linda
+      lastname: Nebeling
+    title: Deputy Associate Director
+   phone: 240-276-6855
   - email: april.oh@nih.gov
-  name:
-    prefix: Dr.
-    firstname: April
-    lastname: Oh
-  title: Program Director
-  phone: 240-276-6709
+    name:
+      prefix: Dr.
+      firstname: April
+      lastname: Oh
+    title: Program Director
+    phone: 240-276-6709
 ---
 FLASHE is a cross-sectional, internet-based study that was conducted between April and October 2014. Behavioral measures focus on diet and physical activity as they relate to cancer risk, as well as sun safety, sleep, and tobacco use. The sample was drawn from a consumer opinion panel representative of the US general population for sex, education, income, age, household size, and region. A subsample of adolescents received motion-sensing devices to objectively measure their physical activity.

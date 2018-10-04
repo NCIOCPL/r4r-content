@@ -6,8 +6,8 @@ description: >
   
 website: https://gis.cancer.gov/
 toolTypes:
-    - toolType: datasets_databases/epidemiologic_data
-    - toolType: analysis_tools/data_visualization
+  - toolType: datasets_databases/epidemiologic_data
+  - toolType: analysis_tools/data_visualization
 researchAreas:
   - researchArea: cancer_public_health
   - researchArea: cancer_health_disparities

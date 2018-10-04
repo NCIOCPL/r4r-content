@@ -15,7 +15,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr       
 ---
 PETCT-CoSeg is a PET-CT co-segmentation tool for tumor delineation. It is a free and open-source platform for analyzing and understanding medical image data.

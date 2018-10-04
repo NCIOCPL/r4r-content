@@ -16,6 +16,6 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 ---
 TIES is a service-based software system for acquiring, deidentifying, and processing clinical text reports using natural language processing, and also for querying, sharing, and using this data to foster tissue- and image-based research within and between institutions.

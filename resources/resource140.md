@@ -15,7 +15,6 @@ resourceAccess:
     type: open
 docs:
     - doc: dccps
-
 poc:
   - email: mariotta@mail.nih.gov
     name:

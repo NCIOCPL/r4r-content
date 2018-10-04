@@ -12,7 +12,6 @@ researchAreas:
   - researchArea: cancer_public_health
   - researchArea: cancer_survivorship
   - researchArea: cancer_statistics
-
 resourceAccess:
   type: register
 docs:

@@ -6,7 +6,7 @@ description: >
   
 website: https://ctep.cancer.gov/investigatorResources/investigators_handbook.htm
 toolTypes:
-    - toolType: clinical_research_tools/policies
+  - toolType: clinical_research_tools/policies
 researchTypes:
   - researchType: clinical
 resourceAccess:
@@ -15,7 +15,6 @@ docs:
   - doc: dctd
 poc:
   - email: NCICTEPiHandbook@mail.nih.gov.
-
 ---
 DCTD sponsors the majority of extramural treatment trials at NCI. Sponsorship or support of clinical trials includes funding, regulatory support, and/or agent distribution. 
 

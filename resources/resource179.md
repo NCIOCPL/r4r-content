@@ -29,4 +29,3 @@ poc:
 The NCI Cohort Consortium promotes collaborative research projects for topics not easily addressed in a single study. The Consortium includes investigators responsible for more than 50 cohorts involving more than seven million people. The cohorts are international in scope and cover diverse populations. Extensive risk factor data are available on each cohort and biospecimens collected at baseline are available on approximately two million individuals. 
 
 Application for membership will be open to the principal investigator of any cancer epidemiology cohort with at least 10,000 study participants, in which cancer occurrence is assessed and some risk factor data collected, who commits to scientific collaboration by contributing data for scientific research and participating in pooling studies.
-

@@ -6,15 +6,14 @@ description: >
   
 website: https://www.ctsu.org/public/
 toolTypes:
-    - toolType: clinical_research_tools/guidelines_protocols
+  - toolType: clinical_research_tools/guidelines_protocols
 researchTypes:
   - researchType: clinical
 resourceAccess:
   type: register
 poc:
   - email: ctsucontact@westat.com
-  - phone: 1-888-823-5923
-
+    phone: 1-888-823-5923
 ---
 CTSU provides centralized services to support the following goals and objectives:
 

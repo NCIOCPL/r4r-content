@@ -17,7 +17,6 @@ resourceAccess:
     type: register
 docs:
     - doc: dccps
-
 poc:
   - email: scotts2@mail.nih.gov
     name:

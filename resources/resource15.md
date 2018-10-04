@@ -15,7 +15,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr       
 ---
 Web MeV is a cloud-based tool for genomic data analysis. Web MeV is being built to meet the challenge of exploring large public genomic datasets  with an intuitive graphical interface providing access to state-of-the-art analytical tools.

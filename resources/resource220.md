@@ -19,9 +19,9 @@ docs:
   - doc: ccg
 poc:
   - email: kchen3@mdanderson.org
-  name:
-    prefix: Dr.
-    firstname: Ken
-    lastname: Chen
+    name:
+      prefix: Dr.
+      firstname: Ken
+      lastname: Chen
 ---
 DACRE-scan is a statistical tool that deconvolutes and integrates tumor DNA and RNA profiles from matched whole-exome and whole-transcriptome tissue sequencing data. This tool is being used to discover functional variants (somatic and germline) that are subject to differential allelic cis-regulatory effects.

@@ -6,8 +6,8 @@ description: >
   
 website: https://costprojections.cancer.gov/
 toolTypes:
-    - toolType: datasets_databases/epidemiologic_data
-    - toolType: analysis_tools/data_visualization
+  - toolType: datasets_databases/epidemiologic_data
+  - toolType: analysis_tools/data_visualization
 researchAreas:
   - researchArea: cancer_treatment
   - researchArea: cancer_statistics

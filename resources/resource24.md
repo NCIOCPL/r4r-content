@@ -14,7 +14,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr      
 ---
 TCIA is NCI's repository for publicly shared cancer imaging data. TCIA collections include radiology and pathothogy images, clinical and clinical trial data, image-derived annotations and quantitative features and a growing collection of related ”omics" data from both clinical and preclinical studies.

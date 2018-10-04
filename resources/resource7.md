@@ -16,7 +16,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr      
 ---
 C-BIBOP is a cloud-based platform for medical imaging algorithm comparisons. C-BIBOP is used to conduct challenges and benchmarks and uses Docker containers to share algorithm.

@@ -16,7 +16,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: CBIIT
-pocs: []        
+    - doc: itcr      
 ---
-The BMEG is a cancer data integration platform that utilizes methods collected from DREAM challenges and applied to large datasets, such as The Cancer Genome Atlas, and makes them available for analysis using a high performance graph database. DREAM challenges are crowdsourcing challenges designed to evaluate model predictions and pathway inference algorithms in systems biology and medicine .
+The BMEG is a cancer data integration platform that utilizes methods collected from DREAM challenges and applied to large datasets, such as The Cancer Genome Atlas, and makes them available for analysis using a high performance graph database. DREAM challenges are crowdsourcing challenges designed to evaluate model predictions and pathway inference algorithms in systems biology and medicine.

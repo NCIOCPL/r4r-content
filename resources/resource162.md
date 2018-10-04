@@ -17,7 +17,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr      
 ---
 XNAT is an open-source imaging informatics platform designed to support institutional image repositories, image-based clinical trials, and translational imaging research.

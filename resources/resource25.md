@@ -2,7 +2,7 @@
 id: 25
 title: cBioPortal for Cancer Genonics
 description: >
-    TCIA is NCI's repository for publicly shared cancer imaging data.
+    The cBioPortal for cancer genomics provides visualization, analysis and download of large-scale cancer genomics datasets.
     
 website: http://www.cbioportal.org
 toolTypes:
@@ -15,7 +15,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr       
 ---
 The cBioPortal for cancer genomics provides visualization, analysis and download of large-scale cancer genomics data sets.

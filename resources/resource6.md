@@ -15,7 +15,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr       
 ---
 CaPTk is a tool that facilitates translation of highly sophisticated methods that help researchers gain a comprehensive understanding of the underlying mechanisms of cancer from medical imaging research to the clinic. It replicates basic interactive functionalities of radiological workstations and is distributed under a Berkeley Software Distribution (BSD)-style license.

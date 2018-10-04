@@ -15,7 +15,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr       
 ---
 PDX Finder, currently in the prototyping phase, is a tool for integrating, archiving and dessiminating information about PDX models and their associated data.

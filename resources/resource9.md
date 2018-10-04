@@ -17,6 +17,6 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 ---
 CLAMP-Cancer is a tool that can be used to quickly build customized natural language processing pipelines for extracting cancer information from pathology reports through  user-friendly interface with minimum programming knowledge.

@@ -7,7 +7,7 @@ website: https://evs.nci.nih.gov/ftp1/FDA/
 toolTypes:
   - toolType: terminology
 resourceAccess:
-    type: open
+  type: open
 ---
 FDA terms and codes and other terminology used by FDA are updated and made available for download from an NCI FTP site. FDA terminology subsets are available in each of these four main areas in Excel and text formats:
 
@@ -19,4 +19,4 @@ FDA terms and codes and other terminology used by FDA are updated and made avail
 
 4. Event Problem Code terminology was developed by the Center for Devices and Radiological Health (CDRH) for reporting of medical device problems. Six CDRH term sets, covering Patient Problem Codes, Device Problem Codes, Device Component Codes, Medical Evaluation Conclusions, Medical Device Evaluation Methods, and Medical Device Evaluation Results are maintained.
 
-5. Global Unique Device Identification Database (GUDID) terminology was developed by CDRH to represent the attributes found in the GUDID, a repository of key device identification information related to a device's Unique Device Identifier (UDI). Labelers wanting to submit their device information using SPL format (and the FDA Electronic Submissions Gateway) will find all necessary codes in this terminology. Through use of the shared document standard, the GUDID terminology may share some codes with the SPL terminology listed separately on this page, but the SPL terminology does not contain all necessary device-related terms for GUDID. 
+5. Global Unique Device Identification Database (GUDID) terminology was developed by CDRH to represent the attributes found in the GUDID, a repository of key device identification information related to a device's Unique Device Identifier (UDI). Labelers wanting to submit their device information using SPL format (and the FDA Electronic Submissions Gateway) will find all necessary codes in this terminology. Through use of the shared document standard, the GUDID terminology may share some codes with the SPL terminology listed separately on this page, but the SPL terminology does not contain all necessary device-related terms for GUDID.

@@ -11,6 +11,5 @@ resourceAccess:
   type: open
 docs:
     - doc: dctd
-
 ---
 A grading (severity) scale is provided for each AE term. The page includes resources for CTCAE v 5.0 and earlier.

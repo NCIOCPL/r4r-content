@@ -16,7 +16,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr       
 ---
 CORE is a statistically supported computational method for finding recurrently targeted regions in massive collections of genomic intervals, such as those arising from DNA copy number analysis of single tumor cells or bulk tumor tissues.

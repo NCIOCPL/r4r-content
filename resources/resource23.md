@@ -16,6 +16,6 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 ---
 The Cancer Proteome Atlas is a comprehensive bioinformatic resource for assessing, visualzing, and analyzing the functional proteomics data of patient tumor and cell line samples.

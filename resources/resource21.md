@@ -15,8 +15,7 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr       
 ---
 This site hosts web-accessible applications, tools, and data designed to support analysis, management, and exploration of whole slide tissue images for cancer research. QUIP includes the following tools:
 

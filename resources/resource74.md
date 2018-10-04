@@ -16,6 +16,5 @@ resourceAccess:
     type: open
 docs:
     - doc: dctd
-       
 ---
-The NCI PDM Repository has developed a repository of well-characterized PDMs to serve as a resource for public–private partnerships and for academic drug discovery efforts. In addition to providing detailed PDM characteristics, the repository offers Standard Operating Procedures for culturing and analyzing the PDM samples. 
+The NCI PDM Repository has developed a repository of well-characterized PDMs to serve as a resource for public–private partnerships and for academic drug discovery efforts. In addition to providing detailed PDM characteristics, the repository offers Standard Operating Procedures for culturing and analyzing the PDM samples.

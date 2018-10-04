@@ -13,7 +13,6 @@ docs:
     - doc: dcp
 poc:
   - email: ncictephelp@ctep.nci.nih.gov
-  - phone: 1-888-283-7457
-
+    phone: 1-888-283-7457
 ---
 The resource includes the electronic reporting portal, training materials, FAQ’s, Health Insurance Portability and Accountability Act (HIPAA) documentation, and the CTEP Adverse Event Listserv, a communication mechanism by which CTEP informs the community of important information regarding adverse event reporting to CTEP.

@@ -16,7 +16,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr      
 ---
 Sedeen is a freely downloadable pathology viewer which supports viewing, annotation, and analysis of Whole Slide Images. Functionality will be extended as part of the Pathology Image Informatics Platform.

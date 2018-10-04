@@ -17,7 +17,6 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: cbiit
-pocs: []        
+    - doc: itcr      
 ---
 ivyGlimpse is a bioconductor-based interface to Ivy-GAP (glioblastoma.alleninstitute.org) data resources. This app introduces users to quantitative elements of the Ivy-GAP, and it allows interactive selection of image features for scatterplotting, image sets for stratified survival distribution estimation, and gene sets for expression distribution comparison between strata.

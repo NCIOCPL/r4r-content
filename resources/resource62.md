@@ -11,6 +11,6 @@ toolTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 ---
 D2Refine is an integrated platform that enables cancer study data/metadata harmonization and quality assurance. The platform is based on Open Refine and has been enhanced with a suite of plugins.
