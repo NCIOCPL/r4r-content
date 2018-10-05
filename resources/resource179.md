@@ -6,18 +6,18 @@ description: >
     
 website: https://epi.grants.cancer.gov/Consortia/cohort.html
 toolTypes:
-    - toolType: networks_consortiums
+  - toolType: networks_consortiums
 researchAreas:
-    - researchArea: cancer_omics
-    - researchArea: causes_of_cancer
-    - researchArea: cancer_survivorship
+  - researchArea: cancer_omics
+  - researchArea: causes_of_cancer
+  - researchArea: cancer_survivorship
 researchTypes:
-    - researchType: epidemiologic
+  - researchType: epidemiologic
 resourceAccess:
     type: open
 docs:
-    - doc: dccps
-    - doc: dceg
+  - doc: dccps
+  - doc: dceg
 poc:
   - email: harveyn@mail.nih.gov
     name:

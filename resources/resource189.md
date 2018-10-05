@@ -6,17 +6,17 @@ description: >
     
 website: https://www.nccor.org/nccor-tools/measures/
 toolTypes:
-    - toolType: community_research_tools/questionnaire
-    - toolType: community_research_tools/screener
-    - toolType: community_research_tools/survey
+  - toolType: community_research_tools/questionnaire
+  - toolType: community_research_tools/screener
+  - toolType: community_research_tools/survey
 researchAreas:
-    - researchArea: cancer_prevention
+  - researchArea: cancer_prevention
 researchTypes:
-    - researchType: epidemiologic
+  - researchType: epidemiologic
 resourceAccess:
     type: open
 docs:
-    - doc: dccps
+  - doc: dccps
 poc:
   - email: reedyj@mail.nih.gov
     name:

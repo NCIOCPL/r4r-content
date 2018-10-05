@@ -12,4 +12,5 @@ resourceAccess:
   type: open
 ---
 Data is available for analysis in the Georgetown Database of Cancer ([G-DOC](https://gdoc.georgetown.edu/gdoc/)).
+
 Gene expression files can be downloaded from a NCI-hosted FTP site.

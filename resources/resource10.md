@@ -6,15 +6,15 @@ description: >
 
 website: http://ctakes.apache.org
 toolTypes:
-    - toolType: analysis_tools/natural_language_processing
+  - toolType: analysis_tools/natural_language_processing
 researchAreas:
-    - researchArea: cancer_diagnosis
-    - researchArea: cancer_treatment
+  - researchArea: cancer_diagnosis
+  - researchArea: cancer_treatment
 researchTypes:
-    - researchType: translational
+  - researchType: translational
 resourceAccess:
     type: open
 docs:
-    - doc: itcr       
+  - doc: itcr
 ---
 cTAKES extracts deep phenotypic information from the clinical narrative at the document, episode, and patient level. The final output is a Fast Healthcare Interoperability Resources (FHIR)-compliant, patient-level phenotypic summary which can be consumed by research warehouses or the DeepPhe native visualization tool.

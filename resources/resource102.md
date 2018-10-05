@@ -6,12 +6,12 @@ description: >
     
 website: https://www.ibp.ucla.edu/research/xiao/Software_files/ASARP/doc/asarp.html
 toolTypes:
-    - toolType: analysis_tools/modeling
+  - toolType: analysis_tools/modeling
 researchAreas:
-    - researchArea: cancer_omics
+  - researchArea: cancer_omics
 researchTypes:
-    - researchType: basic
-    - researchType: translational
+  - researchType: basic
+  - researchType: translational
 resourceAccess:
     type: open
 docs:

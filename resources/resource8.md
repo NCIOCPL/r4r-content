@@ -6,16 +6,16 @@ description: >
 
 website: http://cistrome.org/Cistrome/Cistrome_Project.html
 toolTypes:
-    - toolType: datasets_databases/genomic_datasets
-    - toolType: analysis_tools/genomic_analysis
+  - toolType: datasets_databases/genomic_datasets
+  - toolType: analysis_tools/genomic_analysis
 researchAreas:
-    - researchArea: cancer_omics
-    - researchArea: cancer_biology
+  - researchArea: cancer_omics
+  - researchArea: cancer_biology
 researchTypes:
-    - researchType : basic
+  - researchType : basic
 resourceAccess:
     type: open
 docs:
-    - doc: itcr        
+  - doc: itcr
 ---
 Cistrome has curated and processed human/mouse ChIP/DNase-seq datasets in GEO, allowing users to search, browse, download ChIP-seq data signals, peaks, quality control, motifs, target genes and similar datasets.

@@ -23,4 +23,4 @@ poc:
       lastname: Tsherniak
     title: Associate Director, Cancer Data Science
 ---
-DEMETER2 is a computation method that estimates gene dependencies by integrating data from large-scale RNAi screens (targeting up to the whole transcriptome) with read-out of cell viabilities performed in cancer cell lines. This method infers gene dependency estimates and allows for corrections to eliminate batch effects 
+DEMETER2 is a computation method that estimates gene dependencies by integrating data from large-scale RNAi screens (targeting up to the whole transcriptome) with read-out of cell viabilities performed in cancer cell lines. This method infers gene dependency estimates and allows for corrections to eliminate batch effects.

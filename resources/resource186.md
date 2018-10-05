@@ -6,15 +6,15 @@ description: >
     
 website: https://epi.grants.cancer.gov/hei/
 toolTypes:
-    - toolType: analysis_tools/modeling
+  - toolType: analysis_tools/modeling
 researchAreas:
-    - researchArea: cancer_prevention
+  - researchArea: cancer_prevention
 researchTypes:
-    - researchType: epidemiologic
+  - researchType: epidemiologic
 resourceAccess:
     type: open
 docs:
-    - doc: dccps
+  - doc: dccps
 poc:
   - email: reedyj@mail.nih.gov
     name:

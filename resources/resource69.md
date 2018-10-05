@@ -3,34 +3,34 @@ id: 69
 title: Informatics Technology for Cancer Research (ITCR) Informatics Tools
 description: >
     ITCR program supports informatics needs across the cancer research continuum, including the development of innovative methods and algorithms, early- and advanced-stage software development, and sustainment of high-value resources.
-    
+
 website: https://itcr.nci.nih.gov/informatics-tools
 toolTypes:
-    - toolType: analysis_tools/data_visualization
-    - toolType: analysis_tools/genomic_analysis
-    - toolType: clinical_research_tools
-    - toolType: datasets_databases/clinical_data
-    - toolType: terminology
+  - toolType: analysis_tools/data_visualization
+  - toolType: analysis_tools/genomic_analysis
+  - toolType: clinical_research_tools
+  - toolType: datasets_databases/clinical_data
+  - toolType: terminology
 researchAreas:
-    - researchArea: cancer_biology
-    - researchArea: cancer_diagnosis
-    - researchArea: cancer_omics
-    - researchArea: cancer_treatment
-    - researchArea: causes_of_cancer
-    - researchArea: screening_detection
+  - researchArea: cancer_biology
+  - researchArea: cancer_diagnosis
+  - researchArea: cancer_omics
+  - researchArea: cancer_treatment
+  - researchArea: causes_of_cancer
+  - researchArea: screening_detection
 researchTypes:
-    - researchType: basic
-    - researchType: clinical
-    - researchType: epidemiologic
-    - researchType: translational
+  - researchType: basic
+  - researchType: clinical
+  - researchType: epidemiologic
+  - researchType: translational
 resourceAccess:
     type: open
 docs:
-    - doc: itcr
-    - doc: dcb
-    - doc: dccps
-    - doc: dcp
-    - doc: dctd
+  - doc: itcr
+  - doc: dcb
+  - doc: dccps
+  - doc: dcp
+  - doc: dctd
 poc:
   - email: Mervi.Heiskanen@nih.gov
     name:

@@ -6,7 +6,7 @@ description: >
   
 website: ftp://caftpd.nci.nih.gov/pub/caARRAY/experiments/caArray_EXP-597/
 toolTypes:
-    - toolType: datasets_databases/clinical_data
+  - toolType: datasets_databases/clinical_data
 researchAreas:
   - researchArea: cancer_treatment
 resourceAccess:

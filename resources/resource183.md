@@ -6,15 +6,15 @@ description: >
     
 website: https://epi.grants.cancer.gov/asa24/
 toolTypes:
-    - toolType: community_research_tools/questionnaire
+  - toolType: community_research_tools/questionnaire
 researchAreas:
-    - researchArea: cancer_prevention
+  - researchArea: cancer_prevention
 researchTypes:
-    - researchType: epidemiologic
+  - researchType: epidemiologic
 resourceAccess:
     type: register
 docs:
-    - doc: dccps
+  - doc: dccps
 poc:
   - email: subara@mail.nih.gov
     name:

@@ -2,22 +2,22 @@
 id: 89
 title: DevCan
 description: >
-    This tool consists of statistical software and associated databases that compute the probability of being diagnosed with or dying of cancer for a particular selected cancer site. 
-    
+    This tool consists of statistical software and associated databases that compute the probability of being diagnosed with or dying of cancer for a particular selected cancer site.
+
 website: https://surveillance.cancer.gov/devcan/
 toolTypes:
-    - toolType: analysis_tools/modeling
+  - toolType: analysis_tools/modeling
 researchAreas:
-    - researchArea: cancer_public_health
-    - researchArea: cancer_health_disparities
-    - researchArea: cancer_statistics
+  - researchArea: cancer_public_health
+  - researchArea: cancer_health_disparities
+  - researchArea: cancer_statistics
 researchTypes:
-    - researchType: epidemiologic
+  - researchType: epidemiologic
 resourceAccess:
     type: register
     notes: Users must sign a terms of use agreement in order to download the software.
 docs:
-    - doc: dccps
+  - doc: dccps
 poc:
   - email: scotts2@mail.nih.gov
     name:

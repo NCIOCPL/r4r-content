@@ -3,22 +3,22 @@ id: 26
 title: Chernobyl Tissue Bank (CTB)
 description: >
     CTB maintains a research resource that supports studies on the biology of thyroid cancer, the major health consequence of the Chernobyl accident.
-    
+
 website: http://www.chernobyltissuebank.com/
 toolTypes:
-    - toolType: lab_tools/biospecimen
+  - toolType: lab_tools/biospecimen
 researchAreas:
-    - researchArea: cancer_biology
-    - researchArea: causes_of_cancer
-    - researchArea: cancer_survivorship
+  - researchArea: cancer_biology
+  - researchArea: causes_of_cancer
+  - researchArea: cancer_survivorship
 researchTypes:
-    - researchType: basic
-    - researchType: clinical
-    - researchType: translational
+  - researchType: basic
+  - researchType: clinical
+  - researchType: translational
 resourceAccess:
     type: register
 docs:
-    - doc: dcb
+  - doc: dcb
 poc:
   - email: yassinr@mail.nih.gov
     name:

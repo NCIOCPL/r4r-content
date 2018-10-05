@@ -6,14 +6,14 @@ description: >
     
 website: https://github.com/SBU-BMI/pathomics_featuredb
 toolTypes:
-    - toolType: datasets_databases/imaging
+  - toolType: datasets_databases/imaging
 researchAreas:
-    - researchArea: cancer_diagnosis
+  - researchArea: cancer_diagnosis
 researchTypes:
-    - researchType: translational
+  - researchType: translational
 resourceAccess:
     type: open
 docs:
-    - doc: itcr      
+  - doc: itcr      
 ---
 FeatureDB is a backend database to manage segmentation results, computed image features and annotations. FeatureDB drives the database for the QUIP web-platform.

@@ -6,15 +6,15 @@ description: >
     
 website: https://cmr.nci.nih.gov/
 toolTypes:
-    - toolType: datasets_databases/epidemiologic_data
+  - toolType: datasets_databases/epidemiologic_data
 researchAreas:
-    - researchArea: causes_of_cancer
+  - researchArea: causes_of_cancer
 researchTypes:
-    - researchType: epidemiologic
+  - researchType: epidemiologic
 resourceAccess:
     type: register
 docs:
-    - doc: dccps
+  - doc: dccps
 poc:
   - email: elenajw@mail.nih.gov
     name:

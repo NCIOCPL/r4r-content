@@ -6,14 +6,14 @@ description: >
     
 website: https://github.com/abhyudaynj/LSTM-CRF-models
 toolTypes:
-    - toolType: clinical_research_tools
+  - toolType: clinical_research_tools
 researchAreas:
-    - researchArea: cancer_treatment
+  - researchArea: cancer_treatment
 researchTypes:
-    - researchType: basic
+  - researchType: basic
 resourceAccess:
     type: open
 docs:
-    - doc: itcr      
+  - doc: itcr      
 ---
 LSTM-CRF implements recurrent neural networks using several CRF-based inference methods.

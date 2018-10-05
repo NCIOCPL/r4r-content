@@ -6,10 +6,10 @@ description: >
   
 website: https://ctep.cancer.gov/protocolDevelopment/electronic_applications/ctc.htm
 toolTypes:
-    - toolType: clinical_research_tools
+  - toolType: clinical_research_tools
 resourceAccess:
   type: open
 docs:
-    - doc: dctd
+  - doc: dctd
 ---
 A grading (severity) scale is provided for each AE term. The page includes resources for CTCAE v 5.0 and earlier.

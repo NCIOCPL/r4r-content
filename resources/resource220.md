@@ -8,8 +8,8 @@ website: https://github.com/KChen-lab/DACRE
 toolTypes:
   - toolType: analysis_tools/genomic_analysis
 researchAreas:
-    - researchArea: cancer_omics
-    - researchArea: cancer_biology 
+  - researchArea: cancer_omics
+  - researchArea: cancer_biology 
 researchTypes:
   - researchType: translational
   - researchType: basic

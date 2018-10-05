@@ -6,8 +6,8 @@ description: >
 
 website: https://seer.cancer.gov/faststats/
 toolTypes:
-    - toolType: datasets_databases/epidemiologic_data
-    - toolType: analysis_tools/data_visualization
+  - toolType: datasets_databases/epidemiologic_data
+  - toolType: analysis_tools/data_visualization
 researchAreas:
   - researchArea: cancer_public_health
   - researchArea: cancer_health_disparities
@@ -26,4 +26,4 @@ poc:
     title: Program Analyst, Surveillance Research Program
     phone: 240-276-6903
 ---
-Statistics are presented as graphs and tables. The tool provides incidence and mortality rates. Users have the option to select long-term trends and build their own graphs and/or tables. This resource is eventually going to be replaced by SEER*Explorer, another interactive tool that includes survival and other statistics in addition to incidence and mortality. 
+Statistics are presented as graphs and tables. The tool provides incidence and mortality rates. Users have the option to select long-term trends and build their own graphs and/or tables. This resource is eventually going to be replaced by SEER*Explorer, another interactive tool that includes survival and other statistics in addition to incidence and mortality.

@@ -6,15 +6,15 @@ description: >
 
 website: http://mupit.icm.jhu.edu/MuPIT_Interactive/
 toolTypes:
-    - toolType: analysis_tools/data_visualization
+  - toolType: analysis_tools/data_visualization
 researchAreas:
-    - researchArea: cancer_omics
-    - researchArea: cancer_biology
+  - researchArea: cancer_omics
+  - researchArea: cancer_biology
 researchTypes:
-    - researchType: basic
+  - researchType: basic
 resourceAccess:
     type: open
 docs:
-    - doc: itcr       
+  - doc: itcr
 ---
 MuPIT provides 3D visualization of mutation clusters and functional annotation.

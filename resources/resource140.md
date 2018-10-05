@@ -6,15 +6,15 @@ description: >
     
 website: https://seer.cancer.gov/canques/
 toolTypes:
-    - toolType: datasets_databases/epidemiologic_data
+  - toolType: datasets_databases/epidemiologic_data
 researchAreas:
-    - researchArea: cancer_statistics
+  - researchArea: cancer_statistics
 researchTypes:
-    - researchType: epidemiologic
+  - researchType: epidemiologic
 resourceAccess:
     type: open
 docs:
-    - doc: dccps
+  - doc: dccps
 poc:
   - email: mariotta@mail.nih.gov
     name:
