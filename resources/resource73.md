@@ -15,6 +15,6 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 ---
 The Personalized Cancer Therapy website is a curated website cataloging clinically actionable information for personalized cancer therapy, including clinically significant genetic variants and drug-gene association.

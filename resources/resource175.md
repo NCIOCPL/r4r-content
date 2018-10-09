@@ -2,29 +2,22 @@
 id: 175
 title: Clinical Proteomic Tumor Analysis Consortium (CPTAC) Data Portal
 description: >
-  The CPTAC Data Portal is a centralized repository for the public dissemination of proteomic sequence datasets collected by CPTAC investigators.
+  CPTAC analyzes cancer biospecimens by mass spectrometry, characterizing and quantifying their constituent proteins, or proteome. The CPTAC Data Portal is the centralized repository for the dissemination of proteomic data collected by the Proteome Characterization Centers (PCCs).
   
 website: https://proteomics.cancer.gov/data-portal
 toolTypes:
   - toolType: datasets_databases/clinical_data
+  - toolType: datasets_databases/genomic_datasets
   - toolType: networks_consortiums
 researchAreas:
   - researchArea: cancer_omics
-  - researchArea: cancer_biology
 researchTypes:
   - researchType: basic
 resourceAccess:
   type: open
+  notes: Subject to Data Use Agreement
 docs:
   - doc: cssi
-  - doc: occpr
-poc:
-  - email: kinsingc@mail.nih.gov
-    name:
-      firstname: Chris
-      lastname: Kinsinger
-      suffix: Ph.D.
-    title: Program Director
-    phone: 240-781-3339
 ---
-The CPTAC Data Portal represents NCI’s largest public repository of proteogenomic comprehensive sequence datasets. All data is publicly accessible and available for download upon data use agreement. File types available for download include analyses of CPTAC raw mass spectrometry-based data files, such as mapping of spectra to peptide sequences and protein identification by individual CPTAC investigators and by a Common Data Analysis Pipeline. Proteomic data and related data files are organized into datasets by study, sub-proteome, and analysis site.
+The Data Portal hosts the mass spectrometry data from the CPTAC program. A key component is the proteogenomic profiling of patient tumors, such as those from the breast, colorectal, and ovarian cancer programs in The Cancer Genome Atlas (TCGA). The portal also hosts data from completed programs and external studies.
+The CPTAC program is the main data generator of the hosted data. Additional datasets from other programs such as APOLLO and ICPC are anticipated in the future.

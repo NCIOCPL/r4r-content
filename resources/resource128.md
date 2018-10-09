@@ -19,7 +19,6 @@ resourceAccess:
   type: open
 docs:
   - doc: ccg
-
 poc:
   - email: David.Quigley@ucsf.edu
     name:

@@ -6,15 +6,15 @@ description: >
     
 website: https://www.nccor.org/nccor-tools/catalogue/ 
 toolTypes:
-    - toolType: datasets_databases/epidemiologic_data
+  - toolType: datasets_databases/epidemiologic_data
 researchAreas:
-    - researchArea: cancer_prevention
+  - researchArea: cancer_prevention
 researchTypes:
-    - researchType: epidemiologic
+  - researchType: epidemiologic
 resourceAccess:
     type: open
 docs:
-    - doc: dccps
+  - doc: dccps
 poc:
   - email: reedyj@mail.nih.gov
     name:

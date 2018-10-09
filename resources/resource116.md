@@ -6,17 +6,17 @@ description: >
     
 website: http://tetramer.yerkes.emory.edu/
 toolTypes:
-    - toolType: lab_tools/reagents
+  - toolType: lab_tools/reagents
 researchAreas:
-    - researchArea: cancer_biology
-    - researchArea: causes_of_cancer
-    - researchArea: cancer_survivorship
+  - researchArea: cancer_biology
+  - researchArea: causes_of_cancer
+  - researchArea: cancer_survivorship
 researchTypes:
-    - researchType: basic
+  - researchType: basic
 resourceAccess:
     type: register
 docs:
-    - doc: dcb
+  - doc: dcb
 poc:
   - email: mccarths@mail.nih.gov
     name:

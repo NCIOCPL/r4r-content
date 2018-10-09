@@ -6,15 +6,15 @@ description: >
     
 website: https://epi.grants.cancer.gov/asa24/
 toolTypes:
-    - toolType: community_research_tools/questionnaire
+  - toolType: community_research_tools/questionnaire
 researchAreas:
-    - researchArea: cancer_prevention
+  - researchArea: cancer_prevention
 researchTypes:
-    - researchType: epidemiologic
+  - researchType: epidemiologic
 resourceAccess:
     type: register
 docs:
-    - doc: dccps
+  - doc: dccps
 poc:
   - email: subara@mail.nih.gov
     name:
@@ -25,4 +25,4 @@ poc:
 ---
 The ASA24 system is a freely -available, web-based software tool that enables automated and self-administered 24-hour dietary recalls and food records (food diaries). The ASA24 system can be used by researchers for epidemiologic, intervention, behavioral, or clinical research. Clinicians may use the ASA24 system for diet assessment and nutrition counseling, and educators may find it to be a useful teaching tool.
 
-The ASA24 system consists of Respondent and Researcher websites. For the Researcher website, researchers can customize ASA24 recalls and records to collect data on dietary supplements, food sources, TV and computer use during meals, location of meals, and with whom meals were eaten. 
+The ASA24 system consists of Respondent and Researcher websites. For the Researcher website, researchers can customize ASA24 recalls and records to collect data on dietary supplements, food sources, TV and computer use during meals, location of meals, and with whom meals were eaten.

@@ -6,17 +6,17 @@ description: >
     
 website: http://www.addgene.org/crispr/qi-weissman/
 toolTypes:
-    - toolType: lab_tools/reagents
+  - toolType: lab_tools/reagents
 researchAreas:
-    - researchArea: cancer_biology
-    - researchArea: cancer_omics
+  - researchArea: cancer_biology
+  - researchArea: cancer_omics
 researchTypes:
-    - researchType: basic
-    - researchType: translational
+  - researchType: basic
+  - researchType: translational
 resourceAccess:
     type: open
 docs:
-    - doc: ccg
+  - doc: ccg
 poc:
   - email: ocg@mail.nih.gov
 ---

@@ -18,7 +18,6 @@ resourceAccess:
   type: open
 docs:
   - doc: ccg
-
 poc:
   - email: gspeyer@tgen.org
     name:

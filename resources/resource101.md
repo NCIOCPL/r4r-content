@@ -23,7 +23,7 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 poc:
   - email: Mervi.Heiskanen@nih.gov
     name:

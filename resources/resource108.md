@@ -16,6 +16,6 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 ---
 dcmqi is a free open-source library that implements conversion of data stored in commonly used research formats into the standard DICOM representation.

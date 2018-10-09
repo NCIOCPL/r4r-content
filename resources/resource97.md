@@ -2,7 +2,7 @@
 id: 97
 title: Molecular Target Data
 description: >
-  Compound sensitivity data for the NCI60 screen and similar screens run on sarcoma cell lines and small cell lung cancer cell lines, plus molecular target characterization data for the NCI60, sarcoma, and SCLC cell lines.
+  The Molecular Targets effort is a collaboration between qualified researchers and the NCI  Division of Cancer Treatment and Diagnosis (DCTD). The NCI-60 lab will provide NCI-60 cell line frozen cell pellets, DNA, or RNA for analysis in the external researchers’ labs. 
   
 website: https://wiki.nci.nih.gov/display/NCIDTPdata/Molecular+Target+Data
 toolTypes:
@@ -19,4 +19,4 @@ resourceAccess:
 docs:
   - doc: dctd
 ---
-Compound sensitivity data for the NCI60 screen and similar screens run on sarcoma cell lines and small cell lung cancer cell lines, plus molecular target characterization data for the NCI60, sarcoma, and SCLC cell lines.
+Thousands of molecular targets have been measured in the NCI-60 human tumor cell lines. Measurements include protein levels, RNA measurements, mutation status and enzyme activity levels. Data sites allow searches for a target of interest, or a list of targets. The COMPARE program allows identification of targets or compounds with patterns that correlate with a target of interest.

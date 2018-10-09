@@ -6,15 +6,15 @@ description: >
     
 website: https://www.nccor.org/nccor-tools/mruserguides/
 toolTypes:
-    - toolType: training_resources
+  - toolType: training_resources
 researchAreas:
-    - researchArea: cancer_prevention
+  - researchArea: cancer_prevention
 researchTypes:
-    - researchType: epidemiologic
+  - researchType: epidemiologic
 resourceAccess:
-    type: open
+  type: open
 docs:
-    - doc: dccps
+  - doc: dccps
 poc:
   - email: reedyj@mail.nih.gov
     name:

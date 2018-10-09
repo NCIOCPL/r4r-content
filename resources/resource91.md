@@ -15,6 +15,6 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: cbiit
+  - doc: itcr
 ---
 SampleMap is a TumorMap version built for TCGA analysis that projects samples into a GoogleMap explorer to allow overlaying omics attributes to spot patterns quickly.

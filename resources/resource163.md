@@ -20,4 +20,4 @@ resourceAccess:
 docs:
   - doc: dctd
 ---
-This tumor repository serves as a resource for viable, contaminant-free experimental tumor lines, many of which are not obtainable elsewhere
+The tumors in this repository are transplantable tumors and tumor cell lines from various species. They are categorized by species and tumor designation for hamster, guinea pig, mouse, rabbit and rat. Human tumors are grouped by tumor type. They are provided as experimental tools for the cancer research community.

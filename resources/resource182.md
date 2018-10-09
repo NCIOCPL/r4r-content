@@ -6,12 +6,12 @@ description: >
     
 website: https://dietassessmentprimer.cancer.gov/
 toolTypes:
-    - toolType: training_resources
+  - toolType: training_resources
 resourceAccess:
     type: open
 docs:
-    - doc: dccps
-    - doc: dcp
+  - doc: dccps
+  - doc: dcp
 poc:
   - email: reedyj@mail.nih.gov
     name:
