@@ -8,8 +8,8 @@ website: https://depmap.org/R2-D2/
 toolTypes:
   - toolType: analysis_tools/genomic_analysis
 researchAreas:
-    - researchArea: cancer_omics
-    - researchArea: cancer_biology 
+  - researchArea: cancer_omics
+  - researchArea: cancer_biology 
 researchTypes:
   - researchType: translational
 resourceAccess:

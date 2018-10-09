@@ -8,8 +8,8 @@ website: https://cssi-dcc.nci.nih.gov/cssiportal/
 toolTypes:
   - toolType: datasets_databases
 researchAreas:
-    - researchArea: cancer_omics
-    - researchArea: cancer_biology 
+  - researchArea: cancer_omics
+  - researchArea: cancer_biology 
 researchTypes:
   - researchType: basic
 resourceAccess:

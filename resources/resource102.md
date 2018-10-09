@@ -15,7 +15,7 @@ researchTypes:
 resourceAccess:
     type: open
 docs:
-    - doc: itcr
+  - doc: itcr
 pocs: []        
 ---
 ASARP is a software pipeline for prediction of allele-specific alternative RNA processing events using single RNA-seq data. The current version focuses on prediction of alternative splicing and alternative polyadenylation modulated by genetic variants.
