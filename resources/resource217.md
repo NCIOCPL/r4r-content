@@ -23,7 +23,7 @@ poc:
       firstname: Linda
       lastname: Nebeling
     title: Deputy Associate Director
-   phone: 240-276-6855
+    phone: 240-276-6855
   - email: april.oh@nih.gov
     name:
       prefix: Dr.
