@@ -25,4 +25,4 @@ poc:
     title: Geospatial Scientist, Statistical Research & Applications Branch, Surveillance Research Program
     phone: 240-276-6976
 ---
-Cancer researchers, cancer control planners, cancer advocacy groups, and public health officials are encouraged to use these resources in their efforts to help reduce the cancer burden in the United States. The most popular tools on this portal include NCI MapStories, NCI Cancer Atlas, Animated Historical Cancer Atlas, and NCI Tobacco Policy Viewer. 
+Cancer researchers, cancer control planners, cancer advocacy groups, and public health officials are encouraged to use these resources in their efforts to help reduce the cancer burden in the United States. The most popular tools on this portal include NCI MapStories, NCI Cancer Atlas, Animated Historical Cancer Atlas, and NCI Tobacco Policy Viewer.

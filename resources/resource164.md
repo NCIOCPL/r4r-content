@@ -17,7 +17,7 @@ researchTypes:
   - researchType: basic
 resourceAccess:
     type: register
-    notes: **Must be an United States NCI** main-member ETCTN and NCTN instituion **investigator**.
+    notes: Must be an United States NCI main-member ETCTN and NCTN instituion investigator.
 docs:
   - doc: dctd
 poc:
