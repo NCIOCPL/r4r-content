@@ -6,7 +6,7 @@ description: >
   
 website: https://grants.nih.gov/policy/clinical-trials/reporting/index.htm
 toolTypes:
-  - toolType: cclinical_research_tools/guidelines_protocols
+  - toolType: clinical_research_tools/guidelines_protocols
 researchTypes:
   - researchType: clinical
 docs:

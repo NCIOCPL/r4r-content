@@ -6,7 +6,7 @@ description: >
   
 website: https://class.cancer.gov/
 toolTypes:
-  - toolType: datasets_database
+  - toolType: datasets_databases
   - toolType: community_research_tools
   - toolType: analysis_tools/data_visualization  
 researchAreas:

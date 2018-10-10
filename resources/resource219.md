@@ -6,7 +6,7 @@ description: >
   
 website: https://hints.cancer.gov/
 toolTypes:
-  - toolType: datasets_database/epidemiologic_data
+  - toolType: datasets_databases/epidemiologic_data
 researchAreas:
   - researchArea: cancer_health_disparities
   - researchArea: cancer_public_health
