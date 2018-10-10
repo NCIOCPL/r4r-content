@@ -7,6 +7,7 @@ description: >
 website: https://nciterms.nci.nih.gov/ncitbrowser/pages/multiple_search.jsf?nav_type=terminologies
 toolTypes:
   - toolType: terminology
+resourceAccess:
   type: open
 ---
 The NCI Term Browser provides access to ICD-9-CM, ICD-10-CM, the Common Terminology Criteria for Adverse Events (CTCAE), the Medical Dictionary for Regulatory Activities (MedDRA), the Systematized Nomenclature of Medicine Clinical Terms (SNOMED-CT), the National Drug File Reference Terminology (NDF-RT), the Gene Ontology (GO), and many other terminologies and ontologies used by NCI and its partners.
