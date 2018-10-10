@@ -1,9 +1,9 @@
 ---
 id: 145
-title: Head*Bang PC Software
+title: Head\*Bang PC Software
 description: >
-  Head*Bang PC is nNon-parametric smoothing software for the analysis of spatial (geographic) patterns of cancer. 
-  
+  Head\*Bang PC is nNon-parametric smoothing software for the analysis of spatial (geographic) patterns of cancer.
+
 website: https://surveillance.cancer.gov/headbang/
 toolTypes:
   - toolType: analysis_tools/statistical_software
