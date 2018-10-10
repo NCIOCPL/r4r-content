@@ -13,7 +13,7 @@ researchTypes:
   - researchType: epidemiologic
   - researchType: basic
 resourceAccess:
-    type: open
+  type: open
 docs:
   - doc: dccps
 ---

@@ -15,7 +15,7 @@ researchTypes:
   - researchType: translational
   - researchType: clinical_trials
 resourceAccess:
-    type: open
+  type: open
 docs:
   - doc: itcr      
 ---

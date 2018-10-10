@@ -17,7 +17,7 @@ researchTypes:
   - researchType: basic
   - researchType: clinical
 resourceAccess:
-    type: register
+  type: register
 docs:
   - doc: dcb
 poc:

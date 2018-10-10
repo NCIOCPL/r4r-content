@@ -14,7 +14,7 @@ researchAreas:
 researchTypes:
   - researchType: basic
 resourceAccess:
-    type: open
+  type: open
 docs:
   - doc: dctd
 pocs: []

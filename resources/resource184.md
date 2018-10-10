@@ -12,7 +12,7 @@ researchAreas:
 researchTypes:
   - researchType: epidemiologic
 resourceAccess:
-    type: register
+  type: register
 docs:
   - doc: dccps
 poc:

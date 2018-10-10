@@ -13,7 +13,7 @@ researchAreas:
 researchTypes:
   - researchType : basic
 resourceAccess:
-    type: open
+  type: open
 docs:
   - doc: itcr
 ---

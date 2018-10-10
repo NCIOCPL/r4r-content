@@ -13,7 +13,7 @@ researchAreas:
 researchTypes:
   - researchType: clinical_trials
 resourceAccess:
-    type: open
+  type: open
 docs:
   - doc: dctd
 pocs: []

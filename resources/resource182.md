@@ -8,7 +8,7 @@ website: https://dietassessmentprimer.cancer.gov/
 toolTypes:
   - toolType: training_resources
 resourceAccess:
-    type: open
+  type: open
 docs:
   - doc: dccps
   - doc: dcp

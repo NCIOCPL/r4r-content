@@ -16,7 +16,7 @@ researchTypes:
   - researchType: epidemiologic
   - researchType: translational
 resourceAccess:
-    type: open
+  type: open
 docs:
   - doc: dccps
 poc:

@@ -14,7 +14,7 @@ researchAreas:
 researchTypes:
   - researchType : translational
 resourceAccess:
-    type: open
+  type: open
 docs:
   - doc: itcr
 ---

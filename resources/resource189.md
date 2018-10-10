@@ -14,7 +14,7 @@ researchAreas:
 researchTypes:
   - researchType: epidemiologic
 resourceAccess:
-    type: open
+  type: open
 docs:
   - doc: dccps
 poc:

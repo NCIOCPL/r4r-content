@@ -15,7 +15,7 @@ researchTypes:
   - researchType: basic
   - researchType: clinical_trials
 resourceAccess:
-    type: register
+  type: register
 docs:
   - doc: dctd
 ---

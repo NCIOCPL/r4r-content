@@ -16,7 +16,7 @@ researchTypes:
   - researchType: clinical
   - researchType: translational
 resourceAccess:
-    type: register
+  type: register
 docs:
   - doc: dcb
 poc:
