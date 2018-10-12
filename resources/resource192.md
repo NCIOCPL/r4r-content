@@ -15,6 +15,8 @@ researchAreas:
 researchTypes:
   - researchType: basic
   - researchType: translational
+resourceAccess:
+  type: open
 poc:
   - name:
       prefix: Dr.
