@@ -7,6 +7,8 @@ description: >
 website: https://ctep.cancer.gov/protocolDevelopment/
 toolTypes:
   - toolType: clinical_research_tools/guidelines_protocols
+resourceAccess:
+  type: open
 docs:
   - doc: dctd
 ---
