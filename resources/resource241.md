@@ -1,6 +1,6 @@
 ---
 id: 241
-title: Collaboration and Team Science&#58; A Field Guide
+title: Collaboration and Team Science\: A Field Guide
 description: >
   *Collaboration and Team Science: A Field Guide* is a free resource that provides practical tools and information to help your research teams collaborate most effectively. For nearly a decade, the *Field Guide* has served as a valuable resource for scientists leading, building, learning about, and participating in a research team.
 
