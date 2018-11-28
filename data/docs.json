@@ -11,5 +11,6 @@
     { "label": "Office of Extramural Research (OER)", "value": "oer" },
     { "label": "Office of Communications & Public Liaison (OCPL)", "value": "ocpl" },
     { "label": "Office of Cancer Genomics (OCG)", "value": "ocg" },
-    { "label": "Informatics Technology for Cancer Research (ITCR)", "value": "itcr" }
+    { "label": "Informatics Technology for Cancer Research (ITCR)", "value": "itcr" },
+    { "label": "Center for Research Strategy (CCR)", "value": "ccr" }
 ]
