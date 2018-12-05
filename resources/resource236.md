@@ -4,7 +4,7 @@ title: National Council for Prescription Drug Programs (NCPDP) Terminology
 description: >
   NCPDP creates and promotes the transfer of data related to medications, supplies, and services within the health care system through the development of standards and industry guidance. The terminology files provide support the NCPDP SCRIPT Standard and the NCPDP Telecommunication Standard.
   
-website: https://evs.nci.nih.gov/ftp1/NCPDP/About.html
+website: https://www.cancer.gov/research/resources/terminology/ncpdp
 toolTypes:
   - toolType: terminology
 resourceAccess:

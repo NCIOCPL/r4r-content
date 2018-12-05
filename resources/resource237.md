@@ -4,7 +4,7 @@ title: Pediatric Terminology
 description: >
   The National Institute of Child Health and Human Development (NICHD) works with the NCI Enterprise Vocabulary Services (EVS) and numerous contributors from national and international academic, clinical, and research institutions to provide standardized terminology for coding pediatric clinical trials and other research activities.
   
-website: https://evs.nci.nih.gov/ftp1/NICHD/About.html
+website: https://www.cancer.gov/research/resources/terminology/pediatric
 toolTypes:
   - toolType: terminology
 resourceAccess:

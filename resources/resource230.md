@@ -4,7 +4,7 @@ title: Clinical Data Interchange Standards Consortium (CDISC) Terminology
 description: >
    The NCI Enterprise Vocabulary Services (EVS) partners with CDISC to develop and support controlled terminology for all CDISC foundational standards, including Study Data Tabulation Model (SDTM), Clinical Data Acquisition Standards Harmonization (CDASH), Analysis Data Model (ADaM), and Standard for the Exchange of Nonclinical Data (SEND).
   
-website: https://evs.nci.nih.gov/ftp1/CDISC/
+website: https://www.cancer.gov/research/resources/terminology/cdisc
 toolTypes:
   - toolType: terminology
 resourceAccess:

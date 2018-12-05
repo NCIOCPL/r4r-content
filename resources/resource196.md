@@ -3,7 +3,7 @@ id: 196
 title: FDA Terminology
 description: >
   More than 10,000 FDA terms and codes are stored in NCI Thesaurus (NCIt). This and other terminology used by FDA is updated and made available for download from an NCI File Transfer Protocol (FTP) site.  
-website: https://evs.nci.nih.gov/ftp1/FDA/
+website: https://www.cancer.gov/research/resources/terminology/fda
 toolTypes:
   - toolType: terminology
 resourceAccess:
