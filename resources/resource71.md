@@ -19,4 +19,4 @@ resourceAccess:
 docs:
   - doc: dctd
 ---
-This NCI-sponsered facility supplies useful biological reagents to researchers. The catalog of cytokines, monoclonal antibodies, and other biological tools are kept under carefully controlled conditions. The repository provides a constant and uniform supply of high-quality reagents to nonprofit institutions and qualified commercial establishments at no charge. Product specification sheets are provided with the reagents.
+This NCI-sponsored facility supplies useful biological reagents to researchers. The catalog of cytokines, monoclonal antibodies, and other biological tools are kept under carefully controlled conditions. The repository provides a constant and uniform supply of high-quality reagents to nonprofit institutions and qualified commercial establishments at no charge. Product specification sheets are provided with the reagents.
