@@ -11,6 +11,6 @@ resourceAccess:
 docs:
   - doc: ocpl
 ---
-The Dictionary of Caner terms includes about 8,000 cancer and biomedical terms, defined in non-technical language. Terms and definitions are reviewed by a multidisciplinary panel of reviewers, and approximately 50 new and 50 revised terms are included each month.
+The Dictionary of Cancer terms includes about 8,000 cancer and biomedical terms, defined in non-technical language. Terms and definitions are reviewed by a multidisciplinary panel of reviewers, and approximately 50 new and 50 revised terms are included each month.
 
-The dictionary is available as a stand-alone resource on every Cancer.gov webpage, and individual terms in many web documents are also directly linked to their dictionary definitions. The dictionary is also widely used by other institutions and websites
+The dictionary is available as a stand-alone resource on every Cancer.gov webpage, and individual terms in many web documents are also directly linked to their dictionary definitions. The dictionary is also widely used by other institutions and websites.
