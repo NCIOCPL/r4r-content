@@ -4,7 +4,7 @@ title: Genomic Data Commons (GDC)
 description: >
   The GDC is a data sharing platform that provides access to harmonized genomic and de-identified clinical data from various large-scale cancer studies, along with web-based tools for data analysis and visualization.
   
-website: gdc.cancer.gov
+website: https://gdc.cancer.gov/
 toolTypes:
   - toolType: datasets_databases/clinical_data
   - toolType: datasets_databases/genomic_datasets

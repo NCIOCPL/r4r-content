@@ -4,7 +4,7 @@ title: Quantitative Imaging In Pathology (QUIP)
 description: >
     This site hosts web-accessible applications, tools, and data designed to support analysis, management, and exploration of whole slide tissue images for cancer research.
 
-website: http://quip.bmi.stonybrook.edu
+website: https://sbu-bmi.github.io/quip_distro/
 toolTypes:
   - toolType: datasets_databases/imaging
   - toolType: analysis_tools/imaging_analysis
