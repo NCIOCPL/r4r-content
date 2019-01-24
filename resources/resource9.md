@@ -4,7 +4,7 @@ title: CLAMP-Cancer
 description: >
   CLAMP-Cancer is a tool that can be used to quickly build customized natural language processing pipelines for extracting cancer information from pathology reports through a user-friendly interface with minimum programming knowledge.
 
-website: http://clamp.uth.edu/cancer.php
+website: https://clamp.uth.edu/
 toolTypes:
   - toolType: datasets_databases/clinical_data
   - toolType: analysis_tools/natural_language_processing
