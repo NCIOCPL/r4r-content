@@ -1,6 +1,6 @@
 ---
 id: 25
-title: cBioPortal for Cancer Genonics
+title: cBioPortal for Cancer Genomics
 description: >
     The cBioPortal for cancer genomics provides visualization, analysis and download of large-scale cancer genomics datasets.
 
