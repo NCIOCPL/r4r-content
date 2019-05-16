@@ -3,7 +3,7 @@ id: 192
 title: rDriver
 description: >
   rDriver is a modeling application that identifies mutations with high functional impact scores that are associated with systemic variation in gene expression.
-  
+
 website: http://bioinformatics.mdanderson.org/main/RDriver
 toolTypes:
   - toolType: analysis_tools/genomic_analysis
@@ -17,6 +17,8 @@ researchTypes:
   - researchType: translational
 resourceAccess:
   type: open
+docs:
+  - doc: ccg
 poc:
   - name:
       prefix: Dr.

@@ -2,8 +2,8 @@
 id: 223
 title: DepMap
 description: >
-  DepMap is a comprehensive preclinical reference portal that connects tumor features with genetic and small molecule dependencies. This portal could be used to understand the vulnerabilities of cancer, identify genetic targets for therapeutic development, and stratify patients. 
-  
+  DepMap is a comprehensive preclinical reference portal that connects tumor features with genetic and small molecule dependencies. This portal could be used to understand the vulnerabilities of cancer, identify genetic targets for therapeutic development, and stratify patients.
+
 website: https://depmap.org/portal/depmap/
 toolTypes:
   - toolType: analysis_tools/genomic_analysis
@@ -16,7 +16,7 @@ researchTypes:
 resourceAccess:
   type: open
 docs:
-  - doc: ocg
+  - doc: ccg
 poc:
   - email: depmap@broadinstitute.org
 ---
