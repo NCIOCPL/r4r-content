@@ -1,6 +1,6 @@
 ---
 id: 31
-title: Patient-Derived Xenograpt (PDX) Finder
+title: Patient-Derived Xenograft (PDX) Finder
 description: >
     PDX Finder, currently in the prototyping phase, is a tool for integrating , archiving, and dessiminating information about PDX models and their associated data.
 
