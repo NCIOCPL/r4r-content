@@ -1,30 +1,33 @@
 ---
 id: 191
-title: The NCI Transcriptional Pharmacodynamics Workbench
+title: NCI Transcriptional Pharmacodynamics Workbench (NCI TPW)
 description: >
-  The NCI Transcriptional Pharmacodynamics Workbench includes online analysis and visualization tools for the NCI-60 cell lines and the enormous time-course databases on genome-wide responses to treatment with drugs.
-  
+  This resource provides drug-sensitivity and gene-expression data for NCI-60 cell lines exposed to 15 clinically relevant anticancer agents, as well as computational and visualization tools to analyze and explore these datasets.
+
+website: https://tpwb.nci.nih.gov
 toolTypes:
   - toolType: analysis_tools/genomic_analysis
   - toolType: analysis_tools/data_visualization
   - toolType: datasets_databases/genomic_datasets
+  - toolType: datasets_databases/biological_networks
 researchAreas:
   - researchArea: cancer_omics
   - researchArea: bioinformatics
+  - researchArea: cancer_biology
+  - researchArea: cancer_treatment
 researchTypes:
   - researchType: basic
   - researchType: translational
 resourceAccess:
-  type: open
+  type: register
 docs:
   - doc: dctd
 poc:
-  - email: zhaoy@mail.nih.gov
+  - email: ncitpwsupport@mail.nih.gov
     name:
       prefix: Dr.
-      firstname: Yingdong
-      lastname: Zhao
-    title: Computational Biology
-    phone: 240-276-6025
+      firstname: Alida
+      lastname: Palmisano
+    title: Research Fellow, Computational and Systems Biology Branch
 ---
-This website employs advanced computational and visualization tools to empower developmental therapeutics investigators worldwide by providing them access to the genome-wide characterization of the NCI-60 cell lines and the enormous time-course databases on genome-wide responses to treatment with drugs.
+The NCI TPW integrates cell-line sensitivity data for 15 clinically relevant anticancer agents with both basal transcript levels and agent-induced transcriptional changes for 12,704 genes at three time points across the NCI-60 panel. The NCI TPW further relates this information to exon mutation, protein expression, and multidrug resistance data and enables query of these data in the context of cellular pathways and receptors. This website has been developed using advanced computational and visualization tools for empowering developmental-therapeutics investigators worldwide and providing them access to the genome-wide characterization of the NCI-60 cell lines and the enormous time–course databases on genome-wide response to treatment with drugs.
