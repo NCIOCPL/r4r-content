@@ -12,7 +12,7 @@ researchAreas:
 researchTypes:
   - researchType: basic
 resourceAccess:
-  type: open
+  type: cost
   notes: Clones are available through Addgene. The kit of 61 clones is catalog number 1000000089.
 poc:
   - email: dom.esposito@nih.gov

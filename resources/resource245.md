@@ -13,7 +13,7 @@ researchAreas:
 researchTypes:
   - researchType: basic
 resourceAccess:
-  type: register
+  type: cost
 poc:
   - email: dom.esposito@nih.gov
     name:

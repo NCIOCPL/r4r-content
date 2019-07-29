@@ -12,7 +12,7 @@ researchAreas:
 researchTypes:
   - researchType: basic
 resourceAccess:
-  type: registration
+  type: register
   notes: Academic requests require a Material Transfer Agreement.  Commercial requests require a license.
 poc:
   - email: burganwe@mail.nih.gov
