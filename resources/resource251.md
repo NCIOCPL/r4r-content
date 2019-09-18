@@ -17,7 +17,7 @@ researchTypes:
   - researchType: translational
 resourceAccess:
   type: open
-  notes: To contribute data to the PGDI, researchers need to create a secure submitter account through the [PGDI Contributor Application](https://ocg.cancer.gov/programs/target/pgdi/contributor-application).
+  notes: To contribute data to the PGDI, researchers need to create a secure submitter account through the PGDI Contributor Application at https://ocg.cancer.gov/programs/target/pgdi/contributor-application.
 docs:
   - doc: ocg
   - doc: ccg
