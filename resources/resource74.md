@@ -10,6 +10,7 @@ toolTypes:
 researchAreas:
   - researchArea: cancer_treatment
   - researchArea: cancer_biology
+  - researchArea: cancer_health_disparities
 researchTypes:
   - researchType: basic
 resourceAccess:

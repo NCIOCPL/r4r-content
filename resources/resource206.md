@@ -2,12 +2,13 @@
 id: 206
 title: AccrualNet
 description: >
-  AccrualNet provides a growing, searchable database of hundreds of journal articles with easy-to-read summaries, helpful tools, sample materials, and training resources.  
-  
+  AccrualNet provides a growing, searchable database of hundreds of journal articles with easy-to-read summaries, helpful tools, sample materials, and training resources.
+
 website: https://accrualnet.cancer.gov/
 toolTypes:
   - toolType: networks_consortiums
-  - toolType: training_resources    
+  - toolType: training_resources
+  - researchArea: cancer_health_disparities
 resourceAccess:
   type: register
 poc:

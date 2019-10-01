@@ -9,6 +9,7 @@ toolTypes:
   - toolType: lab_tools/protocols
 researchAreas:
   - researchArea: cancer_biology
+  - researchArea: cancer_health_disparities
 researchTypes:
   - researchType: clinical_trials
   - researchType: basic

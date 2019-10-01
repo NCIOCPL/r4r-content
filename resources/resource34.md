@@ -2,13 +2,14 @@
 id: 34
 title: NCI Best Practices for Biospecimen Resources Handbook, 2016
 description: >
-  This publication outlines the operational, technical, ethical, legal, and policy best practices for NCI-supported biospecimen resources. 
-  
+  This publication outlines the operational, technical, ethical, legal, and policy best practices for NCI-supported biospecimen resources.
+
 website: https://biospecimens.cancer.gov/bestpractices/2016-NCIBestPractices.pdf
 toolTypes:
   - toolType: lab_tools/protocols
 researchAreas:
   - researchArea: cancer_biology
+  - researchArea: cancer_health_disparities
 researchTypes:
   - researchType: clinical_trials
   - researchType: basic
