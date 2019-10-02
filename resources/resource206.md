@@ -8,6 +8,7 @@ website: https://accrualnet.cancer.gov/
 toolTypes:
   - toolType: networks_consortiums
   - toolType: training_resources
+researchAreas:
   - researchArea: cancer_health_disparities
 resourceAccess:
   type: register
