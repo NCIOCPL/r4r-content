@@ -2,8 +2,8 @@
 id: 230
 title: Clinical Data Interchange Standards Consortium (CDISC) Terminology
 description: >
-   The NCI Enterprise Vocabulary Services (EVS) partners with CDISC to develop and support controlled terminology for all CDISC foundational standards, including Study Data Tabulation Model (SDTM), Clinical Data Acquisition Standards Harmonization (CDASH), Analysis Data Model (ADaM), and Standard for the Exchange of Nonclinical Data (SEND).
-  
+   The NCI Enterprise Vocabulary Services (EVS) partners with CDISC to develop and support controlled terminology for all CDISC foundational standards, including Study Data Tabulation Model (SDTM), Clinical Data Acquisition Standards Harmonization (CDASH), Analysis Data Model (ADaM), Define-XML Terminology, Standard for the Exchange of Nonclinical Data (SEND), CDISC Protocol Terminology, and CDISC Glossary.
+
 website: https://www.cancer.gov/research/resources/terminology/cdisc
 toolTypes:
   - toolType: terminology
@@ -19,6 +19,8 @@ NCI EVS partners with CDISC to develop and support controlled terminology for al
 **CDASH** - CDISC leads the CDASH project, which develops clinical research study content standards in collaboration with 16 partner organizations, including NCI. CDASH terminology is a subset of SDTM terminology.
 
 **ADaM** - CDISC leads the ADaM project, which supports efficient generation, replication, review, and submission of analysis results from clinical trial data.
+
+**Define-XML** - CDISC leads the Define-XML terminology project, which defines the enumeration values found within the CDISC Define-XML data exchange standard. NCI EVS maintains and distributes Define-XML controlled terminology as part of NCI Thesaurus. More information is available at CDISC's Define-XML webpage.
 
 **SEND** - CDISC leads the SEND project, which guides the organization, structure, and format of standard nonclinical tabulation datasets for interchange between organizations such as sponsors and CROs and for submission to a regulatory authority such as FDA. NCI EVS maintains and distributes SEND controlled terminology as part of NCI Thesaurus. More information is available at CDISC's SEND webpage.
 
