@@ -2,8 +2,8 @@
 id: 183
 title: Automated Self-Administered 24-Hour (ASA24) Dietary Assessment Tool
 description: >
-  ASA24 is a free web-based tool for epidemiologic, interventional, behavioral, or clinical research that enables multiple automatically coded self-administered 24-hour recalls and food records. 
-    
+  ASA24 is a free web-based tool for epidemiologic, interventional, behavioral, or clinical research that enables multiple automatically coded self-administered 24-hour recalls and food records.
+
 website: https://epi.grants.cancer.gov/asa24/
 toolTypes:
   - toolType: community_research_tools/questionnaire
@@ -16,12 +16,12 @@ resourceAccess:
 docs:
   - doc: dccps
 poc:
-  - email: subara@mail.nih.gov
+  - email: herrickka@mail.nih.gov
     name:
-      firstname: Amy
-      lastname: Subar
-    phone: 240-276-6695
-    title: Acting Branch Chief, Risk Factor Assessment Branch
+      firstname: Kirsten
+      lastname: Herrick
+    phone: 240-276-5734
+    title: Program Director, Risk Factor Assessment Branch
 ---
 The ASA24 system is a freely -available, web-based software tool that enables automated and self-administered 24-hour dietary recalls and food records (food diaries). The ASA24 system can be used by researchers for epidemiologic, intervention, behavioral, or clinical research. Clinicians may use the ASA24 system for diet assessment and nutrition counseling, and educators may find it to be a useful teaching tool.
 

@@ -2,8 +2,8 @@
 id: 190
 title: Measures Registry User Guides
 description: >
-  The User Guides provides an overview of measurement and principles of measurement selection, and present case studies using the Measures Registry to select measures for childhood obesity. 
-    
+  The User Guides provides an overview of measurement and principles of measurement selection, and present case studies using the Measures Registry to select measures for childhood obesity.
+
 website: https://www.nccor.org/nccor-tools/mruserguides/
 toolTypes:
   - toolType: training_resources
@@ -21,7 +21,7 @@ poc:
       firstname: Jill
       lastname: Reedy
     phone: 240-276-6812
-    title: Program Director, Risk Factor Assessment Branch
+    title: Branch Chief, Risk Factor Assessment Branch
   - email: berrigad@mail.nih.gov
     name:
       firstname: David

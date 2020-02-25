@@ -2,8 +2,8 @@
 id: 189
 title: Measures Registry
 description: >
-  The Measures Registry is a searchable database of diet and physical activity measures relevant to childhood obesity research. 
-    
+  The Measures Registry is a searchable database of diet and physical activity measures relevant to childhood obesity research.
+
 website: https://www.nccor.org/nccor-tools/measures/
 toolTypes:
   - toolType: community_research_tools/questionnaire
@@ -23,7 +23,7 @@ poc:
       firstname: Jill
       lastname: Reedy
     phone: 240-276-6812
-    title: Program Director, Risk Factor Assessment Branch
+    title: Branch Chief, Risk Factor Assessment Branch
   - email: berrigad@mail.nih.gov
     name:
       firstname: David
