@@ -4,7 +4,7 @@ title: Human Cancer Models Initiative (HCMI) Searchable Catalog
 description: >
   A searchable catalog of next-generation cancer models and associated clinical and molecular data.
 
-website: hcmi-searchable-catalog.nci.nih.gov/
+website: https://hcmi-searchable-catalog.nci.nih.gov/
 toolTypes:
   - toolType: datasets_databases/clinical_data
   - toolType: datasets_databases/genomic_datasets
