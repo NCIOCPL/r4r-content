@@ -2,8 +2,8 @@
 id: 196
 title: FDA Terminology
 description: >
-  More than 10,000 FDA terms and codes are stored in NCI Thesaurus (NCIt). This and other terminology used by FDA is updated and made available for download from an NCI File Transfer Protocol (FTP) site.  
-website: https://www.cancer.gov/research/resources/terminology/fda
+  More than 10,000 FDA terms and codes are stored in NCI Thesaurus (NCIt). This and other terminology used by FDA is updated and made available for download from an NCI File Transfer Protocol (FTP) site.
+website: https://datascience.cancer.gov/resources/cancer-vocabulary/fda-terminology
 toolTypes:
   - toolType: terminology
 resourceAccess:
@@ -11,9 +11,9 @@ resourceAccess:
 ---
 FDA terms and codes and other terminology used by FDA are updated and made available for download from an NCI FTP site. FDA terminology subsets are available in each of these four main areas in Excel and text formats:
 
-1. Structured Product Labeling (SPL) is a document markup standard approved by Health Level Seven (HL7). The SPL standard specifies use of some 42 sets of controlled terminology. 
+1. Structured Product Labeling (SPL) is a document markup standard approved by Health Level Seven (HL7). The SPL standard specifies use of some 42 sets of controlled terminology.
 
-2. Unique Ingredient Identifier (UNII) codes are being developed by FDA to uniquely identify all ingredients used in marketed medications in the United States, as well as substances in biologics, foods, and devices. Each UNII is assigned based on molecular structure or other immutable characteristics. FDA provides a full set of published UNII codes and a search page on a website now hosted by the National Library of Medicine (NLM) and updated approximately monthly. 
+2. Unique Ingredient Identifier (UNII) codes are being developed by FDA to uniquely identify all ingredients used in marketed medications in the United States, as well as substances in biologics, foods, and devices. Each UNII is assigned based on molecular structure or other immutable characteristics. FDA provides a full set of published UNII codes and a search page on a website now hosted by the National Library of Medicine (NLM) and updated approximately monthly.
 
 3. Individual Case Safety Report (ICSR) terminology is used to encode adverse event information for reporting purposes. Fourteen ICSR term sets are maintained.
 
