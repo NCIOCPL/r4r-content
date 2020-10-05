@@ -4,7 +4,7 @@ title: NCI Method for Assessing Usual Dietary Intakes
 description: >
   Researchers at NCI and elsewhere developed a method to estimate usual dietary intakes of foods and nutrients using 24-hour recalls.
 
-website: https://epi.grants.cancer.gov/hei/
+website: https://epi.grants.cancer.gov/diet/usualintakes/
 toolTypes:
   - toolType: analysis_tools/modeling
 researchAreas:
