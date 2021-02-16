@@ -1,6 +1,6 @@
 ---
 id: 258
-title: ACT24 - Physical Activities Completed over Time in 24 Hoursate
+title: ACT24 - Physical Activities Completed over Time in 24 Hours
 description: >
   Activities Completed over Time in 24-hours (ACT24) is a free web-based recall instrument for epidemiologic, interventional, behavioral, or clinical research. ACT24 estimates daily summary values for physical activity and sedentary behavior, including energy expenditure, time spent sitting and in different types and intensities of physical activity based on previous-day reporting from participant.
 
