@@ -34,10 +34,15 @@ poc:
 The NCTN Biobanks receive, store, and distribute biospecimens for the five NCTN Groups as well as the Canadian Cancer Trials Group (CCTG):
 
 [Alliance for Clinical Trials in Oncology (Alliance)](https://www.allianceforclinicaltrialsinoncology.org/main/)
+
 [Children’s Oncology Group (COG)](https://childrensoncologygroup.org/)
+
 [ECOG-ACRIN](https://ecog-acrin.org/)
+
 [NRG Oncology](https://www.nrgoncology.org/)
+
 [SWOG](https://www.swog.org/)
+
 [Canadian Cancer Trials Group (CCTG)](https://www.ctg.queensu.ca/)
 
 Collectively, the NCTN Biobanks house solid tumor biospecimens from all organ types, as well as hematological malignancies.
@@ -55,6 +60,7 @@ NCTN biospecimens are available to investigators from the cancer research commun
 
 Biospecimens from completed NCTN clinical trials can be requested either via [NCTN Navigator](https://navigator.ctsu.org/navigator/login) or the NCTN Group’s Biospecimen Access process. In both instances, investigators will be provided with a feasibility assessment and cost estimate upon review of the request.
 
+
 **Biospecimens Available through NCTN Navigator**
 
 NCTN Navigator is limited to biospecimens collected from NCTN trials that were:
@@ -66,6 +72,7 @@ NCTN Navigator is limited to biospecimens collected from NCTN trials that were:
 Information about the [NCTN Navigator](https://navigator.ctsu.org/navigator/login) process is available on the NCTN Navigator website. Detailed instructions and important information about the request process are provided in the [NCTN Navigator FAQs](https://www.ctsu.org/navigator/resources/documents/NCTN_Navigator_FAQ.pdf).
 
 Information about the scientific review process for proposals submitted through [NCTN Navigator is available on the NCTN Core Correlative Sciences Committee (NCTN-CCSC)](https://ctep.cancer.gov/initiativesPrograms/nctn_ccsc_overview.htm) website.
+
 
 **Biospecimens Available through NCTN Groups**
 
