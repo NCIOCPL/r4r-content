@@ -30,8 +30,7 @@ poc:
     name:
       firstname: Sharon
       lastname: Savage
-    title: DCEG Clinical Director
-    title: Chief and Senior Investigator in the Clinical Genetics Branch
+    title: DCEG Clinical Director, Chief and Senior Investigator in the Clinical Genetics Branch
     phone: 240-276-7241
   - email: kelvin.deandrade@nih.gov
     name:
