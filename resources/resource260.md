@@ -35,7 +35,7 @@ poc:
   - email: kelvin.deandrade@nih.gov
     name:
       firstname: Kelvin Cesar
-      lastname: de Anrade
+      lastname: de Andrade
     title: Research Fellow
     phone: 240-276-5110
 ---
