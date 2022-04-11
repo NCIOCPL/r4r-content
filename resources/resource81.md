@@ -11,6 +11,7 @@ researchAreas:
   - researchArea: cancer_health_disparities
   - researchArea: cancer_survivorship
   - researchArea: cancer_statistics
+  - researchArea: cancer_public_health
 researchTypes:
   - researchType: epidemiologic
 resourceAccess:

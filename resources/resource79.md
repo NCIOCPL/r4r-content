@@ -1,9 +1,9 @@
 ---
 id: 79
-title: Surveillance, Epidemiology, and End Results (SEER) Cancer Statistics Review (CSR), 1975-2014
+title: Surveillance, Epidemiology, and End Results (SEER) Cancer Statistics Review (CSR)
 description: >
  CSR is a report of the most recent cancer incidence, mortality, survival, prevalence, and lifetime risk statistics.
-website: https://seer.cancer.gov/csr/1975_2014/
+website: https://seer.cancer.gov/csr
 toolTypes:
   - toolType: analysis_tools/statistical_software
 researchAreas:
