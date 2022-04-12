@@ -10,7 +10,7 @@ toolTypes:
 resourceAccess:
   type: open
 ---
-The NCPDP creates and promotes the transfer of data related to medications, supplies, and services within the health care system through the development of standards and industry guidance. The terminology files provide support for two of those standards:
+Managed by NCI Enterprise Vocabulary Services (EVS), the NCPDP creates and promotes the transfer of data related to medications, supplies, and services within the health care system through the development of standards and industry guidance. The terminology files provide support for two of those standards:
 
 The NCPDP SCRIPT Standard supports messages regarding new prescriptions, prescription changes, refill requests, prescription fill status notification, prescription cancellation, medication history, and transactions for long-term care environments.
 

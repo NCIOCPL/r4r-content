@@ -12,7 +12,7 @@ resourceAccess:
 docs:
   - doc: dctd
 ---
-NCI EVS partners with CDISC to develop and support controlled terminology for all CDISC foundational standards:
+Managed by NCI Enterprise Vocabulary Services (EVS), CDISC to develop and support controlled terminology for all CDISC foundational standards:
 
 **SDTM** - SDTM is an international standard for clinical research data and is approved by the Food and Drug Administration (FDA) as a standard electronic submission format. CDISC Questionnaires, Ratings, and Scales terminology is included in the SDTM terminology publication.
 

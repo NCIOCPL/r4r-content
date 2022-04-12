@@ -9,7 +9,7 @@ toolTypes:
 resourceAccess:
   type: open
 ---
-FDA terms and codes and other terminology used by FDA are updated and made available for download from an NCI FTP site. FDA terminology subsets are available in each of these four main areas in Excel and text formats:
+Managed by NCI Enterprise Vocabulary Services (EVS), FDA terms and codes and other terminology used by FDA are updated and made available for download from an NCI FTP site. FDA terminology subsets are available in each of these four main areas in Excel and text formats:
 
 1. Structured Product Labeling (SPL) is a document markup standard approved by Health Level Seven (HL7). The SPL standard specifies use of some 42 sets of controlled terminology.
 

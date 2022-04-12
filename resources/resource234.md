@@ -10,4 +10,4 @@ toolTypes:
 resourceAccess:
   type: open
 ---
-NCI Metathesaurus contains most terminologies used by NCI for clinical care, translational and basic research, and public information and administrative activities, including most public domain terminologies from the National Library of Medicine's Unified Medical Language System (UMLS) Metathesaurus as well as a growing number of other cancer-related and biomedical terminologies.
+Managed by NCI Enterprise Vocabulary Services (EVS), NCI Metathesaurus contains most terminologies used by NCI for clinical care, translational and basic research, and public information and administrative activities, including most public domain terminologies from the National Library of Medicine's Unified Medical Language System (UMLS) Metathesaurus as well as a growing number of other cancer-related and biomedical terminologies.
