@@ -7,6 +7,8 @@ description: >
 website: https://specimens.cancer.gov/
 toolTypes:
   - toolType: datasets_databases
+  - toolType: lab_tools
+  - toolType: lab_tools/biospecimen
 researchAreas:
   - researchArea: cancer_treatment
   - researchArea: screening_detection
