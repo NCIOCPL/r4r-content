@@ -3,7 +3,7 @@ id: 276
 title: Data Science Training Hub
 description: >
   The data science training hub offers online educational courses to improve data science skills, a library of guides and videos, and information on cancer data science initiatives at NCI. 
-website: datascience.cancer.gov/training
+website: https://datascience.cancer.gov/training
 toolTypes:
   - toolType: training_resources
 researchAreas:
