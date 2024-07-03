@@ -4,7 +4,7 @@ title: The Cancer Patient Tobacco Use Questionnaire (C-TUQ)
 description: >
   C-TUQ is a self-administered questionnaire for cancer patients and survivors. Domains include cigarette smoking history and current use, use relative to cancer diagnosis and treatment, other tobacco product use, cessation, and secondhand exposure.
   
-website: http://cancercontrol.cancer.gov/cancerandtobaccouse
+website: https://cancercontrol.cancer.gov/brp/tcrb/cancer-patient-tobacco-use
 toolTypes:
   - toolType: community_research_tools/questionnaire
 researchAreas:
