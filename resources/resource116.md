@@ -18,12 +18,13 @@ resourceAccess:
 docs:
   - doc: dcb
 poc:
-  - email: mccarths@mail.nih.gov
+  - email: howcrofk@exchange.nih.gov
     name:
-      firstname: Susan
-      lastname: McCarthy
+      prefix: Dr.
+      firstname: Kevin
+      lastname: Howcroft
       suffix: Ph.D.
-    title: Program Director
-    phone: 240-276-6200
+    title: Chief, Cancer Immunology, Hematology, and Etiology Branch
+    phone: 240-276-6229
 ---
 This core facility provides custom synthesis and distribution of soluble MHC-peptide tetramer reagents that can be used to stain antigen-specific T cells. The facility is supported by a contract from the National Institute of Allergy and Infectious Diseases, with steering committee participation from NCI through DCB.
