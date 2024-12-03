@@ -3,7 +3,7 @@ id: 278
 title: Cancer Complexity Knowledge Portal
 description: >
   This resource provides information about and access to data, research, tools, and publications generated through multiple NCI Division of Cancer Biology Research Programs
-website: https://www.cancercomplexity.synapse.org
+website: https://cancercomplexity.synapse.org
 toolTypes:
   - toolType: lab_tools/protocols
   - toolType: datasets_databases/imaging
@@ -27,6 +27,6 @@ researchTypes:
 docs:
   - doc: dcb
 poc:
-  - email: mc2center@sagebase.org
+    - email: mc2center@sagebase.org
 ---
 This resource provides information about and access to data, research, tools, and publications generated through NCI Division of Cancer Biology Research Programs, including the Cancer Systems Biology Consortium (CSBC), Cancer Tissue Engineering Collaborative (TEC), Cellular Cancer Biology Imaging Research (CCBIR), Metastasis Research network (MetNet), and Physical Sciences - Oncology Network (PS-ON).
