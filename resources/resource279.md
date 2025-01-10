@@ -1,5 +1,5 @@
 ---
-id: 278
+id: 279
 title: Treating Tobacco Use in Cancer Care Settings
 description: >
   Tobacco use should be addressed in every clinical setting where cancer is treated. This webpage shares helpful cessation resources for healthcare systems and providers to assist people after a cancer diagnosis. 
