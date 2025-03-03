@@ -21,11 +21,8 @@ resourceAccess:
 docs:
   - doc: dctd
 poc:
-  - email: nbollinger@chtn.org
-    name:
-      firstname: Nicole
-      lastname: Bollinger
+  - email: kradin@chtn.org
     title: Central Coordinator
-    phone: (440) 477-5952
+    phone: (317) 620-1026
 ---
 The CHTN is a unique NCI-supported resource that provides human tissues and fluids from routine procedures to investigators who utilize human biospecimens in their research. Unlike tissue banks, the CHTN works prospectively with each investigator to tailor specimen acquisition and processing to meet their specific project requirements.

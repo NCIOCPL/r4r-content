@@ -4,7 +4,7 @@ title: NCI Metathesaurus (NCIm)
 description: >
    The NCIm is a comprehensive biomedical terminology database that contains 2,000,000 concepts mapped to 4,000,000 terms with 22,000,000 relationships.
   
-website: https://ncim.nci.nih.gov/ncimbrowser/
+website: https://evsexplore-stage.semantics.cancer.gov/evsexplore/welcome?terminology=ncim
 toolTypes:
   - toolType: terminology
 resourceAccess:
